@@ -1,0 +1,8 @@
+Jan 21st
+today, we look to start an analysis to see which assembly configuration results in the best
+genome assembly data for M. bovis reads.
+
+I want to take 100 random genomes from the dataset, assemble them in 4 different ways and then compare their
+cumulative z-scores. This will be a supplement to the research I ultimately work on.
+
+The scripts I designed will be used to assemble the reads using SPAdes and multi-proccessing. 
