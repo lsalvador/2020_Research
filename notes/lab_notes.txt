@@ -1,8 +1,25 @@
-Jan 21st
+#Jan 21st
 today, we look to start an analysis to see which assembly configuration results in the best
 genome assembly data for M. bovis reads.
 
 I want to take 100 random genomes from the dataset, assemble them in 4 different ways and then compare their
 cumulative z-scores. This will be a supplement to the research I ultimately work on.
 
-The scripts I designed will be used to assemble the reads using SPAdes and multi-proccessing. 
+The scripts I designed will be used to assemble the reads using SPAdes and multi-proccessing.
+
+set up a github for my 2020 research.
+
+via Liliana, here are some things to do:
+1. Check how many genomes are missing from our repository - compare with the list of 860 isolates
+->
+2. Identify from this list, the isolates chosen for your study
+->
+3. Create script to do the download automatically in R
+->
+4. Download M. bovis genomes from NCBI
+->
+5. Pangenome pipeline…
+-> first step is to figure out how to get the best quality. generate data with QUAST,
+then plot the associated violin plots.
+6. Explore mpi4python on GACRC
+->
