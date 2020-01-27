@@ -11,15 +11,41 @@ set up a github for my 2020 research.
 
 via Liliana, here are some things to do:
 1. Check how many genomes are missing from our repository - compare with the list of 860 isolates
-->
+-> I had 667 isolates in total, liliana had 860. after writing a script, I discovered 658 of the isolates
+I had were shared between me and liliana
 2. Identify from this list, the isolates chosen for your study
-->
+-> I did this and we can find the isolates in the data_i_need.txt file
 3. Create script to do the download automatically in R
-->
+-> Will try to code this tonight
 4. Download M. bovis genomes from NCBI
 ->
 5. Pangenome pipeline…
 -> first step is to figure out how to get the best quality. generate data with QUAST,
 then plot the associated violin plots.
 6. Explore mpi4python on GACRC
-->
+-> Can do the same thing with multiprocessing in python. mpi4py is not available for
+
+#Jan 22nd
+Still working on the tasks Liliana sees as important, which were stated above.
+
+Will try and figure out how to use mpi4py to write parallel applications. trouble is that it is not on
+sapelo2 cluster, so I would have to ask to download it.
+
+in my full data folder, I have 667 pair read genomes. Match the year+ID with the new IDs that Liliana
+was working with. The sequences I need are in the data_i_need.txt file.
+
+#Jan 23rd
+Today, will focus on the timeline for liliana, and coding the script for M. bovis downloads.
+
+#Jan 27th
+today, there are 3 tasks that need to be done before I can relax.
+1. learn mpi4py
+-> I can test my scripts on the cluster at least, but right now I am getting errors that I can't easily
+answer. hopefully the GACRC will get back to me soon about how to avoid
+2. web scrape SRA selector tool using R selenium.
+-> So Liliana wants a tool that can check the database and see if there is anything new? and if not,
+just report nothing is new. Otherwise, update the table. I will spend time on this tonight.
+3. Start the outline for Pangenome Review
+-> Push to tonight or tomorrow. If tomorrow I'll make this the first thing I do.
+4. Try to change the names I don't have to the sequence names.
+-> Will have to wait for liliana to give me the proper names.

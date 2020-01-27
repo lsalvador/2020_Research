@@ -10,10 +10,11 @@ import time
 #assembly program to use
 def spades_run(tuple):
      assemble_dir = re.sub(".R1.*.fastq","_assembly",tuple[0])
-     os.system("spades.py -1 {} -2 {} -o {}".format(tuple[0],tuple[1],assemble_dir))
+     contig_file = re.sub(".R1.*.fastq",".contigs.fa",tuple[0])
+     os.system("spades.py -1 {} -2 {} -o {} --only-assembler".format(tuple[0],tuple[1],assemble_dir))
      os.chdir(assemble_dir)
      os.system("mv contigs.fasta {}".format(contig_file))
-     os.chdir("..")
+     os.chdir("../")
 
 print("No. of CPUs: {}".format(multiprocessing.cpu_count()))
 

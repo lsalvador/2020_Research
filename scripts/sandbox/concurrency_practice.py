@@ -1,3 +1,4 @@
+from mpi4py import MPIPoolExecutor
 from multiprocessing import Pool
 import time
 
@@ -20,5 +21,10 @@ def implementation_2():
     p = Pool(3)
     p.map(time_proof,[1,2,3,4,5,6])
 
+# Implementation 3: Run using an MPI pool
+def implementation_3():
+    with MPIPoolExecutor(max_workers=3) as executor:
+        futures = executor.map(time_proof,[1,2,3,4,5,6])
+
 #CALL COMMAND
-implementation_2()
+implementation_3()
