@@ -8,17 +8,17 @@ import os # use in order to call commands from terminal script is called in
 import re # regular expressions
 
 #1
-my_data = open("../analysis/bTB_pangenome/full_data.txt","r")
-lili_data = open("../analysis/bTB_pangenome/Lili_full_data.txt","r")
+my_data = open("../analysis/bTB_pangenome/data_to_match.txt","r")
+lili_data = open("../analysis/bTB_pangenome/available_MI_data.csv","r")
 
 my_list = []
 lili_list = []
 
 #2
 for my_line in my_data:
-    my_list.append(my_line)
+    my_list.append(my_line.strip())
 for lili_line in lili_data:
-    lili_list.append(lili_line)
+    lili_list.append(lili_line.strip())
 
 #3
 ID_set = []
@@ -29,13 +29,14 @@ for item in my_list:
     ID = "{}{}".format(elem[0],elem[1])
     ID_set.append(ID)
 
+sequence_dict = dict(zip(ID_set,my_list))
 #for i in ID_set:
 #    print(i)
 
 for elem in lili_list:
-    for id in ID_set:
-        if id == elem.split("_")[1]:
-            data_we_have.add(elem.strip())
+    for id,name in sequence_dict.items():
+        if id == elem.split(",")[1].split("MI")[0]:
+            data_we_have.add("{},{}".format(elem,name))
         else:
             continue
 

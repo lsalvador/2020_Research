@@ -49,3 +49,84 @@ just report nothing is new. Otherwise, update the table. I will spend time on th
 -> Push to tonight or tomorrow. If tomorrow I'll make this the first thing I do.
 4. Try to change the names I don't have to the sequence names.
 -> Will have to wait for liliana to give me the proper names.
+
+#Jan 29th
+The big task for today is to map the original sequence file names to the naming convention that Liliana
+has. but we have to wait for the cluster to come up again for that to happen.
+
+In the meantime, I still can read and write for the pangenome review. also, there is additional
+work that should be done to generalize my web scraping tool, SRA_scraper.r
+
+#Jan 30th
+Notes for the paper: A Pan-Genomic Approach to Understand the Basis of Host Adaptation in Achromobacter
+
+Background:
+Bacteria in the Achromobacter genus are considered emerging opportunistic pathogens. This means
+that the bacteria can be infectious in the presence of a unique opportunity such as immuno-compromised individual.
+Specifically, these bacteria are opportunistic in the sense that it looks for hosts that suffer from
+Cystic Fibrosis Lung Infection.
+
+The Genomes of this genus range from 6-7 Mb, and are found naturally in the environment. One thing
+that makes this bacteria interesting but scary at the same time is that it can easily acquire antibiotic
+resistance (The paper that mentions this phenomena reports that this happens through HGT).
+
+The knowledge gap presented in this paper deals with the fact that there has not yet been a proper
+comparative genomic studies of the species within the Achromobacter genus, and the taxonomy of these
+species was not resolved either. In order to address these questions, pangenomics was utilized to 1)
+figure out the histories of genus species and 2) Identify the genes that associate with virulence,
+antimicrobial resistance, and host adaptation.
+
+Methods:
+4 personally sequences Achromobacter were provided by the researchers. They were fragmented,
+amplified using PCR and sequenced using Illumina TruSeq to give 300 length pair reads. The dataset was
+assembled using a de-novo approach, which means that the reads were compared to one-another to
+see how well they overlap. The hope is to find contiguous sequences from the overlap of the reads
+and treat this as the genome to do analysis on. The rest of the data came from online repositories.
+
+The point of generating the assemblies is to prepare them for pangenomic analysis. The pan genome consists
+of the core and accessory genome. The core genome contains genes that are conserved by virtually all of
+the samples that are being compared, while the accessory genome has genes that are variable in presence.
+At the time of this research in 2017, contemporary popular tools such as Roary and even the newer tool
+PIRATE have not been published. To define the core and accessory genome, the researchers used a tool
+called SaturnV (Which I suspect was just because the author of the paper worked in the same school as
+the author of the pangenome inference software).
+
+Once the Core genome was inferred, the standard way to analyze the data is to first find the best substitution
+model (Here, they used JModelTest v2) and then use the model to infer a maximum likelihood tree with bootstrap
+support. RAxML with 1000 bootstraps were used (Is this overkill? wouldn't 100 bootstraps more or less
+say the same thing?) The resulting tree is then midpoint rooted.
+
+Average Nucleotide Identity (or ANI) was computed between all the genome pairs in this analysis.
+ANI is a metric to compute how likely two samples are apart of the same species. Typically,
+the ANI values between genomes of the same species are above 95% (e.g., Escherichia coli).
+Values below 75% are not to be trusted.
+
+Next, it was important to the study to address the goal of seeing which genomic elements associated
+with pathogenecity. Genes that were under positive selection were inferred (dN/dS > 1) using the HyPhy
+implementation of aBSREL (adaptive Branch-Site Random Effects Likelihood). This method s an improved
+version of the commonly-used "branch-site" models, which are used to test if positive selection
+has occurred on a proportion of branches. As such, aBSREL models both site-level
+and branch-level ω heterogeneity.
+
+The other part of the pan-genome involves the accessory genome, which includes the genes that are
+variable in presence amongst all the samples. Presence or Absence of inferred genes was held in
+a binary matrix. Genes that were were unique to a given genome were expunged. The similarity in
+accessory genome composition was assessed using PCA. A technique called discriminant analysis of
+principle components known as DAPC was used to determine the genes that distinguish between two classes
+of isolates (Clinical and Non Clinical)
+
+Another important thing to consider when analyzing the pangenome is to know if the pan genome is
+opened or closed. An open pangenome means that the number of genes will increase as long
+as new genomes are added to the analysis. a closed pangenome means that the pangenome of a species
+is set once a certain threshold of genomes has been added. To establish the nature of the Achromobacter
+pangenome, the no. of genes were calculated after successive addition of random genomes until 29 genomes
+were compared. this procedure was repeated 10 times to generate two plots, 1) how many total Genes
+are added with additional genomes and 2) how many new genes are added with additional genomes.
+
+This won't be extremely applicable to my research, but I'll briefly gloss over the identification
+of the Mobilome and the Resistome. The Mobilome is basically the genetic elements in the genome that are
+due to horizontal gene transfer. this can be studied by doing meta-genomics on the isolates and seeing Which
+regions correspond to foreign inserts. In this paper, they used NCBI BLAST (MegaBLAST) against the
+NCBI nucleotide database to see which elements were there due to HGT. The Resistome is basically genes
+that are important for antimicrobial resistance. Simply put they used BLASTp against the
+Comprehensive Antibiotic Resistance Database (CARD).
