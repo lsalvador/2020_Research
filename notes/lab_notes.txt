@@ -130,3 +130,33 @@ regions correspond to foreign inserts. In this paper, they used NCBI BLAST (Mega
 NCBI nucleotide database to see which elements were there due to HGT. The Resistome is basically genes
 that are important for antimicrobial resistance. Simply put they used BLASTp against the
 Comprehensive Antibiotic Resistance Database (CARD).
+
+#Feb 2nd
+Just for my cross referencing.
+
+So Liliana wants to know what types of data we have in sapelo2. I figured that out by matching
+the read ID with the naming convention that we have. Liliana had a naming convention of 860,
+and we had 667 isolates. Doing my method, we were able to get 658 that had similarity from the list
+Liliana had.
+
+Now, I'm trying to see which data I subsampled is represented in the available data.
+I sampled 359 samples. This is a bit harder for some reason, and I am only able
+to recover a portion of this 359, but not the whole thing. With the frustration, I'd rather just
+do something simpler
+
+#Feb 4th
+worked with nCov working group to create a network for the airport travel. Successfully made a
+incidence grap but will work further to try and make informative visualizations
+
+Spoke with Liliana yesterday and we think to test the methods we should use the Elk paper
+dataset. will compile them now. Will be running over night.
+
+#Feb 5th
+Today will be the day we assembly the Michigan data. I have 126 isolates collected from lab_shared.
+will trim reads first, using sickle. (Would like to finish this today at least)
+
+We also have a reading and writing session today at 1:30 - 3:30 today. After that I will be meeting
+with Tierney to go over what is in the data.
+
+From 12:10 - 1:20 I will need to print out papers that deal with how to analyze flight data
+in the context of pathogen transmission.  

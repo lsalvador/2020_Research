@@ -37,8 +37,8 @@ sequence_dict = dict(zip(ID_set,subset_list))
 
 for elem in avail_list:
     for id,name in sequence_dict.items():
-        if fuzz.ratio(id, elem.split(",")[1]) > 93.9:
-            data_we_have.add("{},{}".format(elem.strip(),name.strip()))
+        if fuzz.ratio(id, elem.split(",")[1]) > 93.99:
+            data_we_have.add("{},{}".format(elem,name))
         else:
             continue
 
