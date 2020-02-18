@@ -59,7 +59,7 @@ work that should be done to generalize my web scraping tool, SRA_scraper.r
 
 #Jan 30th
 Notes for the paper: A Pan-Genomic Approach to Understand the Basis of Host Adaptation in Achromobacter
-
+(Jeukens, J., et al., 2017)
 Background:
 Bacteria in the Achromobacter genus are considered emerging opportunistic pathogens. This means
 that the bacteria can be infectious in the presence of a unique opportunity such as immuno-compromised individual.
@@ -159,4 +159,95 @@ We also have a reading and writing session today at 1:30 - 3:30 today. After tha
 with Tierney to go over what is in the data.
 
 From 12:10 - 1:20 I will need to print out papers that deal with how to analyze flight data
-in the context of pathogen transmission.  
+in the context of pathogen transmission.
+
+#Feb 6th
+Spending the day creating the trimmed files dataset. separating them from the untrimmed data /trimmed
+and in /raw respectively. will compare the violin plots of the two approaches.
+
+#Feb 9th
+Notes for the paper: Coinfinder: Detecting Significant Associations and Dissociations in Pangenomes
+
+Background:
+Pangenomes consist of a core genome (genes common across all strains) and a accessory genome (genes variable
+in presence.) Since genes that are present in the accessory genome are by definition not important for the
+organism (bacteria specifically for this presentation) then their ultimate function is not well known and
+open to debate. On a personal note, these genes have been used to account for features of the samples They
+represent, detecting features of antibiotic resistance, mobile elements, and pathogenecity (Jeukens, J., et al., 2017)
+so there is research that shows how the accessory genome is present.
+
+The paper states that there are expected to be genes that co-occur/co-dissociate with each other
+moreso than would be expected. These genes could work together to improve fitness within a host
+or when they are present together, they could potentially impact fitness in a negative way. In
+order to fully understand the accessory genome, untangling the gene-to-gene interactions that are
+statistically significant given our dataset.
+
+Previous methods were developed to untangle this mystery of co-occurence in some respects. tools
+such as SparCC is used to find how correlated microbiotic species are in an environment (agnostic of pangenome)
+NetShift also studies correlations of microbiotic species, but tries to make distinctions between disease
+states and healthy states. Scoary is developed to associate gene products in the accessory genome with
+associated metadata.
+
+Gene-Gene correlations are also developed such as CoPAP and Pantagruel, but these methods are
+based on phylogenetic methods, and are not able to find gene-gene dissociations. This is what
+Coinfinder looks to address the creation of a method that can fully tease apart gene-gene interactions
+within a computed accessory genome.
+
+Implementation:
+Coinfinder takes in as input a gene_presence_absence.csv that is outputted by popular pangenomic
+inference softwares such as Roary and PIRATE. additionally, a core genome tree (or ribosomal RNA)
+should be included aswell.
+
+The data is pruned to remove core genes and low abundance genes (from a user defined cutoff).
+Coinfinder has an association mode and a dissociation mode. for the association mode, Coinfinder
+establishes if gene i and gene j are observed together more than what is statistically expected.
+
+Probability for gene i = Pi = Ni/N  (genomes with gene i)/(all genomes)
+
+We compute the theoretical expected number of associations in to be:
+E(ij) = Pi*Pj*N -> how many times should these genes interact given their presence.
+
+The observed amount is defined easily, just count when they are seen together,
+O(ij) = Nij -> the number of genomes that gene i and j are in together.
+
+We have everything we need to compute a correlative statistic and determine significance.
+For this we use a Bonferroni-corrected (reduce the False Positive Rate) binomial exact test
+(how significant is what we observe given what we expect.) The phylogenetic tree can infer if
+this is lineage dependent or lineage independent (the more exciting result).
+
+Output of Coinfinder is a network where nodes are genes, and edges are significant interactions.
+
+Results:
+To test how this tool can be utilized in a pangenomic pipeline, the researchers extracted data from
+the Global Pneumococcal Sequencing Project. 534 Streptococcus pneumoniae specifically.
+prokka -> Roary -> Coinfinder
+
+found 104,9444 associative gene pairs, 98,461 dissociative gene pairs.
+
+Coinfinder was able to recapitulate findings that were previously known, such as:
+In the annotation of S. pneumoniae that we performed here, only 6 genes of the
+ntp operon were annotated successfully: ntpA, ntpB, ntpC, ntpD, ntpG, and ntpK.
+Coinfinder identified consistent co-occurrence relationships between these 6 genes
+
+Were able to find new connections that were not yet produced in previous analyses.
+
+#Feb 12th
+Writing for two hours today, I think I will focus again on working on my IDEAS proposal
+The network project is coming along, I shall write below how I created the data in the R script:
+
+The OAG flight data from January is provided by John Drake
+The county data is made from myself, I googled where the location coresponds to a US county
+The prefecture data comes from Anna, and I filled in two empty slots by hand, Guangzhou and Wainxan.
+
+#Feb 13th
+This is a pretty slow day, but I think I will try and create a python script to automatically run prokka
+using multiprocessing. shouldn't take too much work, just need to refactor some code to get me there
+
+#Feb 17th
+TODO:
+* Pangenome run - DONE
+* QUAST run - Needs to be done in
+* Pangenome review
+
+#Feb 18th
+Move analysis to the /scratch directory, and after finishing move into lab_shared.

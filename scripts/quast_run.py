@@ -2,7 +2,6 @@ import glob
 import os
 import re
 
-
 ###QUAST
 #create a string of contigs to grab stats from
 list_of_contigs = sorted(glob.glob("*.contigs.fa"))

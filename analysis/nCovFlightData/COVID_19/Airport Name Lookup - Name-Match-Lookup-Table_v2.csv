@@ -1,0 +1,315 @@
+airport,airport_type,OpenFlights_Airport_ID,OpenFlights_Name,Name,notes,china,ADM0_country,ADM1_province,ADM2_prefecture
+Manchester International Apt,departure,478,Manchester Airport,,alternative local airport,no,United Kingdom,,
+Pereira,departure,2739,Matecaña International Airport,,,no,Colombia,,
+Tunxi,departure,6387,Tunxi International Airport,,,yes,China,Anhui Province,Huangshan
+Doha,departure,11051,Hamad International Airport,,,no,Qatar,,
+Helsinki,departure,421,Helsinki Vantaa Airport,,could also be Helsinki Malmi Airport; two separate airports,no,Finland,,
+Lanzhou Apt,departure,3378,Lanzhou Zhongchuan Airport,,,yes,China,Gansu province,Lanzhou
+Delhi,departure,3093,Indira Gandhi International Airport,,could be Safdarjung Airport; Safdarjung is not the international airport,no,India,,
+Changchun,departure,4380,Longjia Airport,,,yes,China,Jilin Province,Changchun
+Jinghong,departure,3381,Xishuangbanna Gasa Airport,,,yes,China,Yunnan Province,Xishuangbanna Dai Autonomous Prefecture
+Ji an,departure,6964,Jinggangshan Airport,,,yes,China,Jiangxi Province,Ji'an
+Jinan,departure,4108,Yaoqiang Airport,,,yes,China,Shandong Province,Jinan
+Linyi,departure,6385,Shubuling Airport,,,yes,China,Shandong Province,Linyi
+Luxi,departure,6376,Mangshi Airport,,,yes,China,Yunnan Province,Dehong Dai and Jingpo Autonomous Prefecture
+Istanbul,departure,1701,Sabiha Gökçen International Airport,,"multiple international airports, could be Atatürk International Airport; ",no,Turkey,,
+Santiago,departure,2663,Eulogio Sánchez Airport,,,no,Chile,,
+Victoria International Apt,departure,8224,Victoria Airport,,,no,Canada,,
+Beef Island,departure,2903,Terrance B. Lettsome International Airport,,,no,British Virgin Islands,,
+Salvador,departure,2621,Deputado Luiz Eduardo Magalhães International Airport,,,no,Brazil,,
+St Maarten,departure,2899,Princess Juliana International Airport,,,no,Netherlands Antilles,,
+Georgetown,departure,4304,Cheddi Jagan International Airport,,,no,Guyana,,
+Taipei Chiang Kai Shek Intl Apt,departure,2276,Taiwan Taoyuan International Airport,,,no,Taiwan,,
+Guilin,departure,3372,Guilin Liangjiang International Airport,,,yes,China,Guangxi Zhuang Autonomous Region,Guilin
+Leon/Guanajuato,departure,1815,Del Bajío International Airport,,,no,Mexico,,
+Koror,departure,2256,Babelthuap Airport,,,no,Palau,,
+La Paz,departure,1816,Manuel Márquez de León International Airport,,,no,Mexico,,
+Liberia,departure,1881,Daniel Oduber Quiros International Airport,,,no,Costa Rica,,
+Managua,departure,1863,Augusto C. Sandino (Managua) International Airport,,,no,Nicaragua,,
+Nassau International Apt,departure,1953,Lynden Pindling International Airport,,,no,Bahamas,,
+San Jose Cabo,departure,1840,Los Cabos International Airport,,,no,Mexico,,
+Merida,departure,1819,Licenciado Manuel Crescencio Rejon Int Airport,,,no,Mexico,,
+Warsaw,departure,679,Warsaw Chopin Airport,,could also be Barbice,no,Poland,,
+Lushan,departure,6381,Jiujiang Lushan Airport,,,yes,China,Jiangxi Province,Jiujiang
+Cairo,departure,1128,Cairo International Airport,,,no,Egypt,,
+Changsha,departure,3371,Changsha Huanghua International Airport,,,yes,China,Hunan Province,Changsha
+Manaus,departure,2551,Eduardo Gomes International Airport,,two other local airports,no,Brazil,,
+Anqing,departure,6427,Anqing Tianzhushan Airport,,,yes,China,Anhui Province,Anqing
+Anshan,departure,9849,Anshun Huangguoshu Airport,,,yes,China,Guizhou Province,Anshun
+Baoshan,departure,7505,Baoshan Yunduan Airport,,,yes,China,Yunnan Province,Baoshan
+Baotou,departure,6346,Baotou Airport,,,yes,China,Inner Mongolia Autonomous Region,Baotou
+BAYANNUR,departure,8630,Bayannur Tianjitai Airport,,,yes,China,Inner Mongolia Autonomous Region,Bayannur
+Beihai,departure,6351,Beihai Airport,,,yes,China,Guangxi Zhuang Autonomous Region,Beihai
+Beijing Capital Apt,departure,3364,Beijing Capital International Airport,,,yes,China,Beijing Municipality,Beijing Municipality
+Changde,departure,13478,Chengde Puning Airport,,,yes,China,Hebei Province,Chengde
+Changzhi,departure,6343,Changzhi Airport,,,yes,China,Shanxi Province,Changzhi
+Changzhou,departure,4109,Changzhou Benniu Airport,,,yes,China,Jiangsu Province,Changzhou
+Chengdu,departure,3395,Chengdu Shuangliu International Airport,,,yes,China,Sichuan Province,Chengdu
+Chongqing,departure,3393,Chongqing Jiangbei International Airport,,,yes,China,Chongqing Municipality,Chongqing Municipality
+Dali City,departure,4054,Dali Airport,,,yes,China,Yunnan Province,Dali Bai Autonomous Prefecture
+Dalian,departure,3404,Zhoushuizi Airport,,,yes,China,Liaoning Province,Dalian
+Dandong,departure,6433,Dandong Airport,,,yes,China,Liaoning Province,Dandong
+DAQING,departure,9845,Saertu Airport,,,yes,China,Heilongjiang Province,Daqing
+Datong,departure,6344,Datong Airport,,,yes,China,Shanxi Province,Datong
+Dayong,departure,6353,Dayong Airport,,,yes,China,Hunan Province,Zhangjiajie
+Diqing,departure,6375,Diqing Airport,,,yes,China,Yunnan Province,Dêqên Tibetan Autonomous Prefecture
+Dongsheng,departure,6434,Ordos Ejin Horo Airport,,,yes,China,Inner Mongolia Autonomous Region,Ordos
+Dongying,departure,4145,Dongying Shengli Airport,,,yes,China,Shandong Province,Dongying
+Enshi,departure,6358,Enshi Airport,,,yes,China,Hubei Province,Enshi Tujia and Miao Autonomous Prefecture
+Fuyang,departure,7503,Fuyang Xiguan Airport,,,yes,China,Anhui Province,Fuyang
+Fuzhou,departure,3385,Fuzhou Changle International Airport,,,yes,China,Jiangxi Province,Fuzhou
+Ganzhou,departure,6379,Ganzhou Airport,,,yes,China,Jiangxi Province,Ganzhou
+Guiyang,departure,4120,Haikou Meilan International Airport,,,yes,China,Hainan Province,Haikou
+Haikou,departure,3372,Guilin Liangjiang International Airport,,,yes,China,Guangxi Zhuang Autonomous Region,Guilin
+Hailar,departure,3366,Dongshan Airport,,,yes,China,Inner Mongolia Autonomous Region,Hulunbuir
+Hangzhou,departure,3386,Hangzhou Xiaoshan International Airport,,,yes,China,Zhejiang Province,Hangzhou
+Hanzhong,departure,6364,Hanzhong Chenggu Airport,,,yes,China,Zhejiang Province,Hangzhou
+Harbin,departure,3400,Taiping Airport,,,yes,China,Heilongjiang Province,Harbin
+Hefei,departure,3389,Hefei Luogang International Airport,,,yes,China,Anhui Province,Hefei
+Hengyang,departure,10942,Hengyang Nanyue Airport,,,yes,China,Hunan Province,Hengyang
+Hohhot,departure,6345,Baita International Airport,,,yes,China,Inner Mongolia Autonomous Region,Hohhot
+Hong Kong International Apt,departure,3077,Hong Kong International Airport,,,yes,China,Hong Kong Special Administrative Region,Hong Kong Special Administrative Region
+Huangyan,departure,6384,Huangyan Luqiao Airport,,,yes,China,Heilongjiang Province,Shuangyashan
+Huizhou,departure,7458,Huizhou Airport,,,yes,China,Guangdong Province,Huizhou
+Jiamusi,departure,6411,Jiamusi Airport,,,yes,China,Heilongjiang Province,Jiamusi
+Jiayuguan,departure,6432,Jiayuguan Airport,,,yes,China,Gansu province,Jiayuguan
+Jingdezhen,departure,6380,Jingdezhen Airport,,,yes,China,Jiangxi Province,Jingdezhen
+Jining,departure,6944,Jining Qufu Airport,,,yes,China,Shandong Province,Jining
+Jinjiang,departure,6386,Quanzhou Jinjiang International Airport,,,yes,China,Fujian Province,Quanzhou
+Karamay,departure,6408,Karamay Airport,,,yes,China,Xinjiang Uygur Autonomous Region,Karamay
+Kashi,departure,3397,Kashgar Airport,,,yes,China,Xinjiang Uygur Autonomous Region,Kashi Prefecture
+Korla,departure,6407,Korla Airport,,,yes,China,Xinjiang Uygur Autonomous Region,Bayingolin Mongolia Autonomous Prefecture
+Kunming,departure,3382,Kunming Changshui International Airport,,,yes,China,Yunnan Province,Kunming
+Lhasa,departure,4097,Lhasa Gonggar Airport,,,yes,China,Tibet Autonomous Region,Lhasa
+Lianyungang,departure,6383,Lianyungang Airport,,,yes,China,Jiangsu Province,Lianyungang
+Lijiang City,departure,4033,Lijiang Airport,,,yes,China,Yunnan Province,Lijiang
+Liuzhou,departure,6356,Liuzhou Bailian Airport,,,yes,China,Guangxi Zhuang Autonomous Region,Liuzhou
+Luoyang,departure,4148,Luoyang Airport,,,yes,China,Henan Province,Luoyang
+Luzhou,departure,6399,Luzhou Airport,,,yes,China,Sichuan Province,Luzhou
+Meixian,departure,6354,Meixian Airport,,,yes,China,Guangdong Province,Meizhou
+Mian Yang,departure,6400,Mianyang Airport,,,yes,China,Sichuan Province,Mianyang
+Mudanjiang,departure,3402,Mudanjiang Hailang International Airport,,,yes,China,Heilongjiang Province,Mudanjiang
+Nanchang,departure,3384,Nanchang Changbei International Airport,,,yes,China,Jiangxi Province,Nanchang
+Nanchong,departure,6401,Nanchong Airport,,,yes,China,Sichuan Province,Nanchong
+Nanjing,departure,3388,Nanjing Lukou Airport,,,yes,China,Jiangsu Province,Nanjing
+Nanning,departure,3373,Nanning Wuxu Airport,,,yes,China,Guangxi Zhuang Autonomous Region,NanNing
+Nantong,departure,,n/a,Nantong Xingdong Airport,,yes,China,Jiangsu Province,Nantong
+Nanyang,departure,6359,Nanyang Jiangying Airport,,,yes,China,Henan Province,Nanyang
+Ningbo,departure,3387,Ningbo Lishe International Airport,,,yes,China,Zhejiang Province,Ningbo
+Qingdao,departure,3390,Liuting Airport,,,yes,China,Shandong Province,Qingdao
+Qiqihar,departure,6413,Qiqihar Sanjiazi Airport,,,yes,China,Heilongjiang Province,Qiqihar
+Sanya,departure,4030,Sanya Phoenix International Airport,,,yes,China,Hainan Province,Sanya
+Shanghai Hongqiao Apt,departure,3391,Shanghai Hongqiao International Airport,,,yes,China,Shanghai Municipality,Shanghai Municipality
+Shanghai Pu Dong Apt,departure,3406,Shanghai Pudong International Airport,,,yes,China,Shanghai Municipality,Shanghai Municipality
+Shantou,departure,4302,Jieyang Chaoshan International Airport,,,yes,China,Guangdong Province,Shantou
+Shenyang,departure,12057,Shenyang Dongta Airport,,,yes,China,Liaoning Province,Shenyang
+Shenzhen,departure,3374,Shenzhen Bao'an International Airport,,,yes,China,Guangdong Province,Shenzhen
+Shijiazhuang,departure,6347,Shijiazhuang Daguocun International Airport,,,yes,China,Hebei Province,Shijiazhuang
+Taiyuan,departure,3369,Taiyuan Wusu Airport,,,yes,China,Shanxi Province,Taiyuan
+Tianjin,departure,3368,Tianjin Binhai International Airport,,,yes,China,Tianjin Municipality,Tianjin Municipality
+Tonghua,departure,9854,Tonghua Sanyuanpu Airport,,,yes,China,Jilin Province,Tonghua
+Tongliao,departure,6348,Tongliao Airport,,,yes,China,Inner Mongolia Autonomous Region,Tongliao
+Ulanhot,departure,6349,Ulanhot Airport,,,yes,China,Inner Mongolia Autonomous Region,Hinggan League
+Urumqi,departure,3399,Ürümqi Diwopu International Airport,,,yes,China,Xinjiang Uygur Autonomous Region,Ürümqi
+Wanxian,departure,6403,Wanxian Airport,,,yes,China,Sichuan Province,Wanxian
+Weifang,departure,6388,Weifang Airport,,,yes,China,Shandong Province,Weifang
+Weihai,departure,6389,Weihai Airport,,,yes,China,Shandong Province,Weihai
+Wenzhou,departure,6392,Wenzhou Longwan International Airport,,,yes,China,Zhejiang Province,Wenzhou
+Wuhan,departure,3376,Wuhan Tianhe International Airport,,,yes,China,Hubei Province,Wuhan
+Wuxi,departure,6390,Sunan Shuofang International Airport,,,yes,China,Jiangsu Province,Wuxi
+Wuyishan,departure,6391,Nanping Wuyishan Airport,,,yes,China,Fujian Province,Nanping
+Wuzhou,departure,6744,Wuzhou Changzhoudao Airport,,,yes,China,Guangxi Zhuang Autonomous Region,Wuzhou
+Xi an Xianyang Apt,departure,3379,Xi'an Xianyang International Airport,,,yes,China,Shaanxi Province,Xi'an
+Xiamen,departure,3383,Xiamen Gaoqi International Airport,,,yes,China,Fujian Province,Xiamen
+Xiangfan,departure,6360,Xiangyang Liuji Airport,,,yes,China,Hubei Province,Xiangyang
+Xichang,departure,3396,Xichang Qingshan Airport,,,yes,China,Sichuan Province,Liangshan Yi Autonomous Prefecture
+Xining,departure,6366,Xining Caojiabu Airport,,,yes,China,Qinghai Province,Xining
+Xuzhou,departure,4149,Xuzhou Guanyin Airport,,,yes,China,Jiangsu Province,Xuzhou
+Yancheng,departure,6393,Yancheng Airport,,,yes,China,Jiangsu Province,Yancheng
+Yanji,departure,6414,Yanji Chaoyangchuan Airport,,,yes,China,Jilin Province,Yanbian Korean Autonomous Prefecture
+Yantai,departure,3392,Yantai Laishan Airport,,,yes,China,Shandong Province,Yantai
+Yibin,departure,4110,Yibin Caiba Airport,,,yes,China,Sichuan Province,Yibin
+Yichang,departure,6361,Yichang Sanxia Airport,,,yes,China,Hubei Province,Yichang
+YICHUN SHI AIRPORT,departure,9107,Yichun Mingyueshan Airport,,,yes,China,Jiangxi Province,Yichun
+Yinchuan,departure,4085,Yinchuan Airport,,,yes,China,Ningxia Hui Autonomous Region,Yinchuan
+Yining,departure,6409,Yining Airport,,,yes,China,Xinjiang Uygur Autonomous Region,Ili Kazak Autonomous Prefecture
+Yiwu,departure,6394,Yiwu Airport,,,yes,China,Zhejiang Province,Jinhua
+Yulin,departure,6368,Yulin Yuyang Airport,,,yes,China,Shaanxi Province,Yulin
+YUNCHENG GUANGONG,departure,6430,Yuncheng Guangong Airport,,,yes,China,Shanxi Province,Yuncheng
+Zhanjiang,departure,6357,Zhanjiang Airport,,,yes,China,Guangdong Province,Zhanjiang
+Zhengzhou,departure,3375,Zhengzhou Xinzheng International Airport,,,yes,China,Henan Province,Zhengzhou
+Zhoushan,departure,6395,Zhoushan Airport,,,yes,China,Zhejiang Province,Zhoushan
+Zhuhai,departure,6355,Zhuhai Jinwan Airport,,,yes,China,Guangdong Province,Zhuhai
+Abu Dhabi International Apt,departure,2179,Abu Dhabi International Airport,,,no,United Arab Emirates,,
+Addis Ababa,departure,1107,Addis Ababa Bole International Airport,,,no,Ethiopia,,
+Aguascalientes,departure,1785,Jesús Terán Paredo International Airport,,,no,Mexico,,
+Amman Queen Alia International Apt,departure,2170,Queen Alia International Airport,,,no,Jordan,,
+Amsterdam,departure,580,Amsterdam Airport Schiphol,,,no,Netherlands,,
+Antigua,departure,2874,V.C. Bird International Airport,,,no,Antigua and Barbuda,,
+Aruba,departure,2895,Queen Beatrix International Airport,,,no,Aruba,,
+Auckland International Apt,departure,2006,Auckland International Airport,,,no,New Zealand,,
+Barbados,departure,2875,Sir Grantley Adams International Airport,,,no,Barbados,,
+Barcelona Apt,departure,1218,Barcelona International Airport,,,no,Spain,,
+Barranquilla,departure,2710,Ernesto Cortissoz International Airport,,,no,Colombia,,
+Belize City Goldson Intl Apt,departure,1957,Philip S. W. Goldson International Airport,,,no,Belize,,
+Berlin Tegel Apt,departure,343,Berlin-Tempelhof International Airport,,,no,Germany,,
+Bermuda International,departure,4069,L.F. Wade International International Airport,,,no,Bermuda,,
+Bogota,departure,2709,El Dorado International Airport,,,no,Colombia,,
+Brasilia,departure,2531,Presidente Juscelino Kubistschek International Airport,,,no,Brazil,,
+Brisbane,departure,3317,Brisbane Archerfield Airport,,,no,Australia,,
+Brussels National Airport,departure,302,Brussels Airport,,,no,Belgium,,
+Budapest,departure,11133,Tököl Airport,,,no,Hungary,,
+Buenos Aires Ministro Pistarini,departure,3988,Ministro Pistarini International Airport,,,no,Argentina,,
+Busan,departure,2372,Gimhae International Airport,,,no,South Korea,,
+Calgary,departure,178,Calgary International Airport,,,no,Canada,,
+Cancun,departure,1852,Cancún International Airport,,,no,Mexico,,
+Cartagena,departure,2495,Hermes Quijada International Airport,,,no,Colombia,,
+Chihuahua,departure,1797,General Roberto Fierro Villalobos International Airport,,,no,Mexico,,
+Copenhagen Apt,departure,609,Copenhagen Kastrup Airport,,,no,Denmark,,
+Cozumel,departure,1800,Cozumel International Airport,,,no,Mexico,,
+Curacao,departure,2897,Hato International Airport,,,no,Netherlands Antilles,,
+Dubai,departure,8076,Al Maktoum International Airport,,,no,United Arab Emirates,,
+Dublin,departure,599,Dublin Airport,,,no,Ireland,,
+Edmonton International Apt,departure,49,Edmonton International Airport,,,no,Canada,,
+Fort de France,departure,2878,Martinique Aimé Césaire International Airport,,,no,Martinique,,
+Frankfurt International Apt,departure,340,Frankfurt am Main Airport,,,no,Germany,,
+Freeport,departure,5579,Sindal Airport,,,no,Denmark,,
+Fukuoka,departure,2305,Fukuoka Airport,,,no,Japan,,
+Geneva,departure,1665,Geneva Cointrin International Airport,,,no,Switzerland,,
+Grand Cayman Island,departure,1926,Owen Roberts International Airport,,,no,Cayman Islands,,
+Grenada,departure,2882,Point Salines International Airport,,,no,Grenada,,
+Guadalajara,departure,1804,Don Miguel Hidalgo Y Costilla International Airport,,,no,Mexico,,
+Guangzhou,departure,3370,Guangzhou Baiyun International Airport,,,yes,China,Guangdong Province,Guangzhou
+Guatemala City,departure,1767,La Aurora Airport,,,no,Guatemala,,
+Guayaquil,departure,2673,José Joaquín de Olmedo International Airport,,,no,Ecuador,,
+Halifax International Apt,departure,73,Halifax / Stanfield International Airport,,,no,Canada,,
+Havana,departure,1909,José Martí International Airport,,,no,Cuba,,
+Hermosillo,departure,1807,General Ignacio P. Garcia International Airport,,,no,Mexico,,
+Jeddah,departure,2072,King Abdulaziz International Airport,,,no,Israel,,
+Kelowna,departure,87,Kelowna International Airport,,,no,Canada,,
+Kiev Borispol Apt,departure,2939,Boryspil International Airport,,,no,Ukraine,,
+Kingston Norman Manley Intl Apt,departure,1779,Norman Manley International Airport,,,no,Jamaica,,
+Lima,departure,2789,Jorge Chávez International Airport,,,no,Peru,,
+Lisbon,departure,1638,Humberto Delgado Airport (Lisbon Portela Airport),,,no,Portugal,,
+London Gatwick Apt,departure,502,London Gatwick Airport,,,no,United Kingdom,,
+London Heathrow Apt,departure,507,London Heathrow Airport,,,no,United Kingdom,,
+Madrid Barajas Apt,departure,1229,Adolfo Suárez Madrid–Barajas Airport,,,no,Spain,,
+Manila Ninoy Aquino International Apt,departure,2397,Ninoy Aquino International Airport,,,no,Philippines,,
+Mazatlan,departure,1826,General Rafael Buelna International Airport,,,no,Mexico,,
+Medellin Jose Maria Cordova Intl,departure,2729,Enrique Olaya Herrera Airport,,,no,Colombia,,
+Melbourne Airport,departure,3671,Melbourne International Airport,,,no,Australia,,
+Mexico City International Apt,departure,1824,Licenciado Benito Juarez International Airport,,,no,Mexico,,
+Milan Malpensa Apt,departure,1524,Malpensa International Airport,,,no,Italy,,
+Montego Bay,departure,1780,Sangster International Airport,,,no,Jamaica,,
+Monterrey General Mariano Escobedo Apt,departure,1825,General Mariano Escobedo International Airport,,,no,Mexico,,
+Montevideo,departure,2813,Angel S Adami Airport,,,no,Uruguay,,
+Montreal Pierre Elliott Trudeau Int Apt,departure,146,Montreal / Pierre Elliott Trudeau International Airport,,,no,Canada,,
+Morelia,departure,1821,General Francisco J. Mujica International Airport,,,no,Mexico,,
+Moscow Sheremetyevo Apt,departure,2985,Sheremetyevo International Airport,,,no,Russia,,
+Mumbai,departure,2997,Chhatrapati Shivaji International Airport,,,no,India,,
+Munich International Airport,departure,346,Munich Airport,,,no,Germany,,
+Nadi,departure,1960,Nadi International Airport,,,no,Fiji,,
+Nagoya,departure,3942,Chubu Centrair International Airport,,,no,Japan,,
+Nairobi Jomo Kenyatta International Apt,departure,4059,Jomo Kenyatta International Airport,,,no,Kenya,,
+Oaxaca,departure,1829,Xoxocotlán International Airport,,,no,Mexico,,
+Osaka Kansai International Airport,departure,2334,Osaka International Airport,,,no,Japan,,
+Ottawa McDonald Cartier Intl Apt,departure,100,Ottawa Macdonald-Cartier International Airport,,,no,Canada,,
+Panama City Tocumen Internationl,departure,1871,Tocumen International Airport,,,no,Panama,,
+Papeete,departure,4075,Faa'a International Airport,,,no,French Polynesia,,
+Paris Charles de Gaulle Apt,departure,1382,Charles de Gaulle International Airport,,,no,France,,
+Port au Prince,departure,1897,Toussaint Louverture International Airport,,,no,Haiti,,
+Port of Spain,departure,2902,Piarco International Airport,,,no,Trinidad and Tobago,,
+Providenciales,departure,1754,Providenciales Airport,,,no,Turks and Caicos Islands,,
+Puebla,departure,1831,Hermanos Serdán International Airport,,,no,Mexico,,
+Puerto Plata,departure,1761,Gregorio Luperon International Airport,,,no,Dominican Republic,,
+Puerto Vallarta,departure,1836,Licenciado Gustavo Díaz Ordaz International Airport,,,no,Mexico,,
+Punta Cana,departure,1760,Punta Cana International Airport,,,no,Dominican Republic,,
+Quebec International Airport,departure,111,Quebec Jean Lesage International Airport,,,no,Canada,,
+Queretaro,departure,1838,Querétaro Intercontinental Airport,,,no,Mexico,,
+Quito,departure,2688,Mariscal Sucre International Airport,,,no,Ecuador,,
+Rarotonga,departure,1959,Rarotonga International Airport,,,no,Cook Islands,,
+Reykjavik Keflavik Apt,departure,18,Reykjavik Airport,,,no,Iceland,,
+Rio de Janeiro International Apt,departure,2560,Rio Galeão – Tom Jobim International Airport,,,no,Brazil,,
+Riyadh,departure,2082,King Khaled International Airport,,,no,Saudi Arabia,,
+Roatan,departure,1774,Juan Manuel Galvez International Airport,,,no,Honduras,,
+Rome Fiumicino Apt,departure,1555,Leonardo da Vinci–Fiumicino Airport,,,no,Italy,,
+San Jose Juan Santamaria Apt,departure,1885,Juan Santamaria International Airport,,,no,Costa Rica,,
+San Luis Potosi,departure,1842,Ponciano Arriaga International Airport,,,no,Mexico,,
+San Pedro Sula,departure,1772,Ramón Villeda Morales International Airport,,,no,Honduras,,
+San Salvador,departure,1956,San Salvador Airport,,,no,Bahamas,,
+Santa Cruz Viru Viru International Apt,departure,2771,Viru Viru International Airport,,,no,Chile,,
+Santiago Arturo Merino Benitez,departure,2650,Comodoro Arturo Merino Benítez International Airport,,,no,Chile,,
+Santo Domingo Las Americas Apt,departure,1762,Las Américas International Airport,,,no,Dominican Republic,,
+Sao Paulo Guarulhos Intl Apt,departure,2564,Guarulhos - Governador André Franco Montoro International Airport,,,no,Brazil,,
+Saskatoon,departure,166,Saskatoon John G. Diefenbaker International Airport,,,no,Canada,,
+Seoul Incheon International Airport,departure,3930,Incheon International Airport,,,no,South Korea,,
+Singapore Changi Apt,departure,3316,Singapore Changi Airport,,,no,Singapore,,
+St Kitts,departure,2891,Robert L. Bradshaw International Airport,,,no,Saint Kitts and Nevis,,
+St Lucia Hewanorra Apt,departure,2894,Hewanorra International Airport,,,no,Saint Lucia,,
+Stockholm Arlanda Apt,departure,737,Stockholm-Arlanda Airport,,,no,Sweden,,
+Sydney Kingsford Smith Apt,departure,3361,Sydney Kingsford Smith International Airport,,,no,Australia,,
+Tampico,departure,1848,General Francisco Javier Mina International Airport,,,no,Mexico,,
+Tegucigalpa,departure,1776,Toncontín International Airport,,,no,Honduras,,
+Tel Aviv Ben Gurion International Apt,departure,1590,Ben Gurion International Airport,,,no,Israel,,
+Tokyo Haneda Apt,departure,2359,Tokyo Haneda International Airport,,,no,Japan,,
+Tokyo Narita Apt,departure,2279,Narita International Airport,,,no,Japan,,
+Toronto Lester B Pearson Intl Apt,departure,193,Lester B. Pearson International Airport,,,no,Canada,,
+Torreon,departure,1845,Francisco Sarabia International Airport,,,no,Mexico,,
+Truk,departure,2254,Chuuk International Airport,,,no,Micronesia,,
+Vancouver International Apt,departure,156,Vancouver International Airport,,,no,Canada,,
+Veracruz,departure,1854,General Heriberto Jara International Airport,,,no,Mexico,,
+Vienna,departure,1613,Vienna International Airport,,,no,Austria,,
+Winnipeg International Apt,departure,160,Winnipeg / James Armstrong Richardson International Airport,,,no,Canada,,
+Zurich Airport,departure,1678,Zürich Airport,,,no,Switzerland,,
+"ATLANTA, GA (1704)",arrival,3682,Hartsfield Jackson Atlanta International Airport,,,no,United States,,
+"CHARLOTTE, NC (1512)",arrival,3876,Charlotte Douglas International Airport,,,no,United States,,
+"CHICAGO, IL (3901)",arrival,3830,Chicago O'Hare International Airport,,,no,United States,,
+"DALLAS/FT. WORTH, TX (5501)",arrival,3670,Dallas Fort Worth International Airport,,,no,United States,,
+"DENVER, CO (3307)",arrival,3751,Denver International Airport,,,no,United States,,
+DETROIT METROPLTN AIRPRT (3807),arrival,3645,Detroit Metropolitan Wayne County Airport,,,no,United States,,
+GUAM (3207),arrival,2246,Antonio B. Won Pat International Airport,,,no,Guam,,
+HONOLULU INTL AIRPRT (3205),arrival,3728,Daniel K Inouye International Airport,,,no,United States,,
+HOUSTON INTERCONTL (5309),arrival,3550,George Bush Intercontinental Houston Airport,,,no,United States,,
+JOHN F KENNEDY AIRPORT (4701),arrival,3797,John F Kennedy International Airport,,,no,United States,,
+KONA HI (3206),arrival,3514,Ellison Onizuka Kona International At Keahole Airport,,,no,United States,,
+"LAS VEGAS, NV (2722)",arrival,3877,McCarran International Airport,,,no,United States,,
+"LOGAN AIRPORT, MA (0417)",arrival,3448,General Edward Lawrence Logan International Airport,,,no,United States,,
+LOS ANGELES INT ARPT (2720),arrival,3484,Los Angeles International Airport,,,no,United States,,
+MIAMI INTL AIRPORT (5206),arrival,3576,Miami International Airport,,,no,United States,,
+"MINNEAPOLIS-ST. PAUL, MN (3501)",arrival,3858,Minneapolis-St Paul International/Wold-Chamberlain Airport,,,no,United States,,
+NEW YORK/NEWARK AREA (4601),arrival,3494,Newark Liberty International Airport,,,no,United States,,
+ONTARIO INTL AIRPORT (2721),arrival,3734,Ontario International Airport,,,no,Canada,,
+"PORTLAND, OR (2904)",arrival,3862,Portland International Jetport Airport,,,no,United States,,
+SAIPAN (3211),arrival,2244,Saipan International Airport,,,no,Northern Mariana Islands,,
+"SAN DIEGO, CA (2501)",arrival,3731,San Diego International Airport,,,no,United States,,
+SAN FRANCISCO INTL AIRPT (2801),arrival,3469,San Francisco International Airport,,,no,United States,,
+SAN JOSE INTL AIRPORT (2834),arrival,3748,Norman Y. Mineta San Jose International Airport,,,no,United States,,
+SEATTLE-TACOMA INTL ARPT (3029),arrival,3577,Seattle Tacoma International Airport,,,no,United States,,
+USCBP CALGARY PRECLEAR (7923),arrival,178,Calgary International Airport,,,no,Canada,,
+USCBP EDMONTON PRECLEAR (7924),arrival,49,Edmonton International Airport,,,no,Canada,,
+USCBP MONTREAL PRECLEAR (7925),arrival,93,Montreal International (Mirabel) Airport,,,no,Canada,,
+USCBP OTTAWA PRECLEAR (7929),arrival,95,Ottawa / Gatineau Airport,,,no,Canada,,
+USCBP TORONTO PRECLEAR (7926),arrival,193,Lester B. Pearson International Airport,,,no,Canada,,
+USCBP VANCOUVER PRECLEAR (7922),arrival,156,Vancouver International Airport,,,no,Canada,,
+"WASHINGTON, DC (5401)",arrival,3714,Washington Dulles International Airport,,,no,United States,,
+USCBP ABU DHABI PRECLEAR (7543),arrival,2179,Abu Dhabi International Airport,,,no,United Arab Emirates,,
+"USCBP DUBLIN IE, PRECLEAR (7541)",arrival,599,Dublin Airport,,,no,Ireland,,
+USCBP HALIFAX NS PRELEAR (7931),arrival,73,Halifax / Stanfield International Airport,,,no,Canada,,
+PHILA. INTL. AIRPORT (1108),arrival,3752,Philadelphia International Airport,,,no,United States,,
+"PHOENIX, AZ (2605)",arrival,3462,Phoenix Sky Harbor International Airport,,,no,United States,,
+USCBP WINNEPEG PRECLEAR (7928),arrival,160,Winnipeg / James Armstrong Richardson International Airport,,,no,Canada,,
+"AUSTIN, TX (5506)",arrival,3673,Austin Bergstrom International Airport,,,no,United States,,
+"DURHAM, NC (1503)",arrival,3626,Raleigh Durham International Airport,,,no,United States,,
+"ORLANDO, FL (1808)",arrival,3878,Orlando International Airport,,,no,United States,,
+USCBP BERMUDA PRECLEAR (7421),arrival,4069,L.F. Wade International International Airport,,,no,Bermuda,,
+USCBP NASSAU PRECLEAR (7423),arrival,1953,Lynden Pindling International Airport,,,no,Bahamas,,
+"CINCINNATI, OH (4102)",arrival,3488,Cincinnati Northern Kentucky International Airport,,,no,United States,,
+"INDIANAPOLIS, IN (4110)",arrival,3585,Indianapolis International Airport,,,no,United States,,
+"TAMPA, FL (1801)",arrival,3646,Tampa International Airport,,,no,United States,,
+"SALT LAKE CITY, UT (3303)",arrival,3536,Salt Lake City International Airport,,,no,United States,,
+SAN JUAN INTL AIRPORT (4913),arrival,2890,Luis Munoz Marin International Airport,,,no,Puerto Rico,,
+FT LAUDERDALE INTL AIRPT (5210),arrival,3533,Fort Lauderdale Hollywood International Airport,,,no,United States,,
+USCBP ARUBA PRECLEAR (7424),arrival,2895,Queen Beatrix International Airport,,,no,Aruba,,
+BOZEMAN YELLOWSTONE UFA (3386),arrival,4020,Gallatin Field,,,no,United States,,
+"ANCHORAGE, AK (3126)",arrival,3774,Ted Stevens Anchorage International Airport,,,no,United States,,
+BWI AIRPORT (1305),arrival,3849,Baltimore/Washington International Thurgood Marshall Airport,,,no,United States,,

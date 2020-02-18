@@ -1,0 +1,53 @@
+USFirstPortofEntry,USArrivalCounty,USArrivalState,USArrivalTerritoryOrPreclear
+"ATLANTA, GA (1704)",Fulton,GA,NA
+"CHARLOTTE, NC (1512)",Mecklenberg,NC,NA
+"CHICAGO, IL (3901)",Cook,IL,NA
+"DALLAS/FT. WORTH, TX (5501)",Dallas,TX,NA
+"DENVER, CO (3307)",Denver,CO,NA
+DETROIT METROPLTN AIRPRT (3807),Wayne,MI,NA
+GUAM (3207),Other,Other,Guam
+HONOLULU INTL AIRPRT (3205),Honolulu,HI,NA
+HOUSTON INTERCONTL (5309),Harris,TX,NA
+JOHN F KENNEDY AIRPORT (4701),Queens,NY,NA
+KONA HI (3206),Hawaii,HI,NA
+"LAS VEGAS, NV (2722)",Clark,NV,NA
+"LOGAN AIRPORT, MA (0417)",Suffolk,MA,NA
+LOS ANGELES INT ARPT (2720),Los Angeles,CA,NA
+MIAMI INTL AIRPORT (5206),Miami-Dade,FL,NA
+"MINNEAPOLIS-ST. PAUL, MN (3501)",Hennepin,MN,NA
+NEW YORK/NEWARK AREA (4601),Essex,NJ,NA
+ONTARIO INTL AIRPORT (2721),San Bernadino,CA,NA
+"PORTLAND, OR (2904)",Multnomah,OR,NA
+SAIPAN (3211),Other,Other,Saipain
+"SAN DIEGO, CA (2501)",San Diego,CA,NA
+SAN FRANCISCO INTL AIRPT (2801),Fan Francisco,CA,NA
+SAN JOSE INTL AIRPORT (2834),Santa Clara,CA,NA
+SEATTLE-TACOMA INTL ARPT (3029),King,WA,NA
+USCBP CALGARY PRECLEAR (7923),Other,Other,U.S. Customs and Border Protection Calgary Pre-clear
+USCBP EDMONTON PRECLEAR (7924),Other,Other,U.S. Customs and Border Protection Edmonton Pre-clear
+USCBP MONTREAL PRECLEAR (7925),Other,Other,U.S. Customs and Border Protection Montreal Pre-clear
+USCBP OTTAWA PRECLEAR (7929),Other,Other,U.S. Customs and Border Protection Ottawa Pre-clear
+USCBP TORONTO PRECLEAR (7926),Other,Other,U.S. Customs and Border Protection Toronto Pre-clear
+USCBP VANCOUVER PRECLEAR (7922),Other,Other,U.S. Customs and Border Protection Vancouver Pre-clear
+"WASHINGTON, DC (5401)",Arlington,VA,NA
+USCBP ABU DHABI PRECLEAR (7543),Other,Other,U.S. Customs and Border Protection Abu Dhabi Pre-clear
+"USCBP DUBLIN IE, PRECLEAR (7541)",Other,Other,U.S. Customs and Border Protection Dublin Pre-clear
+USCBP HALIFAX NS PRELEAR (7931),Other,Other,U.S. Customs and Border Protection Halifax Pre-clear
+PHILA. INTL. AIRPORT (1108),Philadelphia,PA,NA
+"PHOENIX, AZ (2605)",Maricopa,AZ,NA
+USCBP WINNEPEG PRECLEAR (7928),Other,Other,U.S. Customs and Border Protection Winniepeg Pre-clear
+"AUSTIN, TX (5506)",Hays,TX,NA
+"DURHAM, NC (1503)",Durham,NC,NA
+"ORLANDO, FL (1808)",Orange,FL,NA
+USCBP BERMUDA PRECLEAR (7421),Other,Other,U.S. Customs and Border Protection Bermuda Pre-clear
+USCBP NASSAU PRECLEAR (7423),Other,Other,U.S. Customs and Border Protection Bahamas Pre-clear
+"CINCINNATI, OH (4102)",Hamilton,OH,NA
+"INDIANAPOLIS, IN (4110)",Marion,IN,NA
+"TAMPA, FL (1801)",Hillsborough,FL,NA
+"SALT LAKE CITY, UT (3303)",Salt Lake,UT,NA
+SAN JUAN INTL AIRPORT (4913),Other,Other,Puerto Rico
+FT LAUDERDALE INTL AIRPT (5210),Broward,FL,NA
+USCBP ARUBA PRECLEAR (7424),Other,Other,U.S. Customs and Border Protection Aruba Pre-clear
+BOZEMAN YELLOWSTONE UFA (3386),Gallatin,MT,NA
+"ANCHORAGE, AK (3126)",Anchorage,AK,NA
+BWI AIRPORT (1305),Anne Arundel,MD,NA

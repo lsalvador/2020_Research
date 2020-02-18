@@ -1,15 +1,13 @@
 #PBS -S /bin/bash
-#PBS -q batch
+#PBS -q bahl_salv_q
 #PBS -N Mbovis_Pangenome
-#PBS -l nodes=1:ppn=16:AMD
-#PBS -l walltime=100:00:00
-#PBS -l mem=50gb
+#PBS -l nodes=1:ppn=15:AMD
+#PBS -l walltime=10:00:00
+#PBS -l mem=20gb
 #PBS -M noahaus@uga.edu
 #PBS -m abe
 
-#load modules
-ml add Roary/3.12.0
+cd $PBS_O_WORKDIR
 
-#move to the working directory and start the pangenome analysis
-cd /scratch/noahaus/bTB_pangenome/full_MI_data/pangenome_analysis/contig_dir/roary_run
-roary -e --mafft -p 12 *.gff 
+ml Roary/3.12.0
+roary -e --mafft -p 8 *.gff
