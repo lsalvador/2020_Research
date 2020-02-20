@@ -251,3 +251,11 @@ TODO:
 
 #Feb 18th
 Move analysis to the /scratch directory, and after finishing move into lab_shared.
+I made an error yesterday, I think it was not able to finish being in the /work folder
+I am rerunning it now.
+
+#Feb 20th
+Today, I'm looking to finally get the appropriate number of stats and also extract the accessory genome of the samples
+from MI. generating the stats should be quicker, and I can explain the output through histograms and data descriptions
+
+QUAST run and Annotation underway

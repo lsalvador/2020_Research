@@ -1,0 +1,2292 @@
+/usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/bin/quast.py -r NC_002945v4.fasta -o assembly_stats 00-17MIDNRdeerMontm_S23_L001.contigs.fa 00-1MIDNRdeerAlc_S5_L001.contigs.fa 00-21MIDNRdeerOts_S14_L001.contigs.fa 00-26MIDNRdeerAlp_S12_L001.contigs.fa 00-27MIDNRdeerAlp_S27_L001.contigs.fa 00-28MIDNRdeerEmm_S2_L001.contigs.fa 00-29MIDNRdeerAlc_S37_L001.contigs.fa 00-2MIDNRdeerOsco_S32_L001.contigs.fa 00-32MIDNRdeerOts_S19_L001.contigs.fa 00-33MIDNRdeerPI_S7_L001.contigs.fa 00-3MIDNRdeerMontm_S2_L001.contigs.fa 00-43MIDNRdeerMontm_S17_L001.contigs.fa 00-47MIDNRdeerMontm_S13_L001.contigs.fa 00-48MIDNRdeerMontm_S20_L001.contigs.fa 00-51MIDNRdeerAlp_S34_L001.contigs.fa 00-53MIDNRdeerAlc_S26_L001.contigs.fa 00-55MIDNRelk-Montm_S23_L001.contigs.fa 00-5MIDNRdeerOts_S31_L001.contigs.fa 01-20MIDNRdeerAlc_S19_L001.contigs.fa 01-32MIDNRdeerMontm_S44_L001.contigs.fa 01-34MIDNRdeerAlp_S26_L001.contigs.fa 01-38MIDNRdeerMontm_S22_L001.contigs.fa 01-39MIDNRdeerMontm_S5_L001.contigs.fa 01-40MIDNRdeerAlc_S11_L001.contigs.fa 01-44MIDNRdeerMontm_S13_L001.contigs.fa 01-45MIDNRdeerPI_S16_L001.contigs.fa 01-4MIDNRdeerMontm_S8_L001.contigs.fa 01-5MIDNRdeerOsco_S16_L001.contigs.fa 01-61MIDNRelkMontm_S10_L001.contigs.fa 01-63MIDNRdeerAlc_S38_L001.contigs.fa 01-6MIDNRdeerOsco_S17_L001.contigs.fa 01-8MIDNRdeerAlp_S2_L001.contigs.fa 01-9MIDNRdeerAlc_S19_L001.contigs.fa 02-3MIDNRdeerMontm_S12_L001.contigs.fa 02-5MIDNRdeerAlc_S17_L001.contigs.fa 03-10MIDNRdeerMontm_S3_L001.contigs.fa 03-20MIDNRdeerOsco_S20_L001.contigs.fa 03-24MIDNRdeerPI_S22_L001.contigs.fa 03-32MIDNRdeerMontm_S2_L001.contigs.fa 03-33MIDNRelkPI_S29_L001.contigs.fa 03-34MIDNRelkMontm_S33_L001.contigs.fa 03-3MIDNRdeerMontm_S23_L001.contigs.fa 03-6MIDNRdeerAlp_S17_L001.contigs.fa 04-13MIDNRdeerAlp_S27_L001.contigs.fa 04-19MIDNRdeerPI_S13_L001.contigs.fa 04-24MIDNRdeerMontm_S7_L001.contigs.fa 04-25MIDNRdeerPI_S6_L001.contigs.fa 04-7295_S5_L001.contigs.fa 04-8158_S4_L001.contigs.fa 04-8159_S3_L001.contigs.fa 04-8160_S5_L001.contigs.fa 05-4MIDNRdeerOsco_S33_L001.contigs.fa 05-7MIDNRdeerAlc_S19_L001.contigs.fa 06-30MIDNRdeerAlp_S8_L001.contigs.fa 06-33MIDNRdeerMontm_S3_L001.contigs.fa 06-35MIDNRdeerAlp_CTTGTA_L008.contigs.fa 06-38MIDNRdeerOsco_S16_L001.contigs.fa 06-44MIDNRdeerAlp_S26_L001.contigs.fa 06-45MIDNRelkMontm_S8_L001.contigs.fa 07-13MIDNRdeerAlp_S18_L001.contigs.fa 07-1MIDNRdeerMontm-1_S7_L001.contigs.fa 07-28MIDNRdeerAlc_S14_L001.contigs.fa 07-30MIDNRdeerMontm_S11_L001.contigs.fa 07-3557_S3_L001.contigs.fa 07-6884.contigs.fa 07-6MIDNRdeerMontm_S25_L001.contigs.fa 07-7MIDNRdeerMontm-1_S18_L001.contigs.fa 07-9MIDNRdeerOsco_S9_L001.contigs.fa 08-0954_ATCACG_L007.contigs.fa 08-2564_S6_L001.contigs.fa 08-4MIDNRdeerMontm_S3_L001.contigs.fa 09-4305_S4_L001.contigs.fa 13-11MIDNRdeerOsco_S24_L001.contigs.fa 13-13MIDNRdeerPI_S34_L001.contigs.fa 13-20MIDNRdeerOsco_S28_L001.contigs.fa 13-21MIDNRdeerMontm_S30_L001.contigs.fa 13-6MIDNRdeerAlc_S33_L001.contigs.fa 16-017237-01-43MIDNRdeerAlc_S34_L001.contigs.fa 16-017237-01-60MIDNRdeerAlp_S18_L001.contigs.fa 16-017237-04-10MIDNRdeerAlp_S17_L001.contigs.fa 16-017237-04-30MIDNRdeerMontm-3_S11_L001.contigs.fa 96-20MIDNRdeerAlp_S10_L001.contigs.fa 96-32MIDNRdeerAlp_S19_L001.contigs.fa 96-38MIDNRdeerAlp_S15_L001.contigs.fa 96-46MIDNRdeerAlc_S12_L001.contigs.fa 96-47MIDNRdeerMontm_S4_L001.contigs.fa 96-57MIDNRdeerAlc_S2_L001.contigs.fa 96-58MIDNRdeerAlc_S5_L001.contigs.fa 96-72MIDNRdeerOsco_S9_L001.contigs.fa 97-22MIDNRdeerAlc_S18_L001.contigs.fa 97-3MIDNRdeerAlp_S7_L001.contigs.fa 97-46MIDNRdeerMontm_S9_L001.contigs.fa 97-49MIDNRdeerMontm_S2_L001.contigs.fa 97-51MIDNRdeerAlc-2_S5_L001.contigs.fa 97-52MIDNRdeerAlp-2_S3_L001.contigs.fa 97-54MIDNRdeerAlp-2_S4_L001.contigs.fa 97-55MIDNRdeerMontm_S3_L001.contigs.fa 97-57MIDNRdeerAlc_S11_L001.contigs.fa 97-60MIDNRdeerAlp_S16_L001.contigs.fa 97-61MIDNRdeerMontm_S13_L001.contigs.fa 97-64MIDNRdeerPI_S19_L001.contigs.fa 97-66MIDNRdeerOsco_S7_L001.contigs.fa 98-11MIDNRdeerAlp-2_S3_L001.contigs.fa 98-16MIDNRdeerAlc_S10_L001.contigs.fa 98-20MIDNRdeerAlp_S14_L001.contigs.fa 98-24MIDNRdeerAlp-2_S11_L001.contigs.fa 98-29MIDNRdeerAlc_S7_L001.contigs.fa 98-30MIDNRdeerAlc_S10_L001.contigs.fa 98-38MIDNRdeerAlc_S2_L001.contigs.fa 98-54MIDNRdeerAlp_S2_L001.contigs.fa 98-5MIDNRdeerAlc-2_S7_L001.contigs.fa 98-5MIDNRdeerAlc-3_S8_L001.contigs.fa 98-66MIDNRdeerAlc_S6_L001.contigs.fa 98-80MIDNRdeerMontm_S11_L001.contigs.fa 99-10MIDNRdeerMontm_S21_L001.contigs.fa 99-17MIDNRdeerOsco_S10_L001.contigs.fa 99-19MIDNRdeerAnt_S10_L001.contigs.fa 99-1MIDNRdeerMontm_S16_L001.contigs.fa 99-21MIDNRdeerAlc_cat.contigs.fa 99-22MIDNRdeerAlc-1_S14_L001.contigs.fa 99-23MIDNRdeerMontm_S19_L001.contigs.fa 99-24MIDNRdeerAlc_cat.contigs.fa 99-26MIDNRdeerMontm_S5_L001.contigs.fa 99-53MIDNRdeerMontm_S3_L001.contigs.fa 99-56MIDNRdeerAlc_S12_L001.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-862.14.4.el7.x86_64-x86_64-with-centos-7.5.1804-Core (linux_64)
+  Python version: 2.7.14
+  CPUs number: 64
+
+Started: 2020-02-20 11:45:05
+
+Logging to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+NOTICE: Maximum number of threads is set to 16 (use --threads option to set it manually)
+
+CWD: /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats
+Main parameters: 
+  MODE: default, threads: 16, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/NC_002945v4.fasta ==> NC_002945v4
+
+Contigs:
+  Pre-processing...
+  1  00-17MIDNRdeerMontm_S23_L001.contigs.fa ==> 00_17MIDNRdeerMontm_S23_L001.contigs
+  2  00-1MIDNRdeerAlc_S5_L001.contigs.fa ==> 00_1MIDNRdeerAlc_S5_L001.contigs
+  3  00-21MIDNRdeerOts_S14_L001.contigs.fa ==> 00_21MIDNRdeerOts_S14_L001.contigs
+  4  00-26MIDNRdeerAlp_S12_L001.contigs.fa ==> 00_26MIDNRdeerAlp_S12_L001.contigs
+  5  00-27MIDNRdeerAlp_S27_L001.contigs.fa ==> 00_27MIDNRdeerAlp_S27_L001.contigs
+  6  00-28MIDNRdeerEmm_S2_L001.contigs.fa ==> 00_28MIDNRdeerEmm_S2_L001.contigs
+  7  00-29MIDNRdeerAlc_S37_L001.contigs.fa ==> 00_29MIDNRdeerAlc_S37_L001.contigs
+  8  00-2MIDNRdeerOsco_S32_L001.contigs.fa ==> 00_2MIDNRdeerOsco_S32_L001.contigs
+  9  00-32MIDNRdeerOts_S19_L001.contigs.fa ==> 00_32MIDNRdeerOts_S19_L001.contigs
+  10 00-33MIDNRdeerPI_S7_L001.contigs.fa ==> 00_33MIDNRdeerPI_S7_L001.contigs
+  11 00-3MIDNRdeerMontm_S2_L001.contigs.fa ==> 00_3MIDNRdeerMontm_S2_L001.contigs
+  12 00-43MIDNRdeerMontm_S17_L001.contigs.fa ==> 00_43MIDNRdeerMontm_S17_L001.contigs
+  13 00-47MIDNRdeerMontm_S13_L001.contigs.fa ==> 00_47MIDNRdeerMontm_S13_L001.contigs
+  14 00-48MIDNRdeerMontm_S20_L001.contigs.fa ==> 00_48MIDNRdeerMontm_S20_L001.contigs
+  15 00-51MIDNRdeerAlp_S34_L001.contigs.fa ==> 00_51MIDNRdeerAlp_S34_L001.contigs
+  16 00-53MIDNRdeerAlc_S26_L001.contigs.fa ==> 00_53MIDNRdeerAlc_S26_L001.contigs
+  17 00-55MIDNRelk-Montm_S23_L001.contigs.fa ==> 00_55MIDNRelk_Montm_S23_L001.contigs
+  18 00-5MIDNRdeerOts_S31_L001.contigs.fa ==> 00_5MIDNRdeerOts_S31_L001.contigs
+  19 01-20MIDNRdeerAlc_S19_L001.contigs.fa ==> 01_20MIDNRdeerAlc_S19_L001.contigs
+  20 01-32MIDNRdeerMontm_S44_L001.contigs.fa ==> 01_32MIDNRdeerMontm_S44_L001.contigs
+  21 01-34MIDNRdeerAlp_S26_L001.contigs.fa ==> 01_34MIDNRdeerAlp_S26_L001.contigs
+  22 01-38MIDNRdeerMontm_S22_L001.contigs.fa ==> 01_38MIDNRdeerMontm_S22_L001.contigs
+  23 01-39MIDNRdeerMontm_S5_L001.contigs.fa ==> 01_39MIDNRdeerMontm_S5_L001.contigs
+  24 01-40MIDNRdeerAlc_S11_L001.contigs.fa ==> 01_40MIDNRdeerAlc_S11_L001.contigs
+  25 01-44MIDNRdeerMontm_S13_L001.contigs.fa ==> 01_44MIDNRdeerMontm_S13_L001.contigs
+  26 01-45MIDNRdeerPI_S16_L001.contigs.fa ==> 01_45MIDNRdeerPI_S16_L001.contigs
+  27 01-4MIDNRdeerMontm_S8_L001.contigs.fa ==> 01_4MIDNRdeerMontm_S8_L001.contigs
+  28 01-5MIDNRdeerOsco_S16_L001.contigs.fa ==> 01_5MIDNRdeerOsco_S16_L001.contigs
+  29 01-61MIDNRelkMontm_S10_L001.contigs.fa ==> 01_61MIDNRelkMontm_S10_L001.contigs
+  30 01-63MIDNRdeerAlc_S38_L001.contigs.fa ==> 01_63MIDNRdeerAlc_S38_L001.contigs
+  31 01-6MIDNRdeerOsco_S17_L001.contigs.fa ==> 01_6MIDNRdeerOsco_S17_L001.contigs
+  32 01-8MIDNRdeerAlp_S2_L001.contigs.fa ==> 01_8MIDNRdeerAlp_S2_L001.contigs
+  33 01-9MIDNRdeerAlc_S19_L001.contigs.fa ==> 01_9MIDNRdeerAlc_S19_L001.contigs
+  34 02-3MIDNRdeerMontm_S12_L001.contigs.fa ==> 02_3MIDNRdeerMontm_S12_L001.contigs
+  35 02-5MIDNRdeerAlc_S17_L001.contigs.fa ==> 02_5MIDNRdeerAlc_S17_L001.contigs
+  36 03-10MIDNRdeerMontm_S3_L001.contigs.fa ==> 03_10MIDNRdeerMontm_S3_L001.contigs
+  37 03-20MIDNRdeerOsco_S20_L001.contigs.fa ==> 03_20MIDNRdeerOsco_S20_L001.contigs
+  38 03-24MIDNRdeerPI_S22_L001.contigs.fa ==> 03_24MIDNRdeerPI_S22_L001.contigs
+  39 03-32MIDNRdeerMontm_S2_L001.contigs.fa ==> 03_32MIDNRdeerMontm_S2_L001.contigs
+  40 03-33MIDNRelkPI_S29_L001.contigs.fa ==> 03_33MIDNRelkPI_S29_L001.contigs
+  41 03-34MIDNRelkMontm_S33_L001.contigs.fa ==> 03_34MIDNRelkMontm_S33_L001.contigs
+  42 03-3MIDNRdeerMontm_S23_L001.contigs.fa ==> 03_3MIDNRdeerMontm_S23_L001.contigs
+  43 03-6MIDNRdeerAlp_S17_L001.contigs.fa ==> 03_6MIDNRdeerAlp_S17_L001.contigs
+  44 04-13MIDNRdeerAlp_S27_L001.contigs.fa ==> 04_13MIDNRdeerAlp_S27_L001.contigs
+  45 04-19MIDNRdeerPI_S13_L001.contigs.fa ==> 04_19MIDNRdeerPI_S13_L001.contigs
+  46 04-24MIDNRdeerMontm_S7_L001.contigs.fa ==> 04_24MIDNRdeerMontm_S7_L001.contigs
+  47 04-25MIDNRdeerPI_S6_L001.contigs.fa ==> 04_25MIDNRdeerPI_S6_L001.contigs
+  48 04-7295_S5_L001.contigs.fa ==> 04_7295_S5_L001.contigs
+  49 04-8158_S4_L001.contigs.fa ==> 04_8158_S4_L001.contigs
+  50 04-8159_S3_L001.contigs.fa ==> 04_8159_S3_L001.contigs
+  51 04-8160_S5_L001.contigs.fa ==> 04_8160_S5_L001.contigs
+  52 05-4MIDNRdeerOsco_S33_L001.contigs.fa ==> 05_4MIDNRdeerOsco_S33_L001.contigs
+  53 05-7MIDNRdeerAlc_S19_L001.contigs.fa ==> 05_7MIDNRdeerAlc_S19_L001.contigs
+  54 06-30MIDNRdeerAlp_S8_L001.contigs.fa ==> 06_30MIDNRdeerAlp_S8_L001.contigs
+  55 06-33MIDNRdeerMontm_S3_L001.contigs.fa ==> 06_33MIDNRdeerMontm_S3_L001.contigs
+  56 06-35MIDNRdeerAlp_CTTGTA_L008.contigs.fa ==> 06_35MIDNRdeerAlp_CTTGTA_L008.contigs
+  57 06-38MIDNRdeerOsco_S16_L001.contigs.fa ==> 06_38MIDNRdeerOsco_S16_L001.contigs
+  58 06-44MIDNRdeerAlp_S26_L001.contigs.fa ==> 06_44MIDNRdeerAlp_S26_L001.contigs
+  59 06-45MIDNRelkMontm_S8_L001.contigs.fa ==> 06_45MIDNRelkMontm_S8_L001.contigs
+  60 07-13MIDNRdeerAlp_S18_L001.contigs.fa ==> 07_13MIDNRdeerAlp_S18_L001.contigs
+  61 07-1MIDNRdeerMontm-1_S7_L001.contigs.fa ==> 07_1MIDNRdeerMontm_1_S7_L001.contigs
+  62 07-28MIDNRdeerAlc_S14_L001.contigs.fa ==> 07_28MIDNRdeerAlc_S14_L001.contigs
+  63 07-30MIDNRdeerMontm_S11_L001.contigs.fa ==> 07_30MIDNRdeerMontm_S11_L001.contigs
+  64 07-3557_S3_L001.contigs.fa ==> 07_3557_S3_L001.contigs
+  65 07-6884.contigs.fa ==> 07_6884.contigs
+  66 07-6MIDNRdeerMontm_S25_L001.contigs.fa ==> 07_6MIDNRdeerMontm_S25_L001.contigs
+  67 07-7MIDNRdeerMontm-1_S18_L001.contigs.fa ==> 07_7MIDNRdeerMontm_1_S18_L001.contigs
+  68 07-9MIDNRdeerOsco_S9_L001.contigs.fa ==> 07_9MIDNRdeerOsco_S9_L001.contigs
+  69 08-0954_ATCACG_L007.contigs.fa ==> 08_0954_ATCACG_L007.contigs
+  70 08-2564_S6_L001.contigs.fa ==> 08_2564_S6_L001.contigs
+  71 08-4MIDNRdeerMontm_S3_L001.contigs.fa ==> 08_4MIDNRdeerMontm_S3_L001.contigs
+  72 09-4305_S4_L001.contigs.fa ==> 09_4305_S4_L001.contigs
+  73 13-11MIDNRdeerOsco_S24_L001.contigs.fa ==> 13_11MIDNRdeerOsco_S24_L001.contigs
+  74 13-13MIDNRdeerPI_S34_L001.contigs.fa ==> 13_13MIDNRdeerPI_S34_L001.contigs
+  75 13-20MIDNRdeerOsco_S28_L001.contigs.fa ==> 13_20MIDNRdeerOsco_S28_L001.contigs
+  76 13-21MIDNRdeerMontm_S30_L001.contigs.fa ==> 13_21MIDNRdeerMontm_S30_L001.contigs
+  77 13-6MIDNRdeerAlc_S33_L001.contigs.fa ==> 13_6MIDNRdeerAlc_S33_L001.contigs
+  78 16-017237-01-43MIDNRdeerAlc_S34_L001.contigs.fa ==> 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs
+  79 16-017237-01-60MIDNRdeerAlp_S18_L001.contigs.fa ==> 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs
+  80 16-017237-04-10MIDNRdeerAlp_S17_L001.contigs.fa ==> 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs
+  81 16-017237-04-30MIDNRdeerMontm-3_S11_L001.contigs.fa ==> 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs
+  82 96-20MIDNRdeerAlp_S10_L001.contigs.fa ==> 96_20MIDNRdeerAlp_S10_L001.contigs
+  83 96-32MIDNRdeerAlp_S19_L001.contigs.fa ==> 96_32MIDNRdeerAlp_S19_L001.contigs
+  84 96-38MIDNRdeerAlp_S15_L001.contigs.fa ==> 96_38MIDNRdeerAlp_S15_L001.contigs
+  85 96-46MIDNRdeerAlc_S12_L001.contigs.fa ==> 96_46MIDNRdeerAlc_S12_L001.contigs
+  86 96-47MIDNRdeerMontm_S4_L001.contigs.fa ==> 96_47MIDNRdeerMontm_S4_L001.contigs
+  87 96-57MIDNRdeerAlc_S2_L001.contigs.fa ==> 96_57MIDNRdeerAlc_S2_L001.contigs
+  88 96-58MIDNRdeerAlc_S5_L001.contigs.fa ==> 96_58MIDNRdeerAlc_S5_L001.contigs
+  89 96-72MIDNRdeerOsco_S9_L001.contigs.fa ==> 96_72MIDNRdeerOsco_S9_L001.contigs
+  90 97-22MIDNRdeerAlc_S18_L001.contigs.fa ==> 97_22MIDNRdeerAlc_S18_L001.contigs
+  91 97-3MIDNRdeerAlp_S7_L001.contigs.fa ==> 97_3MIDNRdeerAlp_S7_L001.contigs
+  92 97-46MIDNRdeerMontm_S9_L001.contigs.fa ==> 97_46MIDNRdeerMontm_S9_L001.contigs
+  93 97-49MIDNRdeerMontm_S2_L001.contigs.fa ==> 97_49MIDNRdeerMontm_S2_L001.contigs
+  94 97-51MIDNRdeerAlc-2_S5_L001.contigs.fa ==> 97_51MIDNRdeerAlc_2_S5_L001.contigs
+  95 97-52MIDNRdeerAlp-2_S3_L001.contigs.fa ==> 97_52MIDNRdeerAlp_2_S3_L001.contigs
+  96 97-54MIDNRdeerAlp-2_S4_L001.contigs.fa ==> 97_54MIDNRdeerAlp_2_S4_L001.contigs
+  97 97-55MIDNRdeerMontm_S3_L001.contigs.fa ==> 97_55MIDNRdeerMontm_S3_L001.contigs
+  98 97-57MIDNRdeerAlc_S11_L001.contigs.fa ==> 97_57MIDNRdeerAlc_S11_L001.contigs
+  99 97-60MIDNRdeerAlp_S16_L001.contigs.fa ==> 97_60MIDNRdeerAlp_S16_L001.contigs
+  100 97-61MIDNRdeerMontm_S13_L001.contigs.fa ==> 97_61MIDNRdeerMontm_S13_L001.contigs
+  101 97-64MIDNRdeerPI_S19_L001.contigs.fa ==> 97_64MIDNRdeerPI_S19_L001.contigs
+  102 97-66MIDNRdeerOsco_S7_L001.contigs.fa ==> 97_66MIDNRdeerOsco_S7_L001.contigs
+  103 98-11MIDNRdeerAlp-2_S3_L001.contigs.fa ==> 98_11MIDNRdeerAlp_2_S3_L001.contigs
+  104 98-16MIDNRdeerAlc_S10_L001.contigs.fa ==> 98_16MIDNRdeerAlc_S10_L001.contigs
+  105 98-20MIDNRdeerAlp_S14_L001.contigs.fa ==> 98_20MIDNRdeerAlp_S14_L001.contigs
+  106 98-24MIDNRdeerAlp-2_S11_L001.contigs.fa ==> 98_24MIDNRdeerAlp_2_S11_L001.contigs
+  107 98-29MIDNRdeerAlc_S7_L001.contigs.fa ==> 98_29MIDNRdeerAlc_S7_L001.contigs
+  108 98-30MIDNRdeerAlc_S10_L001.contigs.fa ==> 98_30MIDNRdeerAlc_S10_L001.contigs
+  109 98-38MIDNRdeerAlc_S2_L001.contigs.fa ==> 98_38MIDNRdeerAlc_S2_L001.contigs
+  110 98-54MIDNRdeerAlp_S2_L001.contigs.fa ==> 98_54MIDNRdeerAlp_S2_L001.contigs
+  111 98-5MIDNRdeerAlc-2_S7_L001.contigs.fa ==> 98_5MIDNRdeerAlc_2_S7_L001.contigs
+  112 98-5MIDNRdeerAlc-3_S8_L001.contigs.fa ==> 98_5MIDNRdeerAlc_3_S8_L001.contigs
+  113 98-66MIDNRdeerAlc_S6_L001.contigs.fa ==> 98_66MIDNRdeerAlc_S6_L001.contigs
+  114 98-80MIDNRdeerMontm_S11_L001.contigs.fa ==> 98_80MIDNRdeerMontm_S11_L001.contigs
+  115 99-10MIDNRdeerMontm_S21_L001.contigs.fa ==> 99_10MIDNRdeerMontm_S21_L001.contigs
+  116 99-17MIDNRdeerOsco_S10_L001.contigs.fa ==> 99_17MIDNRdeerOsco_S10_L001.contigs
+  117 99-19MIDNRdeerAnt_S10_L001.contigs.fa ==> 99_19MIDNRdeerAnt_S10_L001.contigs
+  118 99-1MIDNRdeerMontm_S16_L001.contigs.fa ==> 99_1MIDNRdeerMontm_S16_L001.contigs
+  119 99-21MIDNRdeerAlc_cat.contigs.fa ==> 99_21MIDNRdeerAlc_cat.contigs
+  120 99-22MIDNRdeerAlc-1_S14_L001.contigs.fa ==> 99_22MIDNRdeerAlc_1_S14_L001.contigs
+  121 99-23MIDNRdeerMontm_S19_L001.contigs.fa ==> 99_23MIDNRdeerMontm_S19_L001.contigs
+  122 99-24MIDNRdeerAlc_cat.contigs.fa ==> 99_24MIDNRdeerAlc_cat.contigs
+  123 99-26MIDNRdeerMontm_S5_L001.contigs.fa ==> 99_26MIDNRdeerMontm_S5_L001.contigs
+  124 99-53MIDNRdeerMontm_S3_L001.contigs.fa ==> 99_53MIDNRdeerMontm_S3_L001.contigs
+  125 99-56MIDNRdeerAlc_S12_L001.contigs.fa ==> 99_56MIDNRdeerAlc_S12_L001.contigs
+
+2020-02-20 11:45:11
+Running Basic statistics processor...
+  Reference genome:
+    NC_002945v4.fasta, length = 4349904, num fragments = 1, GC % = 65.63
+  Contig files: 
+    1  00_17MIDNRdeerMontm_S23_L001.contigs
+    2  00_1MIDNRdeerAlc_S5_L001.contigs
+    3  00_21MIDNRdeerOts_S14_L001.contigs
+    4  00_26MIDNRdeerAlp_S12_L001.contigs
+    5  00_27MIDNRdeerAlp_S27_L001.contigs
+    6  00_28MIDNRdeerEmm_S2_L001.contigs
+    7  00_29MIDNRdeerAlc_S37_L001.contigs
+    8  00_2MIDNRdeerOsco_S32_L001.contigs
+    9  00_32MIDNRdeerOts_S19_L001.contigs
+    10 00_33MIDNRdeerPI_S7_L001.contigs
+    11 00_3MIDNRdeerMontm_S2_L001.contigs
+    12 00_43MIDNRdeerMontm_S17_L001.contigs
+    13 00_47MIDNRdeerMontm_S13_L001.contigs
+    14 00_48MIDNRdeerMontm_S20_L001.contigs
+    15 00_51MIDNRdeerAlp_S34_L001.contigs
+    16 00_53MIDNRdeerAlc_S26_L001.contigs
+    17 00_55MIDNRelk_Montm_S23_L001.contigs
+    18 00_5MIDNRdeerOts_S31_L001.contigs
+    19 01_20MIDNRdeerAlc_S19_L001.contigs
+    20 01_32MIDNRdeerMontm_S44_L001.contigs
+    21 01_34MIDNRdeerAlp_S26_L001.contigs
+    22 01_38MIDNRdeerMontm_S22_L001.contigs
+    23 01_39MIDNRdeerMontm_S5_L001.contigs
+    24 01_40MIDNRdeerAlc_S11_L001.contigs
+    25 01_44MIDNRdeerMontm_S13_L001.contigs
+    26 01_45MIDNRdeerPI_S16_L001.contigs
+    27 01_4MIDNRdeerMontm_S8_L001.contigs
+    28 01_5MIDNRdeerOsco_S16_L001.contigs
+    29 01_61MIDNRelkMontm_S10_L001.contigs
+    30 01_63MIDNRdeerAlc_S38_L001.contigs
+    31 01_6MIDNRdeerOsco_S17_L001.contigs
+    32 01_8MIDNRdeerAlp_S2_L001.contigs
+    33 01_9MIDNRdeerAlc_S19_L001.contigs
+    34 02_3MIDNRdeerMontm_S12_L001.contigs
+    35 02_5MIDNRdeerAlc_S17_L001.contigs
+    36 03_10MIDNRdeerMontm_S3_L001.contigs
+    37 03_20MIDNRdeerOsco_S20_L001.contigs
+    38 03_24MIDNRdeerPI_S22_L001.contigs
+    39 03_32MIDNRdeerMontm_S2_L001.contigs
+    40 03_33MIDNRelkPI_S29_L001.contigs
+    41 03_34MIDNRelkMontm_S33_L001.contigs
+    42 03_3MIDNRdeerMontm_S23_L001.contigs
+    43 03_6MIDNRdeerAlp_S17_L001.contigs
+    44 04_13MIDNRdeerAlp_S27_L001.contigs
+    45 04_19MIDNRdeerPI_S13_L001.contigs
+    46 04_24MIDNRdeerMontm_S7_L001.contigs
+    47 04_25MIDNRdeerPI_S6_L001.contigs
+    48 04_7295_S5_L001.contigs
+    49 04_8158_S4_L001.contigs
+    50 04_8159_S3_L001.contigs
+    51 04_8160_S5_L001.contigs
+    52 05_4MIDNRdeerOsco_S33_L001.contigs
+    53 05_7MIDNRdeerAlc_S19_L001.contigs
+    54 06_30MIDNRdeerAlp_S8_L001.contigs
+    55 06_33MIDNRdeerMontm_S3_L001.contigs
+    56 06_35MIDNRdeerAlp_CTTGTA_L008.contigs
+    57 06_38MIDNRdeerOsco_S16_L001.contigs
+    58 06_44MIDNRdeerAlp_S26_L001.contigs
+    59 06_45MIDNRelkMontm_S8_L001.contigs
+    60 07_13MIDNRdeerAlp_S18_L001.contigs
+    61 07_1MIDNRdeerMontm_1_S7_L001.contigs
+    62 07_28MIDNRdeerAlc_S14_L001.contigs
+    63 07_30MIDNRdeerMontm_S11_L001.contigs
+    64 07_3557_S3_L001.contigs
+    65 07_6884.contigs
+    66 07_6MIDNRdeerMontm_S25_L001.contigs
+    67 07_7MIDNRdeerMontm_1_S18_L001.contigs
+    68 07_9MIDNRdeerOsco_S9_L001.contigs
+    69 08_0954_ATCACG_L007.contigs
+    70 08_2564_S6_L001.contigs
+    71 08_4MIDNRdeerMontm_S3_L001.contigs
+    72 09_4305_S4_L001.contigs
+    73 13_11MIDNRdeerOsco_S24_L001.contigs
+    74 13_13MIDNRdeerPI_S34_L001.contigs
+    75 13_20MIDNRdeerOsco_S28_L001.contigs
+    76 13_21MIDNRdeerMontm_S30_L001.contigs
+    77 13_6MIDNRdeerAlc_S33_L001.contigs
+    78 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs
+    79 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs
+    80 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs
+    81 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs
+    82 96_20MIDNRdeerAlp_S10_L001.contigs
+    83 96_32MIDNRdeerAlp_S19_L001.contigs
+    84 96_38MIDNRdeerAlp_S15_L001.contigs
+    85 96_46MIDNRdeerAlc_S12_L001.contigs
+    86 96_47MIDNRdeerMontm_S4_L001.contigs
+    87 96_57MIDNRdeerAlc_S2_L001.contigs
+    88 96_58MIDNRdeerAlc_S5_L001.contigs
+    89 96_72MIDNRdeerOsco_S9_L001.contigs
+    90 97_22MIDNRdeerAlc_S18_L001.contigs
+    91 97_3MIDNRdeerAlp_S7_L001.contigs
+    92 97_46MIDNRdeerMontm_S9_L001.contigs
+    93 97_49MIDNRdeerMontm_S2_L001.contigs
+    94 97_51MIDNRdeerAlc_2_S5_L001.contigs
+    95 97_52MIDNRdeerAlp_2_S3_L001.contigs
+    96 97_54MIDNRdeerAlp_2_S4_L001.contigs
+    97 97_55MIDNRdeerMontm_S3_L001.contigs
+    98 97_57MIDNRdeerAlc_S11_L001.contigs
+    99 97_60MIDNRdeerAlp_S16_L001.contigs
+    100 97_61MIDNRdeerMontm_S13_L001.contigs
+    101 97_64MIDNRdeerPI_S19_L001.contigs
+    102 97_66MIDNRdeerOsco_S7_L001.contigs
+    103 98_11MIDNRdeerAlp_2_S3_L001.contigs
+    104 98_16MIDNRdeerAlc_S10_L001.contigs
+    105 98_20MIDNRdeerAlp_S14_L001.contigs
+    106 98_24MIDNRdeerAlp_2_S11_L001.contigs
+    107 98_29MIDNRdeerAlc_S7_L001.contigs
+    108 98_30MIDNRdeerAlc_S10_L001.contigs
+    109 98_38MIDNRdeerAlc_S2_L001.contigs
+    110 98_54MIDNRdeerAlp_S2_L001.contigs
+    111 98_5MIDNRdeerAlc_2_S7_L001.contigs
+    112 98_5MIDNRdeerAlc_3_S8_L001.contigs
+    113 98_66MIDNRdeerAlc_S6_L001.contigs
+    114 98_80MIDNRdeerMontm_S11_L001.contigs
+    115 99_10MIDNRdeerMontm_S21_L001.contigs
+    116 99_17MIDNRdeerOsco_S10_L001.contigs
+    117 99_19MIDNRdeerAnt_S10_L001.contigs
+    118 99_1MIDNRdeerMontm_S16_L001.contigs
+    119 99_21MIDNRdeerAlc_cat.contigs
+    120 99_22MIDNRdeerAlc_1_S14_L001.contigs
+    121 99_23MIDNRdeerMontm_S19_L001.contigs
+    122 99_24MIDNRdeerAlc_cat.contigs
+    123 99_26MIDNRdeerMontm_S5_L001.contigs
+    124 99_53MIDNRdeerMontm_S3_L001.contigs
+    125 99_56MIDNRdeerAlc_S12_L001.contigs
+  Calculating N50 and L50...
+    1  00_17MIDNRdeerMontm_S23_L001.contigs, N50 = 82506, L50 = 15, Total length = 4300779, GC % = 65.55, # N's per 100 kbp =  11.63
+    2  00_1MIDNRdeerAlc_S5_L001.contigs, N50 = 69152, L50 = 18, Total length = 4292766, GC % = 65.54, # N's per 100 kbp =  11.65
+    3  00_21MIDNRdeerOts_S14_L001.contigs, N50 = 98885, L50 = 14, Total length = 4298451, GC % = 65.54, # N's per 100 kbp =  11.63
+    4  00_26MIDNRdeerAlp_S12_L001.contigs, N50 = 80827, L50 = 16, Total length = 4296208, GC % = 65.54, # N's per 100 kbp =  13.97
+    5  00_27MIDNRdeerAlp_S27_L001.contigs, N50 = 79397, L50 = 17, Total length = 4295788, GC % = 65.54, # N's per 100 kbp =  11.64
+    6  00_28MIDNRdeerEmm_S2_L001.contigs, N50 = 74253, L50 = 17, Total length = 4293322, GC % = 65.54, # N's per 100 kbp =  11.65
+    7  00_29MIDNRdeerAlc_S37_L001.contigs, N50 = 64302, L50 = 19, Total length = 4291805, GC % = 65.52, # N's per 100 kbp =  9.32
+    8  00_2MIDNRdeerOsco_S32_L001.contigs, N50 = 69220, L50 = 19, Total length = 4291176, GC % = 65.51, # N's per 100 kbp =  9.32
+    9  00_32MIDNRdeerOts_S19_L001.contigs, N50 = 79364, L50 = 16, Total length = 4300911, GC % = 65.53, # N's per 100 kbp =  11.63
+    10 00_33MIDNRdeerPI_S7_L001.contigs, N50 = 81655, L50 = 16, Total length = 4294420, GC % = 65.54, # N's per 100 kbp =  11.64
+    11 00_3MIDNRdeerMontm_S2_L001.contigs, N50 = 84093, L50 = 15, Total length = 4299321, GC % = 65.55, # N's per 100 kbp =  11.63
+    12 00_43MIDNRdeerMontm_S17_L001.contigs, N50 = 89106, L50 = 14, Total length = 4294701, GC % = 65.54, # N's per 100 kbp =  11.64
+    13 00_47MIDNRdeerMontm_S13_L001.contigs, N50 = 81678, L50 = 16, Total length = 4287855, GC % = 65.52, # N's per 100 kbp =  11.66
+    14 00_48MIDNRdeerMontm_S20_L001.contigs, N50 = 98885, L50 = 14, Total length = 4299432, GC % = 65.55, # N's per 100 kbp =  11.63
+    15 00_51MIDNRdeerAlp_S34_L001.contigs, N50 = 80730, L50 = 16, Total length = 4286178, GC % = 65.53, # N's per 100 kbp =  0.00
+    16 00_53MIDNRdeerAlc_S26_L001.contigs, N50 = 74317, L50 = 17, Total length = 4280914, GC % = 65.53, # N's per 100 kbp =  0.00
+    17 00_55MIDNRelk_Montm_S23_L001.contigs, N50 = 98885, L50 = 14, Total length = 4292286, GC % = 65.53, # N's per 100 kbp =  9.32
+    18 00_5MIDNRdeerOts_S31_L001.contigs, N50 = 82502, L50 = 15, Total length = 4305888, GC % = 65.51, # N's per 100 kbp =  11.61
+    19 01_20MIDNRdeerAlc_S19_L001.contigs, N50 = 74766, L50 = 17, Total length = 4304064, GC % = 65.51, # N's per 100 kbp =  16.26
+    20 01_32MIDNRdeerMontm_S44_L001.contigs, N50 = 80835, L50 = 17, Total length = 4301738, GC % = 65.55, # N's per 100 kbp =  11.62
+    21 01_34MIDNRdeerAlp_S26_L001.contigs, N50 = 98884, L50 = 14, Total length = 4305734, GC % = 65.52, # N's per 100 kbp =  18.58
+    22 01_38MIDNRdeerMontm_S22_L001.contigs, N50 = 82254, L50 = 16, Total length = 4292863, GC % = 65.54, # N's per 100 kbp =  11.65
+    23 01_39MIDNRdeerMontm_S5_L001.contigs, N50 = 119218, L50 = 13, Total length = 4296934, GC % = 65.55, # N's per 100 kbp =  11.64
+    24 01_40MIDNRdeerAlc_S11_L001.contigs, N50 = 74881, L50 = 18, Total length = 4298979, GC % = 65.54, # N's per 100 kbp =  16.28
+    25 01_44MIDNRdeerMontm_S13_L001.contigs, N50 = 98767, L50 = 14, Total length = 4296552, GC % = 65.55, # N's per 100 kbp =  11.64
+    26 01_45MIDNRdeerPI_S16_L001.contigs, N50 = 84687, L50 = 14, Total length = 4293993, GC % = 65.53, # N's per 100 kbp =  11.64
+    27 01_4MIDNRdeerMontm_S8_L001.contigs, N50 = 83729, L50 = 16, Total length = 4299504, GC % = 65.56, # N's per 100 kbp =  11.63
+    28 01_5MIDNRdeerOsco_S16_L001.contigs, N50 = 82100, L50 = 17, Total length = 4297359, GC % = 65.54, # N's per 100 kbp =  13.96
+    29 01_61MIDNRelkMontm_S10_L001.contigs, N50 = 84811, L50 = 16, Total length = 4297153, GC % = 65.55, # N's per 100 kbp =  11.64
+    30 01_63MIDNRdeerAlc_S38_L001.contigs, N50 = 83954, L50 = 15, Total length = 4301143, GC % = 65.51, # N's per 100 kbp =  18.60
+    31 01_6MIDNRdeerOsco_S17_L001.contigs, N50 = 87425, L50 = 16, Total length = 4296850, GC % = 65.54, # N's per 100 kbp =  13.96
+    32 01_8MIDNRdeerAlp_S2_L001.contigs, N50 = 82440, L50 = 17, Total length = 4293386, GC % = 65.54, # N's per 100 kbp =  11.65
+    33 01_9MIDNRdeerAlc_S19_L001.contigs, N50 = 80614, L50 = 17, Total length = 4295567, GC % = 65.53, # N's per 100 kbp =  11.64
+    34 02_3MIDNRdeerMontm_S12_L001.contigs, N50 = 83750, L50 = 16, Total length = 4300358, GC % = 65.51, # N's per 100 kbp =  11.63
+    35 02_5MIDNRdeerAlc_S17_L001.contigs, N50 = 74226, L50 = 17, Total length = 4294789, GC % = 65.53, # N's per 100 kbp =  9.31
+    36 03_10MIDNRdeerMontm_S3_L001.contigs, N50 = 74412, L50 = 17, Total length = 4294738, GC % = 65.52, # N's per 100 kbp =  9.31
+    37 03_20MIDNRdeerOsco_S20_L001.contigs, N50 = 104417, L50 = 14, Total length = 4296416, GC % = 65.54, # N's per 100 kbp =  11.64
+    38 03_24MIDNRdeerPI_S22_L001.contigs, N50 = 74052, L50 = 18, Total length = 4296923, GC % = 65.54, # N's per 100 kbp =  11.64
+    39 03_32MIDNRdeerMontm_S2_L001.contigs, N50 = 72830, L50 = 18, Total length = 4297341, GC % = 65.54, # N's per 100 kbp =  11.64
+    40 03_33MIDNRelkPI_S29_L001.contigs, N50 = 79670, L50 = 15, Total length = 4285064, GC % = 65.51, # N's per 100 kbp =  11.67
+    41 03_34MIDNRelkMontm_S33_L001.contigs, N50 = 69233, L50 = 17, Total length = 4294877, GC % = 65.52, # N's per 100 kbp =  11.64
+    42 03_3MIDNRdeerMontm_S23_L001.contigs, N50 = 119677, L50 = 13, Total length = 4295199, GC % = 65.54, # N's per 100 kbp =  11.64
+    43 03_6MIDNRdeerAlp_S17_L001.contigs, N50 = 74561, L50 = 17, Total length = 4295968, GC % = 65.52, # N's per 100 kbp =  11.64
+    44 04_13MIDNRdeerAlp_S27_L001.contigs, N50 = 90501, L50 = 16, Total length = 4300922, GC % = 65.53, # N's per 100 kbp =  9.30
+    45 04_19MIDNRdeerPI_S13_L001.contigs, N50 = 83750, L50 = 15, Total length = 4305245, GC % = 65.50, # N's per 100 kbp =  11.61
+    46 04_24MIDNRdeerMontm_S7_L001.contigs, N50 = 83942, L50 = 14, Total length = 4294409, GC % = 65.53, # N's per 100 kbp =  11.64
+    47 04_25MIDNRdeerPI_S6_L001.contigs, N50 = 82453, L50 = 16, Total length = 4305756, GC % = 65.54, # N's per 100 kbp =  11.61
+    48 04_7295_S5_L001.contigs, N50 = 98885, L50 = 13, Total length = 4306039, GC % = 65.56, # N's per 100 kbp =  0.00
+    49 04_8158_S4_L001.contigs, N50 = 101535, L50 = 13, Total length = 4303766, GC % = 65.56, # N's per 100 kbp =  11.62
+    50 04_8159_S3_L001.contigs, N50 = 110880, L50 = 14, Total length = 4308775, GC % = 65.57, # N's per 100 kbp =  16.25
+    51 04_8160_S5_L001.contigs, N50 = 84299, L50 = 14, Total length = 4305794, GC % = 65.57, # N's per 100 kbp =  18.58
+    52 05_4MIDNRdeerOsco_S33_L001.contigs, N50 = 69217, L50 = 18, Total length = 4297705, GC % = 65.52, # N's per 100 kbp =  11.63
+    53 05_7MIDNRdeerAlc_S19_L001.contigs, N50 = 68186, L50 = 18, Total length = 4296692, GC % = 65.53, # N's per 100 kbp =  11.64
+    54 06_30MIDNRdeerAlp_S8_L001.contigs, N50 = 72723, L50 = 18, Total length = 4307483, GC % = 65.53, # N's per 100 kbp =  11.61
+    55 06_33MIDNRdeerMontm_S3_L001.contigs, N50 = 84213, L50 = 16, Total length = 4298167, GC % = 65.55, # N's per 100 kbp =  11.63
+    56 06_35MIDNRdeerAlp_CTTGTA_L008.contigs, N50 = 26915, L50 = 45, Total length = 4209018, GC % = 65.36, # N's per 100 kbp =  0.00
+    57 06_38MIDNRdeerOsco_S16_L001.contigs, N50 = 81880, L50 = 16, Total length = 4300401, GC % = 65.53, # N's per 100 kbp =  11.63
+    58 06_44MIDNRdeerAlp_S26_L001.contigs, N50 = 81696, L50 = 16, Total length = 4297807, GC % = 65.55, # N's per 100 kbp =  9.31
+    59 06_45MIDNRelkMontm_S8_L001.contigs, N50 = 84040, L50 = 15, Total length = 4295108, GC % = 65.51, # N's per 100 kbp =  9.31
+    60 07_13MIDNRdeerAlp_S18_L001.contigs, N50 = 64471, L50 = 19, Total length = 4305921, GC % = 65.54, # N's per 100 kbp =  11.61
+    61 07_1MIDNRdeerMontm_1_S7_L001.contigs, N50 = 73016, L50 = 18, Total length = 4304496, GC % = 65.52, # N's per 100 kbp =  11.62
+    62 07_28MIDNRdeerAlc_S14_L001.contigs, N50 = 79356, L50 = 17, Total length = 4295100, GC % = 65.54, # N's per 100 kbp =  9.31
+    63 07_30MIDNRdeerMontm_S11_L001.contigs, N50 = 98885, L50 = 13, Total length = 4295512, GC % = 65.55, # N's per 100 kbp =  11.64
+    64 07_3557_S3_L001.contigs, N50 = 130370, L50 = 12, Total length = 4311186, GC % = 65.57, # N's per 100 kbp =  13.92
+    65 07_6884.contigs, N50 = 57653, L50 = 23, Total length = 4261995, GC % = 65.41, # N's per 100 kbp =  0.00
+    66 07_6MIDNRdeerMontm_S25_L001.contigs, N50 = 82277, L50 = 17, Total length = 4293271, GC % = 65.52, # N's per 100 kbp =  11.65
+    67 07_7MIDNRdeerMontm_1_S18_L001.contigs, N50 = 80654, L50 = 17, Total length = 4300977, GC % = 65.54, # N's per 100 kbp =  11.63
+    68 07_9MIDNRdeerOsco_S9_L001.contigs, N50 = 81395, L50 = 16, Total length = 4300383, GC % = 65.56, # N's per 100 kbp =  11.63
+    69 08_0954_ATCACG_L007.contigs, N50 = 54904, L50 = 24, Total length = 4255787, GC % = 65.49, # N's per 100 kbp =  0.00
+    70 08_2564_S6_L001.contigs, N50 = 123919, L50 = 12, Total length = 4309244, GC % = 65.58, # N's per 100 kbp =  13.92
+    71 08_4MIDNRdeerMontm_S3_L001.contigs, N50 = 81554, L50 = 17, Total length = 4295009, GC % = 65.52, # N's per 100 kbp =  16.30
+    72 09_4305_S4_L001.contigs, N50 = 160927, L50 = 25, Total length = 13127318, GC % = 64.90, # N's per 100 kbp =  3.81
+    73 13_11MIDNRdeerOsco_S24_L001.contigs, N50 = 84180, L50 = 15, Total length = 4288040, GC % = 65.50, # N's per 100 kbp =  11.66
+    74 13_13MIDNRdeerPI_S34_L001.contigs, N50 = 82960, L50 = 15, Total length = 4297256, GC % = 65.54, # N's per 100 kbp =  13.96
+    75 13_20MIDNRdeerOsco_S28_L001.contigs, N50 = 82405, L50 = 17, Total length = 4299164, GC % = 65.52, # N's per 100 kbp =  9.30
+    76 13_21MIDNRdeerMontm_S30_L001.contigs, N50 = 80678, L50 = 16, Total length = 4300236, GC % = 65.53, # N's per 100 kbp =  11.63
+    77 13_6MIDNRdeerAlc_S33_L001.contigs, N50 = 81750, L50 = 15, Total length = 4293047, GC % = 65.51, # N's per 100 kbp =  9.32
+    78 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs, N50 = 104450, L50 = 14, Total length = 4312604, GC % = 65.52, # N's per 100 kbp =  11.59
+    79 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs, N50 = 82064, L50 = 16, Total length = 4295647, GC % = 65.54, # N's per 100 kbp =  11.64
+    80 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs, N50 = 74405, L50 = 17, Total length = 4288016, GC % = 65.51, # N's per 100 kbp =  11.66
+    81 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs, N50 = 74206, L50 = 17, Total length = 4285661, GC % = 65.51, # N's per 100 kbp =  9.33
+    82 96_20MIDNRdeerAlp_S10_L001.contigs, N50 = 72302, L50 = 18, Total length = 4281304, GC % = 65.51, # N's per 100 kbp =  7.01
+    83 96_32MIDNRdeerAlp_S19_L001.contigs, N50 = 98885, L50 = 15, Total length = 4297684, GC % = 65.55, # N's per 100 kbp =  11.63
+    84 96_38MIDNRdeerAlp_S15_L001.contigs, N50 = 83408, L50 = 14, Total length = 4299365, GC % = 65.53, # N's per 100 kbp =  11.63
+    85 96_46MIDNRdeerAlc_S12_L001.contigs, N50 = 82012, L50 = 16, Total length = 4298830, GC % = 65.55, # N's per 100 kbp =  9.30
+    86 96_47MIDNRdeerMontm_S4_L001.contigs, N50 = 74542, L50 = 18, Total length = 4291775, GC % = 65.54, # N's per 100 kbp =  11.65
+    87 96_57MIDNRdeerAlc_S2_L001.contigs, N50 = 83825, L50 = 14, Total length = 4298701, GC % = 65.55, # N's per 100 kbp =  11.63
+    88 96_58MIDNRdeerAlc_S5_L001.contigs, N50 = 89920, L50 = 14, Total length = 4303761, GC % = 65.56, # N's per 100 kbp =  13.94
+    89 96_72MIDNRdeerOsco_S9_L001.contigs, N50 = 80944, L50 = 16, Total length = 4298886, GC % = 65.54, # N's per 100 kbp =  11.63
+    90 97_22MIDNRdeerAlc_S18_L001.contigs, N50 = 82463, L50 = 15, Total length = 4296843, GC % = 65.54, # N's per 100 kbp =  11.64
+    91 97_3MIDNRdeerAlp_S7_L001.contigs, N50 = 81264, L50 = 15, Total length = 4295580, GC % = 65.55, # N's per 100 kbp =  11.64
+    92 97_46MIDNRdeerMontm_S9_L001.contigs, N50 = 82397, L50 = 16, Total length = 4298719, GC % = 65.55, # N's per 100 kbp =  11.63
+    93 97_49MIDNRdeerMontm_S2_L001.contigs, N50 = 74364, L50 = 17, Total length = 4298646, GC % = 65.56, # N's per 100 kbp =  11.63
+    94 97_51MIDNRdeerAlc_2_S5_L001.contigs, N50 = 98885, L50 = 15, Total length = 4304204, GC % = 65.54, # N's per 100 kbp =  13.94
+    95 97_52MIDNRdeerAlp_2_S3_L001.contigs, N50 = 98885, L50 = 16, Total length = 4296665, GC % = 65.55, # N's per 100 kbp =  11.64
+    96 97_54MIDNRdeerAlp_2_S4_L001.contigs, N50 = 82398, L50 = 14, Total length = 4296357, GC % = 65.55, # N's per 100 kbp =  11.64
+    97 97_55MIDNRdeerMontm_S3_L001.contigs, N50 = 89861, L50 = 15, Total length = 4305385, GC % = 65.57, # N's per 100 kbp =  13.94
+    98 97_57MIDNRdeerAlc_S11_L001.contigs, N50 = 82975, L50 = 15, Total length = 4299514, GC % = 65.55, # N's per 100 kbp =  13.96
+    99 97_60MIDNRdeerAlp_S16_L001.contigs, N50 = 77709, L50 = 17, Total length = 4295413, GC % = 65.53, # N's per 100 kbp =  11.64
+    100 97_61MIDNRdeerMontm_S13_L001.contigs, N50 = 98885, L50 = 14, Total length = 4299592, GC % = 65.55, # N's per 100 kbp =  11.63
+    101 97_64MIDNRdeerPI_S19_L001.contigs, N50 = 82599, L50 = 16, Total length = 4293644, GC % = 65.53, # N's per 100 kbp =  13.97
+    102 97_66MIDNRdeerOsco_S7_L001.contigs, N50 = 82476, L50 = 16, Total length = 4407045, GC % = 65.61, # N's per 100 kbp =  11.35
+    103 98_11MIDNRdeerAlp_2_S3_L001.contigs, N50 = 101615, L50 = 15, Total length = 4304227, GC % = 65.56, # N's per 100 kbp =  11.62
+    104 98_16MIDNRdeerAlc_S10_L001.contigs, N50 = 82453, L50 = 14, Total length = 4295558, GC % = 65.55, # N's per 100 kbp =  11.64
+    105 98_20MIDNRdeerAlp_S14_L001.contigs, N50 = 98884, L50 = 15, Total length = 4299929, GC % = 65.56, # N's per 100 kbp =  11.63
+    106 98_24MIDNRdeerAlp_2_S11_L001.contigs, N50 = 84584, L50 = 14, Total length = 4304907, GC % = 65.53, # N's per 100 kbp =  11.61
+    107 98_29MIDNRdeerAlc_S7_L001.contigs, N50 = 74331, L50 = 17, Total length = 4297971, GC % = 65.54, # N's per 100 kbp =  11.63
+    108 98_30MIDNRdeerAlc_S10_L001.contigs, N50 = 79394, L50 = 16, Total length = 4292530, GC % = 65.53, # N's per 100 kbp =  13.98
+    109 98_38MIDNRdeerAlc_S2_L001.contigs, N50 = 84027, L50 = 14, Total length = 4291909, GC % = 65.53, # N's per 100 kbp =  11.65
+    110 98_54MIDNRdeerAlp_S2_L001.contigs, N50 = 81457, L50 = 15, Total length = 4301284, GC % = 65.57, # N's per 100 kbp =  11.62
+    111 98_5MIDNRdeerAlc_2_S7_L001.contigs, N50 = 84098, L50 = 15, Total length = 4297587, GC % = 65.54, # N's per 100 kbp =  11.63
+    112 98_5MIDNRdeerAlc_3_S8_L001.contigs, N50 = 84788, L50 = 14, Total length = 4306166, GC % = 65.57, # N's per 100 kbp =  11.61
+    113 98_66MIDNRdeerAlc_S6_L001.contigs, N50 = 81985, L50 = 16, Total length = 4308828, GC % = 65.52, # N's per 100 kbp =  11.60
+    114 98_80MIDNRdeerMontm_S11_L001.contigs, N50 = 82107, L50 = 16, Total length = 4296921, GC % = 65.54, # N's per 100 kbp =  11.64
+    115 99_10MIDNRdeerMontm_S21_L001.contigs, N50 = 81136, L50 = 17, Total length = 4292168, GC % = 65.54, # N's per 100 kbp =  11.65
+    116 99_17MIDNRdeerOsco_S10_L001.contigs, N50 = 80698, L50 = 16, Total length = 4298903, GC % = 65.56, # N's per 100 kbp =  11.63
+    117 99_19MIDNRdeerAnt_S10_L001.contigs, N50 = 119753, L50 = 13, Total length = 4304894, GC % = 65.57, # N's per 100 kbp =  11.61
+    118 99_1MIDNRdeerMontm_S16_L001.contigs, N50 = 81404, L50 = 16, Total length = 4299611, GC % = 65.55, # N's per 100 kbp =  13.95
+    119 99_21MIDNRdeerAlc_cat.contigs, N50 = 82453, L50 = 16, Total length = 4288414, GC % = 65.53, # N's per 100 kbp =  9.33
+    120 99_22MIDNRdeerAlc_1_S14_L001.contigs, N50 = 96386, L50 = 14, Total length = 4304548, GC % = 65.50, # N's per 100 kbp =  11.62
+    121 99_23MIDNRdeerMontm_S19_L001.contigs, N50 = 83270, L50 = 15, Total length = 4296197, GC % = 65.55, # N's per 100 kbp =  11.64
+    122 99_24MIDNRdeerAlc_cat.contigs, N50 = 81484, L50 = 16, Total length = 4298259, GC % = 65.54, # N's per 100 kbp =  9.31
+    123 99_26MIDNRdeerMontm_S5_L001.contigs, N50 = 82265, L50 = 16, Total length = 4298807, GC % = 65.54, # N's per 100 kbp =  9.30
+    124 99_53MIDNRdeerMontm_S3_L001.contigs, N50 = 81914, L50 = 16, Total length = 4300164, GC % = 65.53, # N's per 100 kbp =  11.63
+    125 99_56MIDNRdeerAlc_S12_L001.contigs, N50 = 83957, L50 = 14, Total length = 4295519, GC % = 65.55, # N's per 100 kbp =  9.31
+  Drawing Nx plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/GC_content_plot.pdf
+  Drawing 00_17MIDNRdeerMontm_S23_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_17MIDNRdeerMontm_S23_L001.contigs_GC_content_plot.pdf
+  Drawing 00_1MIDNRdeerAlc_S5_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_1MIDNRdeerAlc_S5_L001.contigs_GC_content_plot.pdf
+  Drawing 00_21MIDNRdeerOts_S14_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_21MIDNRdeerOts_S14_L001.contigs_GC_content_plot.pdf
+  Drawing 00_26MIDNRdeerAlp_S12_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_26MIDNRdeerAlp_S12_L001.contigs_GC_content_plot.pdf
+  Drawing 00_27MIDNRdeerAlp_S27_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_27MIDNRdeerAlp_S27_L001.contigs_GC_content_plot.pdf
+  Drawing 00_28MIDNRdeerEmm_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_28MIDNRdeerEmm_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 00_29MIDNRdeerAlc_S37_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_29MIDNRdeerAlc_S37_L001.contigs_GC_content_plot.pdf
+  Drawing 00_2MIDNRdeerOsco_S32_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_2MIDNRdeerOsco_S32_L001.contigs_GC_content_plot.pdf
+  Drawing 00_32MIDNRdeerOts_S19_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_32MIDNRdeerOts_S19_L001.contigs_GC_content_plot.pdf
+  Drawing 00_33MIDNRdeerPI_S7_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_33MIDNRdeerPI_S7_L001.contigs_GC_content_plot.pdf
+  Drawing 00_3MIDNRdeerMontm_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_3MIDNRdeerMontm_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 00_43MIDNRdeerMontm_S17_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_43MIDNRdeerMontm_S17_L001.contigs_GC_content_plot.pdf
+  Drawing 00_47MIDNRdeerMontm_S13_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_47MIDNRdeerMontm_S13_L001.contigs_GC_content_plot.pdf
+  Drawing 00_48MIDNRdeerMontm_S20_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_48MIDNRdeerMontm_S20_L001.contigs_GC_content_plot.pdf
+  Drawing 00_51MIDNRdeerAlp_S34_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_51MIDNRdeerAlp_S34_L001.contigs_GC_content_plot.pdf
+  Drawing 00_53MIDNRdeerAlc_S26_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_53MIDNRdeerAlc_S26_L001.contigs_GC_content_plot.pdf
+  Drawing 00_55MIDNRelk_Montm_S23_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_55MIDNRelk_Montm_S23_L001.contigs_GC_content_plot.pdf
+  Drawing 00_5MIDNRdeerOts_S31_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_5MIDNRdeerOts_S31_L001.contigs_GC_content_plot.pdf
+  Drawing 01_20MIDNRdeerAlc_S19_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_20MIDNRdeerAlc_S19_L001.contigs_GC_content_plot.pdf
+  Drawing 01_32MIDNRdeerMontm_S44_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_32MIDNRdeerMontm_S44_L001.contigs_GC_content_plot.pdf
+  Drawing 01_34MIDNRdeerAlp_S26_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_34MIDNRdeerAlp_S26_L001.contigs_GC_content_plot.pdf
+  Drawing 01_38MIDNRdeerMontm_S22_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_38MIDNRdeerMontm_S22_L001.contigs_GC_content_plot.pdf
+  Drawing 01_39MIDNRdeerMontm_S5_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_39MIDNRdeerMontm_S5_L001.contigs_GC_content_plot.pdf
+  Drawing 01_40MIDNRdeerAlc_S11_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_40MIDNRdeerAlc_S11_L001.contigs_GC_content_plot.pdf
+  Drawing 01_44MIDNRdeerMontm_S13_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_44MIDNRdeerMontm_S13_L001.contigs_GC_content_plot.pdf
+  Drawing 01_45MIDNRdeerPI_S16_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_45MIDNRdeerPI_S16_L001.contigs_GC_content_plot.pdf
+  Drawing 01_4MIDNRdeerMontm_S8_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_4MIDNRdeerMontm_S8_L001.contigs_GC_content_plot.pdf
+  Drawing 01_5MIDNRdeerOsco_S16_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_5MIDNRdeerOsco_S16_L001.contigs_GC_content_plot.pdf
+  Drawing 01_61MIDNRelkMontm_S10_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_61MIDNRelkMontm_S10_L001.contigs_GC_content_plot.pdf
+  Drawing 01_63MIDNRdeerAlc_S38_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_63MIDNRdeerAlc_S38_L001.contigs_GC_content_plot.pdf
+  Drawing 01_6MIDNRdeerOsco_S17_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_6MIDNRdeerOsco_S17_L001.contigs_GC_content_plot.pdf
+  Drawing 01_8MIDNRdeerAlp_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_8MIDNRdeerAlp_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 01_9MIDNRdeerAlc_S19_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_9MIDNRdeerAlc_S19_L001.contigs_GC_content_plot.pdf
+  Drawing 02_3MIDNRdeerMontm_S12_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/02_3MIDNRdeerMontm_S12_L001.contigs_GC_content_plot.pdf
+  Drawing 02_5MIDNRdeerAlc_S17_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/02_5MIDNRdeerAlc_S17_L001.contigs_GC_content_plot.pdf
+  Drawing 03_10MIDNRdeerMontm_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_10MIDNRdeerMontm_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 03_20MIDNRdeerOsco_S20_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_20MIDNRdeerOsco_S20_L001.contigs_GC_content_plot.pdf
+  Drawing 03_24MIDNRdeerPI_S22_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_24MIDNRdeerPI_S22_L001.contigs_GC_content_plot.pdf
+  Drawing 03_32MIDNRdeerMontm_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_32MIDNRdeerMontm_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 03_33MIDNRelkPI_S29_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_33MIDNRelkPI_S29_L001.contigs_GC_content_plot.pdf
+  Drawing 03_34MIDNRelkMontm_S33_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_34MIDNRelkMontm_S33_L001.contigs_GC_content_plot.pdf
+  Drawing 03_3MIDNRdeerMontm_S23_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_3MIDNRdeerMontm_S23_L001.contigs_GC_content_plot.pdf
+  Drawing 03_6MIDNRdeerAlp_S17_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_6MIDNRdeerAlp_S17_L001.contigs_GC_content_plot.pdf
+  Drawing 04_13MIDNRdeerAlp_S27_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_13MIDNRdeerAlp_S27_L001.contigs_GC_content_plot.pdf
+  Drawing 04_19MIDNRdeerPI_S13_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_19MIDNRdeerPI_S13_L001.contigs_GC_content_plot.pdf
+  Drawing 04_24MIDNRdeerMontm_S7_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_24MIDNRdeerMontm_S7_L001.contigs_GC_content_plot.pdf
+  Drawing 04_25MIDNRdeerPI_S6_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_25MIDNRdeerPI_S6_L001.contigs_GC_content_plot.pdf
+  Drawing 04_7295_S5_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_7295_S5_L001.contigs_GC_content_plot.pdf
+  Drawing 04_8158_S4_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_8158_S4_L001.contigs_GC_content_plot.pdf
+  Drawing 04_8159_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_8159_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 04_8160_S5_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_8160_S5_L001.contigs_GC_content_plot.pdf
+  Drawing 05_4MIDNRdeerOsco_S33_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/05_4MIDNRdeerOsco_S33_L001.contigs_GC_content_plot.pdf
+  Drawing 05_7MIDNRdeerAlc_S19_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/05_7MIDNRdeerAlc_S19_L001.contigs_GC_content_plot.pdf
+  Drawing 06_30MIDNRdeerAlp_S8_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_30MIDNRdeerAlp_S8_L001.contigs_GC_content_plot.pdf
+  Drawing 06_33MIDNRdeerMontm_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_33MIDNRdeerMontm_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 06_35MIDNRdeerAlp_CTTGTA_L008.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_35MIDNRdeerAlp_CTTGTA_L008.contigs_GC_content_plot.pdf
+  Drawing 06_38MIDNRdeerOsco_S16_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_38MIDNRdeerOsco_S16_L001.contigs_GC_content_plot.pdf
+  Drawing 06_44MIDNRdeerAlp_S26_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_44MIDNRdeerAlp_S26_L001.contigs_GC_content_plot.pdf
+  Drawing 06_45MIDNRelkMontm_S8_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_45MIDNRelkMontm_S8_L001.contigs_GC_content_plot.pdf
+  Drawing 07_13MIDNRdeerAlp_S18_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_13MIDNRdeerAlp_S18_L001.contigs_GC_content_plot.pdf
+  Drawing 07_1MIDNRdeerMontm_1_S7_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_1MIDNRdeerMontm_1_S7_L001.contigs_GC_content_plot.pdf
+  Drawing 07_28MIDNRdeerAlc_S14_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_28MIDNRdeerAlc_S14_L001.contigs_GC_content_plot.pdf
+  Drawing 07_30MIDNRdeerMontm_S11_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_30MIDNRdeerMontm_S11_L001.contigs_GC_content_plot.pdf
+  Drawing 07_3557_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_3557_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 07_6884.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_6884.contigs_GC_content_plot.pdf
+  Drawing 07_6MIDNRdeerMontm_S25_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_6MIDNRdeerMontm_S25_L001.contigs_GC_content_plot.pdf
+  Drawing 07_7MIDNRdeerMontm_1_S18_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_7MIDNRdeerMontm_1_S18_L001.contigs_GC_content_plot.pdf
+  Drawing 07_9MIDNRdeerOsco_S9_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_9MIDNRdeerOsco_S9_L001.contigs_GC_content_plot.pdf
+  Drawing 08_0954_ATCACG_L007.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/08_0954_ATCACG_L007.contigs_GC_content_plot.pdf
+  Drawing 08_2564_S6_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/08_2564_S6_L001.contigs_GC_content_plot.pdf
+  Drawing 08_4MIDNRdeerMontm_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/08_4MIDNRdeerMontm_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 09_4305_S4_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/09_4305_S4_L001.contigs_GC_content_plot.pdf
+  Drawing 13_11MIDNRdeerOsco_S24_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_11MIDNRdeerOsco_S24_L001.contigs_GC_content_plot.pdf
+  Drawing 13_13MIDNRdeerPI_S34_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_13MIDNRdeerPI_S34_L001.contigs_GC_content_plot.pdf
+  Drawing 13_20MIDNRdeerOsco_S28_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_20MIDNRdeerOsco_S28_L001.contigs_GC_content_plot.pdf
+  Drawing 13_21MIDNRdeerMontm_S30_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_21MIDNRdeerMontm_S30_L001.contigs_GC_content_plot.pdf
+  Drawing 13_6MIDNRdeerAlc_S33_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_6MIDNRdeerAlc_S33_L001.contigs_GC_content_plot.pdf
+  Drawing 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_01_43MIDNRdeerAlc_S34_L001.contigs_GC_content_plot.pdf
+  Drawing 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_01_60MIDNRdeerAlp_S18_L001.contigs_GC_content_plot.pdf
+  Drawing 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_04_10MIDNRdeerAlp_S17_L001.contigs_GC_content_plot.pdf
+  Drawing 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs_GC_content_plot.pdf
+  Drawing 96_20MIDNRdeerAlp_S10_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_20MIDNRdeerAlp_S10_L001.contigs_GC_content_plot.pdf
+  Drawing 96_32MIDNRdeerAlp_S19_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_32MIDNRdeerAlp_S19_L001.contigs_GC_content_plot.pdf
+  Drawing 96_38MIDNRdeerAlp_S15_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_38MIDNRdeerAlp_S15_L001.contigs_GC_content_plot.pdf
+  Drawing 96_46MIDNRdeerAlc_S12_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_46MIDNRdeerAlc_S12_L001.contigs_GC_content_plot.pdf
+  Drawing 96_47MIDNRdeerMontm_S4_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_47MIDNRdeerMontm_S4_L001.contigs_GC_content_plot.pdf
+  Drawing 96_57MIDNRdeerAlc_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_57MIDNRdeerAlc_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 96_58MIDNRdeerAlc_S5_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_58MIDNRdeerAlc_S5_L001.contigs_GC_content_plot.pdf
+  Drawing 96_72MIDNRdeerOsco_S9_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_72MIDNRdeerOsco_S9_L001.contigs_GC_content_plot.pdf
+  Drawing 97_22MIDNRdeerAlc_S18_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_22MIDNRdeerAlc_S18_L001.contigs_GC_content_plot.pdf
+  Drawing 97_3MIDNRdeerAlp_S7_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_3MIDNRdeerAlp_S7_L001.contigs_GC_content_plot.pdf
+  Drawing 97_46MIDNRdeerMontm_S9_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_46MIDNRdeerMontm_S9_L001.contigs_GC_content_plot.pdf
+  Drawing 97_49MIDNRdeerMontm_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_49MIDNRdeerMontm_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 97_51MIDNRdeerAlc_2_S5_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_51MIDNRdeerAlc_2_S5_L001.contigs_GC_content_plot.pdf
+  Drawing 97_52MIDNRdeerAlp_2_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_52MIDNRdeerAlp_2_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 97_54MIDNRdeerAlp_2_S4_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_54MIDNRdeerAlp_2_S4_L001.contigs_GC_content_plot.pdf
+  Drawing 97_55MIDNRdeerMontm_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_55MIDNRdeerMontm_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 97_57MIDNRdeerAlc_S11_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_57MIDNRdeerAlc_S11_L001.contigs_GC_content_plot.pdf
+  Drawing 97_60MIDNRdeerAlp_S16_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_60MIDNRdeerAlp_S16_L001.contigs_GC_content_plot.pdf
+  Drawing 97_61MIDNRdeerMontm_S13_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_61MIDNRdeerMontm_S13_L001.contigs_GC_content_plot.pdf
+  Drawing 97_64MIDNRdeerPI_S19_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_64MIDNRdeerPI_S19_L001.contigs_GC_content_plot.pdf
+  Drawing 97_66MIDNRdeerOsco_S7_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_66MIDNRdeerOsco_S7_L001.contigs_GC_content_plot.pdf
+  Drawing 98_11MIDNRdeerAlp_2_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_11MIDNRdeerAlp_2_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 98_16MIDNRdeerAlc_S10_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_16MIDNRdeerAlc_S10_L001.contigs_GC_content_plot.pdf
+  Drawing 98_20MIDNRdeerAlp_S14_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_20MIDNRdeerAlp_S14_L001.contigs_GC_content_plot.pdf
+  Drawing 98_24MIDNRdeerAlp_2_S11_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_24MIDNRdeerAlp_2_S11_L001.contigs_GC_content_plot.pdf
+  Drawing 98_29MIDNRdeerAlc_S7_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_29MIDNRdeerAlc_S7_L001.contigs_GC_content_plot.pdf
+  Drawing 98_30MIDNRdeerAlc_S10_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_30MIDNRdeerAlc_S10_L001.contigs_GC_content_plot.pdf
+  Drawing 98_38MIDNRdeerAlc_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_38MIDNRdeerAlc_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 98_54MIDNRdeerAlp_S2_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_54MIDNRdeerAlp_S2_L001.contigs_GC_content_plot.pdf
+  Drawing 98_5MIDNRdeerAlc_2_S7_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_5MIDNRdeerAlc_2_S7_L001.contigs_GC_content_plot.pdf
+  Drawing 98_5MIDNRdeerAlc_3_S8_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_5MIDNRdeerAlc_3_S8_L001.contigs_GC_content_plot.pdf
+  Drawing 98_66MIDNRdeerAlc_S6_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_66MIDNRdeerAlc_S6_L001.contigs_GC_content_plot.pdf
+  Drawing 98_80MIDNRdeerMontm_S11_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_80MIDNRdeerMontm_S11_L001.contigs_GC_content_plot.pdf
+  Drawing 99_10MIDNRdeerMontm_S21_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_10MIDNRdeerMontm_S21_L001.contigs_GC_content_plot.pdf
+  Drawing 99_17MIDNRdeerOsco_S10_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_17MIDNRdeerOsco_S10_L001.contigs_GC_content_plot.pdf
+  Drawing 99_19MIDNRdeerAnt_S10_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_19MIDNRdeerAnt_S10_L001.contigs_GC_content_plot.pdf
+  Drawing 99_1MIDNRdeerMontm_S16_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_1MIDNRdeerMontm_S16_L001.contigs_GC_content_plot.pdf
+  Drawing 99_21MIDNRdeerAlc_cat.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_21MIDNRdeerAlc_cat.contigs_GC_content_plot.pdf
+  Drawing 99_22MIDNRdeerAlc_1_S14_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_22MIDNRdeerAlc_1_S14_L001.contigs_GC_content_plot.pdf
+  Drawing 99_23MIDNRdeerMontm_S19_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_23MIDNRdeerMontm_S19_L001.contigs_GC_content_plot.pdf
+  Drawing 99_24MIDNRdeerAlc_cat.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_24MIDNRdeerAlc_cat.contigs_GC_content_plot.pdf
+  Drawing 99_26MIDNRdeerMontm_S5_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_26MIDNRdeerMontm_S5_L001.contigs_GC_content_plot.pdf
+  Drawing 99_53MIDNRdeerMontm_S3_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_53MIDNRdeerMontm_S3_L001.contigs_GC_content_plot.pdf
+  Drawing 99_56MIDNRdeerAlc_S12_L001.contigs GC content plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_56MIDNRdeerAlc_S12_L001.contigs_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/coverage_histogram.pdf
+  Drawing 00_17MIDNRdeerMontm_S23_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_17MIDNRdeerMontm_S23_L001-contigs_coverage_histogram.pdf
+  Drawing 00_1MIDNRdeerAlc_S5_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_1MIDNRdeerAlc_S5_L001-contigs_coverage_histogram.pdf
+  Drawing 00_21MIDNRdeerOts_S14_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_21MIDNRdeerOts_S14_L001-contigs_coverage_histogram.pdf
+  Drawing 00_26MIDNRdeerAlp_S12_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_26MIDNRdeerAlp_S12_L001-contigs_coverage_histogram.pdf
+  Drawing 00_27MIDNRdeerAlp_S27_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_27MIDNRdeerAlp_S27_L001-contigs_coverage_histogram.pdf
+  Drawing 00_28MIDNRdeerEmm_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_28MIDNRdeerEmm_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 00_29MIDNRdeerAlc_S37_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_29MIDNRdeerAlc_S37_L001-contigs_coverage_histogram.pdf
+  Drawing 00_2MIDNRdeerOsco_S32_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_2MIDNRdeerOsco_S32_L001-contigs_coverage_histogram.pdf
+  Drawing 00_32MIDNRdeerOts_S19_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_32MIDNRdeerOts_S19_L001-contigs_coverage_histogram.pdf
+  Drawing 00_33MIDNRdeerPI_S7_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_33MIDNRdeerPI_S7_L001-contigs_coverage_histogram.pdf
+  Drawing 00_3MIDNRdeerMontm_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_3MIDNRdeerMontm_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 00_43MIDNRdeerMontm_S17_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_43MIDNRdeerMontm_S17_L001-contigs_coverage_histogram.pdf
+  Drawing 00_47MIDNRdeerMontm_S13_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_47MIDNRdeerMontm_S13_L001-contigs_coverage_histogram.pdf
+  Drawing 00_48MIDNRdeerMontm_S20_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_48MIDNRdeerMontm_S20_L001-contigs_coverage_histogram.pdf
+  Drawing 00_51MIDNRdeerAlp_S34_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_51MIDNRdeerAlp_S34_L001-contigs_coverage_histogram.pdf
+  Drawing 00_53MIDNRdeerAlc_S26_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_53MIDNRdeerAlc_S26_L001-contigs_coverage_histogram.pdf
+  Drawing 00_55MIDNRelk_Montm_S23_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_55MIDNRelk_Montm_S23_L001-contigs_coverage_histogram.pdf
+  Drawing 00_5MIDNRdeerOts_S31_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/00_5MIDNRdeerOts_S31_L001-contigs_coverage_histogram.pdf
+  Drawing 01_20MIDNRdeerAlc_S19_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_20MIDNRdeerAlc_S19_L001-contigs_coverage_histogram.pdf
+  Drawing 01_32MIDNRdeerMontm_S44_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_32MIDNRdeerMontm_S44_L001-contigs_coverage_histogram.pdf
+  Drawing 01_34MIDNRdeerAlp_S26_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_34MIDNRdeerAlp_S26_L001-contigs_coverage_histogram.pdf
+  Drawing 01_38MIDNRdeerMontm_S22_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_38MIDNRdeerMontm_S22_L001-contigs_coverage_histogram.pdf
+  Drawing 01_39MIDNRdeerMontm_S5_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_39MIDNRdeerMontm_S5_L001-contigs_coverage_histogram.pdf
+  Drawing 01_40MIDNRdeerAlc_S11_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_40MIDNRdeerAlc_S11_L001-contigs_coverage_histogram.pdf
+  Drawing 01_44MIDNRdeerMontm_S13_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_44MIDNRdeerMontm_S13_L001-contigs_coverage_histogram.pdf
+  Drawing 01_45MIDNRdeerPI_S16_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_45MIDNRdeerPI_S16_L001-contigs_coverage_histogram.pdf
+  Drawing 01_4MIDNRdeerMontm_S8_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_4MIDNRdeerMontm_S8_L001-contigs_coverage_histogram.pdf
+  Drawing 01_5MIDNRdeerOsco_S16_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_5MIDNRdeerOsco_S16_L001-contigs_coverage_histogram.pdf
+  Drawing 01_61MIDNRelkMontm_S10_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_61MIDNRelkMontm_S10_L001-contigs_coverage_histogram.pdf
+  Drawing 01_63MIDNRdeerAlc_S38_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_63MIDNRdeerAlc_S38_L001-contigs_coverage_histogram.pdf
+  Drawing 01_6MIDNRdeerOsco_S17_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_6MIDNRdeerOsco_S17_L001-contigs_coverage_histogram.pdf
+  Drawing 01_8MIDNRdeerAlp_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_8MIDNRdeerAlp_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 01_9MIDNRdeerAlc_S19_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/01_9MIDNRdeerAlc_S19_L001-contigs_coverage_histogram.pdf
+  Drawing 02_3MIDNRdeerMontm_S12_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/02_3MIDNRdeerMontm_S12_L001-contigs_coverage_histogram.pdf
+  Drawing 02_5MIDNRdeerAlc_S17_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/02_5MIDNRdeerAlc_S17_L001-contigs_coverage_histogram.pdf
+  Drawing 03_10MIDNRdeerMontm_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_10MIDNRdeerMontm_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 03_20MIDNRdeerOsco_S20_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_20MIDNRdeerOsco_S20_L001-contigs_coverage_histogram.pdf
+  Drawing 03_24MIDNRdeerPI_S22_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_24MIDNRdeerPI_S22_L001-contigs_coverage_histogram.pdf
+  Drawing 03_32MIDNRdeerMontm_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_32MIDNRdeerMontm_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 03_33MIDNRelkPI_S29_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_33MIDNRelkPI_S29_L001-contigs_coverage_histogram.pdf
+  Drawing 03_34MIDNRelkMontm_S33_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_34MIDNRelkMontm_S33_L001-contigs_coverage_histogram.pdf
+  Drawing 03_3MIDNRdeerMontm_S23_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_3MIDNRdeerMontm_S23_L001-contigs_coverage_histogram.pdf
+  Drawing 03_6MIDNRdeerAlp_S17_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/03_6MIDNRdeerAlp_S17_L001-contigs_coverage_histogram.pdf
+  Drawing 04_13MIDNRdeerAlp_S27_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_13MIDNRdeerAlp_S27_L001-contigs_coverage_histogram.pdf
+  Drawing 04_19MIDNRdeerPI_S13_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_19MIDNRdeerPI_S13_L001-contigs_coverage_histogram.pdf
+  Drawing 04_24MIDNRdeerMontm_S7_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_24MIDNRdeerMontm_S7_L001-contigs_coverage_histogram.pdf
+  Drawing 04_25MIDNRdeerPI_S6_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_25MIDNRdeerPI_S6_L001-contigs_coverage_histogram.pdf
+  Drawing 04_7295_S5_L001.contigs coverage histogram (bin size: 2x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_7295_S5_L001-contigs_coverage_histogram.pdf
+  Drawing 04_8158_S4_L001.contigs coverage histogram (bin size: 2x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_8158_S4_L001-contigs_coverage_histogram.pdf
+  Drawing 04_8159_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_8159_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 04_8160_S5_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/04_8160_S5_L001-contigs_coverage_histogram.pdf
+  Drawing 05_4MIDNRdeerOsco_S33_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/05_4MIDNRdeerOsco_S33_L001-contigs_coverage_histogram.pdf
+  Drawing 05_7MIDNRdeerAlc_S19_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/05_7MIDNRdeerAlc_S19_L001-contigs_coverage_histogram.pdf
+  Drawing 06_30MIDNRdeerAlp_S8_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_30MIDNRdeerAlp_S8_L001-contigs_coverage_histogram.pdf
+  Drawing 06_33MIDNRdeerMontm_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_33MIDNRdeerMontm_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 06_35MIDNRdeerAlp_CTTGTA_L008.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_35MIDNRdeerAlp_CTTGTA_L008-contigs_coverage_histogram.pdf
+  Drawing 06_38MIDNRdeerOsco_S16_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_38MIDNRdeerOsco_S16_L001-contigs_coverage_histogram.pdf
+  Drawing 06_44MIDNRdeerAlp_S26_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_44MIDNRdeerAlp_S26_L001-contigs_coverage_histogram.pdf
+  Drawing 06_45MIDNRelkMontm_S8_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/06_45MIDNRelkMontm_S8_L001-contigs_coverage_histogram.pdf
+  Drawing 07_13MIDNRdeerAlp_S18_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_13MIDNRdeerAlp_S18_L001-contigs_coverage_histogram.pdf
+  Drawing 07_1MIDNRdeerMontm_1_S7_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_1MIDNRdeerMontm_1_S7_L001-contigs_coverage_histogram.pdf
+  Drawing 07_28MIDNRdeerAlc_S14_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_28MIDNRdeerAlc_S14_L001-contigs_coverage_histogram.pdf
+  Drawing 07_30MIDNRdeerMontm_S11_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_30MIDNRdeerMontm_S11_L001-contigs_coverage_histogram.pdf
+  Drawing 07_3557_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_3557_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 07_6884.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_6884-contigs_coverage_histogram.pdf
+  Drawing 07_6MIDNRdeerMontm_S25_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_6MIDNRdeerMontm_S25_L001-contigs_coverage_histogram.pdf
+  Drawing 07_7MIDNRdeerMontm_1_S18_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_7MIDNRdeerMontm_1_S18_L001-contigs_coverage_histogram.pdf
+  Drawing 07_9MIDNRdeerOsco_S9_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/07_9MIDNRdeerOsco_S9_L001-contigs_coverage_histogram.pdf
+  Drawing 08_0954_ATCACG_L007.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/08_0954_ATCACG_L007-contigs_coverage_histogram.pdf
+  Drawing 08_2564_S6_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/08_2564_S6_L001-contigs_coverage_histogram.pdf
+  Drawing 08_4MIDNRdeerMontm_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/08_4MIDNRdeerMontm_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 09_4305_S4_L001.contigs coverage histogram (bin size: 6x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/09_4305_S4_L001-contigs_coverage_histogram.pdf
+  Drawing 13_11MIDNRdeerOsco_S24_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_11MIDNRdeerOsco_S24_L001-contigs_coverage_histogram.pdf
+  Drawing 13_13MIDNRdeerPI_S34_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_13MIDNRdeerPI_S34_L001-contigs_coverage_histogram.pdf
+  Drawing 13_20MIDNRdeerOsco_S28_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_20MIDNRdeerOsco_S28_L001-contigs_coverage_histogram.pdf
+  Drawing 13_21MIDNRdeerMontm_S30_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_21MIDNRdeerMontm_S30_L001-contigs_coverage_histogram.pdf
+  Drawing 13_6MIDNRdeerAlc_S33_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/13_6MIDNRdeerAlc_S33_L001-contigs_coverage_histogram.pdf
+  Drawing 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_01_43MIDNRdeerAlc_S34_L001-contigs_coverage_histogram.pdf
+  Drawing 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_01_60MIDNRdeerAlp_S18_L001-contigs_coverage_histogram.pdf
+  Drawing 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_04_10MIDNRdeerAlp_S17_L001-contigs_coverage_histogram.pdf
+  Drawing 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/16_017237_04_30MIDNRdeerMontm_3_S11_L001-contigs_coverage_histogram.pdf
+  Drawing 96_20MIDNRdeerAlp_S10_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_20MIDNRdeerAlp_S10_L001-contigs_coverage_histogram.pdf
+  Drawing 96_32MIDNRdeerAlp_S19_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_32MIDNRdeerAlp_S19_L001-contigs_coverage_histogram.pdf
+  Drawing 96_38MIDNRdeerAlp_S15_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_38MIDNRdeerAlp_S15_L001-contigs_coverage_histogram.pdf
+  Drawing 96_46MIDNRdeerAlc_S12_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_46MIDNRdeerAlc_S12_L001-contigs_coverage_histogram.pdf
+  Drawing 96_47MIDNRdeerMontm_S4_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_47MIDNRdeerMontm_S4_L001-contigs_coverage_histogram.pdf
+  Drawing 96_57MIDNRdeerAlc_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_57MIDNRdeerAlc_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 96_58MIDNRdeerAlc_S5_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_58MIDNRdeerAlc_S5_L001-contigs_coverage_histogram.pdf
+  Drawing 96_72MIDNRdeerOsco_S9_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/96_72MIDNRdeerOsco_S9_L001-contigs_coverage_histogram.pdf
+  Drawing 97_22MIDNRdeerAlc_S18_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_22MIDNRdeerAlc_S18_L001-contigs_coverage_histogram.pdf
+  Drawing 97_3MIDNRdeerAlp_S7_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_3MIDNRdeerAlp_S7_L001-contigs_coverage_histogram.pdf
+  Drawing 97_46MIDNRdeerMontm_S9_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_46MIDNRdeerMontm_S9_L001-contigs_coverage_histogram.pdf
+  Drawing 97_49MIDNRdeerMontm_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_49MIDNRdeerMontm_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 97_51MIDNRdeerAlc_2_S5_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_51MIDNRdeerAlc_2_S5_L001-contigs_coverage_histogram.pdf
+  Drawing 97_52MIDNRdeerAlp_2_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_52MIDNRdeerAlp_2_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 97_54MIDNRdeerAlp_2_S4_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_54MIDNRdeerAlp_2_S4_L001-contigs_coverage_histogram.pdf
+  Drawing 97_55MIDNRdeerMontm_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_55MIDNRdeerMontm_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 97_57MIDNRdeerAlc_S11_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_57MIDNRdeerAlc_S11_L001-contigs_coverage_histogram.pdf
+  Drawing 97_60MIDNRdeerAlp_S16_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_60MIDNRdeerAlp_S16_L001-contigs_coverage_histogram.pdf
+  Drawing 97_61MIDNRdeerMontm_S13_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_61MIDNRdeerMontm_S13_L001-contigs_coverage_histogram.pdf
+  Drawing 97_64MIDNRdeerPI_S19_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_64MIDNRdeerPI_S19_L001-contigs_coverage_histogram.pdf
+  Drawing 97_66MIDNRdeerOsco_S7_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/97_66MIDNRdeerOsco_S7_L001-contigs_coverage_histogram.pdf
+  Drawing 98_11MIDNRdeerAlp_2_S3_L001.contigs coverage histogram (bin size: 2x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_11MIDNRdeerAlp_2_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 98_16MIDNRdeerAlc_S10_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_16MIDNRdeerAlc_S10_L001-contigs_coverage_histogram.pdf
+  Drawing 98_20MIDNRdeerAlp_S14_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_20MIDNRdeerAlp_S14_L001-contigs_coverage_histogram.pdf
+  Drawing 98_24MIDNRdeerAlp_2_S11_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_24MIDNRdeerAlp_2_S11_L001-contigs_coverage_histogram.pdf
+  Drawing 98_29MIDNRdeerAlc_S7_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_29MIDNRdeerAlc_S7_L001-contigs_coverage_histogram.pdf
+  Drawing 98_30MIDNRdeerAlc_S10_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_30MIDNRdeerAlc_S10_L001-contigs_coverage_histogram.pdf
+  Drawing 98_38MIDNRdeerAlc_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_38MIDNRdeerAlc_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 98_54MIDNRdeerAlp_S2_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_54MIDNRdeerAlp_S2_L001-contigs_coverage_histogram.pdf
+  Drawing 98_5MIDNRdeerAlc_2_S7_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_5MIDNRdeerAlc_2_S7_L001-contigs_coverage_histogram.pdf
+  Drawing 98_5MIDNRdeerAlc_3_S8_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_5MIDNRdeerAlc_3_S8_L001-contigs_coverage_histogram.pdf
+  Drawing 98_66MIDNRdeerAlc_S6_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_66MIDNRdeerAlc_S6_L001-contigs_coverage_histogram.pdf
+  Drawing 98_80MIDNRdeerMontm_S11_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/98_80MIDNRdeerMontm_S11_L001-contigs_coverage_histogram.pdf
+  Drawing 99_10MIDNRdeerMontm_S21_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_10MIDNRdeerMontm_S21_L001-contigs_coverage_histogram.pdf
+  Drawing 99_17MIDNRdeerOsco_S10_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_17MIDNRdeerOsco_S10_L001-contigs_coverage_histogram.pdf
+  Drawing 99_19MIDNRdeerAnt_S10_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_19MIDNRdeerAnt_S10_L001-contigs_coverage_histogram.pdf
+  Drawing 99_1MIDNRdeerMontm_S16_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_1MIDNRdeerMontm_S16_L001-contigs_coverage_histogram.pdf
+  Drawing 99_21MIDNRdeerAlc_cat.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_21MIDNRdeerAlc_cat-contigs_coverage_histogram.pdf
+  Drawing 99_22MIDNRdeerAlc_1_S14_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_22MIDNRdeerAlc_1_S14_L001-contigs_coverage_histogram.pdf
+  Drawing 99_23MIDNRdeerMontm_S19_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_23MIDNRdeerMontm_S19_L001-contigs_coverage_histogram.pdf
+  Drawing 99_24MIDNRdeerAlc_cat.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_24MIDNRdeerAlc_cat-contigs_coverage_histogram.pdf
+  Drawing 99_26MIDNRdeerMontm_S5_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_26MIDNRdeerMontm_S5_L001-contigs_coverage_histogram.pdf
+  Drawing 99_53MIDNRdeerMontm_S3_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_53MIDNRdeerMontm_S3_L001-contigs_coverage_histogram.pdf
+  Drawing 99_56MIDNRdeerAlc_S12_L001.contigs coverage histogram (bin size: 1x)...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/basic_stats/99_56MIDNRdeerAlc_S12_L001-contigs_coverage_histogram.pdf
+Done.
+
+2020-02-20 11:47:45
+Running Contig analyzer...
+  1  00_17MIDNRdeerMontm_S23_L001.contigs
+  2  00_1MIDNRdeerAlc_S5_L001.contigs
+  4  00_26MIDNRdeerAlp_S12_L001.contigs
+  3  00_21MIDNRdeerOts_S14_L001.contigs
+  5  00_27MIDNRdeerAlp_S27_L001.contigs
+  8  00_2MIDNRdeerOsco_S32_L001.contigs
+  11 00_3MIDNRdeerMontm_S2_L001.contigs
+  10 00_33MIDNRdeerPI_S7_L001.contigs
+  12 00_43MIDNRdeerMontm_S17_L001.contigs
+  6  00_28MIDNRdeerEmm_S2_L001.contigs
+  7  00_29MIDNRdeerAlc_S37_L001.contigs
+  9  00_32MIDNRdeerOts_S19_L001.contigs
+  13 00_47MIDNRdeerMontm_S13_L001.contigs
+  15 00_51MIDNRdeerAlp_S34_L001.contigs
+  14 00_48MIDNRdeerMontm_S20_L001.contigs
+  16 00_53MIDNRdeerAlc_S26_L001.contigs
+  1  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_17MIDNRdeerMontm_S23_L001-contigs.stdout and contigs_report_00_17MIDNRdeerMontm_S23_L001-contigs.stderr...
+  8  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_2MIDNRdeerOsco_S32_L001-contigs.stdout and contigs_report_00_2MIDNRdeerOsco_S32_L001-contigs.stderr...
+  9  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_32MIDNRdeerOts_S19_L001-contigs.stdout and contigs_report_00_32MIDNRdeerOts_S19_L001-contigs.stderr...
+  5  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_27MIDNRdeerAlp_S27_L001-contigs.stdout and contigs_report_00_27MIDNRdeerAlp_S27_L001-contigs.stderr...
+  2  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_1MIDNRdeerAlc_S5_L001-contigs.stdout and contigs_report_00_1MIDNRdeerAlc_S5_L001-contigs.stderr...
+  13 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_47MIDNRdeerMontm_S13_L001-contigs.stdout and contigs_report_00_47MIDNRdeerMontm_S13_L001-contigs.stderr...
+  14 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_48MIDNRdeerMontm_S20_L001-contigs.stdout and contigs_report_00_48MIDNRdeerMontm_S20_L001-contigs.stderr...
+  3  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_21MIDNRdeerOts_S14_L001-contigs.stdout and contigs_report_00_21MIDNRdeerOts_S14_L001-contigs.stderr...
+  4  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_26MIDNRdeerAlp_S12_L001-contigs.stdout and contigs_report_00_26MIDNRdeerAlp_S12_L001-contigs.stderr...
+  16 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_53MIDNRdeerAlc_S26_L001-contigs.stdout and contigs_report_00_53MIDNRdeerAlc_S26_L001-contigs.stderr...
+  11 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_3MIDNRdeerMontm_S2_L001-contigs.stdout and contigs_report_00_3MIDNRdeerMontm_S2_L001-contigs.stderr...
+  6  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_28MIDNRdeerEmm_S2_L001-contigs.stdout and contigs_report_00_28MIDNRdeerEmm_S2_L001-contigs.stderr...
+  7  Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_29MIDNRdeerAlc_S37_L001-contigs.stdout and contigs_report_00_29MIDNRdeerAlc_S37_L001-contigs.stderr...
+  10 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_33MIDNRdeerPI_S7_L001-contigs.stdout and contigs_report_00_33MIDNRdeerPI_S7_L001-contigs.stderr...
+  12 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_43MIDNRdeerMontm_S17_L001-contigs.stdout and contigs_report_00_43MIDNRdeerMontm_S17_L001-contigs.stderr...
+  15 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_51MIDNRdeerAlp_S34_L001-contigs.stdout and contigs_report_00_51MIDNRdeerAlp_S34_L001-contigs.stderr...
+  12 Using existing alignments... 
+  13 Using existing alignments... 
+  1  Using existing alignments... 
+  5  Using existing alignments... 
+  4  Aligning contigs to the reference
+  9  Using existing alignments... 
+  6  Using existing alignments... 
+  4  /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/00_26MIDNRdeerAlp_S12_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/00_26MIDNRdeerAlp_S12_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_00_26MIDNRdeerAlp_S12_L001-contigs.stderr
+  14 Using existing alignments... 
+  7  Using existing alignments... 
+  8  Aligning contigs to the reference
+  11 Using existing alignments... 
+  16 Using existing alignments... 
+  15 Using existing alignments... 
+  2  Using existing alignments... 
+  3  Using existing alignments... 
+  10 Using existing alignments... 
+  12 Analysis is finished.
+
+  17 00_55MIDNRelk_Montm_S23_L001.contigs
+  8  /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/00_2MIDNRdeerOsco_S32_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/00_2MIDNRdeerOsco_S32_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_00_2MIDNRdeerOsco_S32_L001-contigs.stderr
+  17 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_55MIDNRelk_Montm_S23_L001-contigs.stdout and contigs_report_00_55MIDNRelk_Montm_S23_L001-contigs.stderr...
+  5  Analysis is finished.
+
+  18 00_5MIDNRdeerOts_S31_L001.contigs
+  18 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_00_5MIDNRdeerOts_S31_L001-contigs.stdout and contigs_report_00_5MIDNRdeerOts_S31_L001-contigs.stderr...
+  6  Analysis is finished.
+
+  14 Analysis is finished.
+
+  19 01_20MIDNRdeerAlc_S19_L001.contigs
+  20 01_32MIDNRdeerMontm_S44_L001.contigs
+  7  Analysis is finished.
+
+  21 01_34MIDNRdeerAlp_S26_L001.contigs
+  13 Analysis is finished.
+
+  22 01_38MIDNRdeerMontm_S22_L001.contigs
+  19 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_20MIDNRdeerAlc_S19_L001-contigs.stdout and contigs_report_01_20MIDNRdeerAlc_S19_L001-contigs.stderr...
+  21 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_34MIDNRdeerAlp_S26_L001-contigs.stdout and contigs_report_01_34MIDNRdeerAlp_S26_L001-contigs.stderr...
+  22 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_38MIDNRdeerMontm_S22_L001-contigs.stdout and contigs_report_01_38MIDNRdeerMontm_S22_L001-contigs.stderr...
+  9  Analysis is finished.
+
+  23 01_39MIDNRdeerMontm_S5_L001.contigs
+  1  Analysis is finished.
+
+  20 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_32MIDNRdeerMontm_S44_L001-contigs.stdout and contigs_report_01_32MIDNRdeerMontm_S44_L001-contigs.stderr...
+  24 01_40MIDNRdeerAlc_S11_L001.contigs
+  24 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_40MIDNRdeerAlc_S11_L001-contigs.stdout and contigs_report_01_40MIDNRdeerAlc_S11_L001-contigs.stderr...
+  16 Analysis is finished.
+
+  25 01_44MIDNRdeerMontm_S13_L001.contigs
+  23 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_39MIDNRdeerMontm_S5_L001-contigs.stdout and contigs_report_01_39MIDNRdeerMontm_S5_L001-contigs.stderr...
+  25 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_44MIDNRdeerMontm_S13_L001-contigs.stdout and contigs_report_01_44MIDNRdeerMontm_S13_L001-contigs.stderr...
+  15 Analysis is finished.
+
+  26 01_45MIDNRdeerPI_S16_L001.contigs
+  2  Analysis is finished.
+
+  27 01_4MIDNRdeerMontm_S8_L001.contigs
+  27 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_4MIDNRdeerMontm_S8_L001-contigs.stdout and contigs_report_01_4MIDNRdeerMontm_S8_L001-contigs.stderr...
+  26 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_45MIDNRdeerPI_S16_L001-contigs.stdout and contigs_report_01_45MIDNRdeerPI_S16_L001-contigs.stderr...
+  3  Analysis is finished.
+
+  28 01_5MIDNRdeerOsco_S16_L001.contigs
+  11 Analysis is finished.
+
+  29 01_61MIDNRelkMontm_S10_L001.contigs
+  28 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_5MIDNRdeerOsco_S16_L001-contigs.stdout and contigs_report_01_5MIDNRdeerOsco_S16_L001-contigs.stderr...
+  29 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_61MIDNRelkMontm_S10_L001-contigs.stdout and contigs_report_01_61MIDNRelkMontm_S10_L001-contigs.stderr...
+  17 Aligning contigs to the reference
+  21 Using existing alignments... 
+  17 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/00_55MIDNRelk_Montm_S23_L001_contigs.fa \
+     > assembly_stats/contigs_reports/minimap_output/00_55MIDNRelk_Montm_S23_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_00_55MIDNRelk_Montm_S23_L001-contigs.stderr
+  19 Using existing alignments... 
+  24 Using existing alignments... 
+  20 Using existing alignments... 
+  23 Using existing alignments... 
+  10 Analysis is finished.
+
+  30 01_63MIDNRdeerAlc_S38_L001.contigs
+  27 Aligning contigs to the reference
+  27 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/01_4MIDNRdeerMontm_S8_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/01_4MIDNRdeerMontm_S8_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_01_4MIDNRdeerMontm_S8_L001-contigs.stderr
+  28 Using existing alignments... 
+  18 Using existing alignments... 
+  30 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_63MIDNRdeerAlc_S38_L001-contigs.stdout and contigs_report_01_63MIDNRdeerAlc_S38_L001-contigs.stderr...
+  26 Using existing alignments... 
+  4  Analysis is finished.
+
+  31 01_6MIDNRdeerOsco_S17_L001.contigs
+  25 Using existing alignments... 
+  29 Using existing alignments... 
+  31 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_6MIDNRdeerOsco_S17_L001-contigs.stdout and contigs_report_01_6MIDNRdeerOsco_S17_L001-contigs.stderr...
+  22 Using existing alignments... 
+  21 Analysis is finished.
+
+  32 01_8MIDNRdeerAlp_S2_L001.contigs
+  32 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_8MIDNRdeerAlp_S2_L001-contigs.stdout and contigs_report_01_8MIDNRdeerAlp_S2_L001-contigs.stderr...
+  19 Analysis is finished.
+
+  33 01_9MIDNRdeerAlc_S19_L001.contigs
+  33 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_01_9MIDNRdeerAlc_S19_L001-contigs.stdout and contigs_report_01_9MIDNRdeerAlc_S19_L001-contigs.stderr...
+  30 Using existing alignments... 
+  20 Analysis is finished.
+
+  34 02_3MIDNRdeerMontm_S12_L001.contigs
+  23 Analysis is finished.
+
+  35 02_5MIDNRdeerAlc_S17_L001.contigs
+  35 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_02_5MIDNRdeerAlc_S17_L001-contigs.stdout and contigs_report_02_5MIDNRdeerAlc_S17_L001-contigs.stderr...
+  34 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_02_3MIDNRdeerMontm_S12_L001-contigs.stdout and contigs_report_02_3MIDNRdeerMontm_S12_L001-contigs.stderr...
+  8  Analysis is finished.
+
+  36 03_10MIDNRdeerMontm_S3_L001.contigs
+  24 Analysis is finished.
+
+  37 03_20MIDNRdeerOsco_S20_L001.contigs
+  36 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_10MIDNRdeerMontm_S3_L001-contigs.stdout and contigs_report_03_10MIDNRdeerMontm_S3_L001-contigs.stderr...
+  37 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_20MIDNRdeerOsco_S20_L001-contigs.stdout and contigs_report_03_20MIDNRdeerOsco_S20_L001-contigs.stderr...
+  26 Analysis is finished.
+
+  38 03_24MIDNRdeerPI_S22_L001.contigs
+  31 Using existing alignments... 
+  38 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_24MIDNRdeerPI_S22_L001-contigs.stdout and contigs_report_03_24MIDNRdeerPI_S22_L001-contigs.stderr...
+  25 Analysis is finished.
+
+  39 03_32MIDNRdeerMontm_S2_L001.contigs
+  28 Analysis is finished.
+
+  40 03_33MIDNRelkPI_S29_L001.contigs
+  40 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_33MIDNRelkPI_S29_L001-contigs.stdout and contigs_report_03_33MIDNRelkPI_S29_L001-contigs.stderr...
+  39 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_32MIDNRdeerMontm_S2_L001-contigs.stdout and contigs_report_03_32MIDNRdeerMontm_S2_L001-contigs.stderr...
+  32 Using existing alignments... 
+  18 Analysis is finished.
+
+  41 03_34MIDNRelkMontm_S33_L001.contigs
+  34 Using existing alignments... 
+  33 Using existing alignments... 
+  29 Analysis is finished.
+
+  42 03_3MIDNRdeerMontm_S23_L001.contigs
+  41 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_34MIDNRelkMontm_S33_L001-contigs.stdout and contigs_report_03_34MIDNRelkMontm_S33_L001-contigs.stderr...
+  42 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_3MIDNRdeerMontm_S23_L001-contigs.stdout and contigs_report_03_3MIDNRdeerMontm_S23_L001-contigs.stderr...
+  22 Analysis is finished.
+
+  43 03_6MIDNRdeerAlp_S17_L001.contigs
+  43 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_03_6MIDNRdeerAlp_S17_L001-contigs.stdout and contigs_report_03_6MIDNRdeerAlp_S17_L001-contigs.stderr...
+  43 Aligning contigs to the reference
+  43 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/03_6MIDNRdeerAlp_S17_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/03_6MIDNRdeerAlp_S17_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_03_6MIDNRdeerAlp_S17_L001-contigs.stderr
+  36 Using existing alignments... 
+  30 Analysis is finished.
+
+  44 04_13MIDNRdeerAlp_S27_L001.contigs
+  35 Using existing alignments... 
+  44 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_13MIDNRdeerAlp_S27_L001-contigs.stdout and contigs_report_04_13MIDNRdeerAlp_S27_L001-contigs.stderr...
+  40 Using existing alignments... 
+  37 Using existing alignments... 
+  17 Analysis is finished.
+
+  45 04_19MIDNRdeerPI_S13_L001.contigs
+  39 Using existing alignments... 
+  45 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_19MIDNRdeerPI_S13_L001-contigs.stdout and contigs_report_04_19MIDNRdeerPI_S13_L001-contigs.stderr...
+  38 Using existing alignments... 
+  31 Analysis is finished.
+
+  46 04_24MIDNRdeerMontm_S7_L001.contigs
+  46 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_24MIDNRdeerMontm_S7_L001-contigs.stdout and contigs_report_04_24MIDNRdeerMontm_S7_L001-contigs.stderr...
+  32 Analysis is finished.
+
+  47 04_25MIDNRdeerPI_S6_L001.contigs
+  27 Analysis is finished.
+
+  41 Using existing alignments... 
+  48 04_7295_S5_L001.contigs
+  48 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_7295_S5_L001-contigs.stdout and contigs_report_04_7295_S5_L001-contigs.stderr...
+  42 Using existing alignments... 
+  33 Analysis is finished.
+
+  49 04_8158_S4_L001.contigs
+  49 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_8158_S4_L001-contigs.stdout and contigs_report_04_8158_S4_L001-contigs.stderr...
+  49 Aligning contigs to the reference
+  49 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/04_8158_S4_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/04_8158_S4_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_04_8158_S4_L001-contigs.stderr
+  47 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_25MIDNRdeerPI_S6_L001-contigs.stdout and contigs_report_04_25MIDNRdeerPI_S6_L001-contigs.stderr...
+  47 Aligning contigs to the reference
+  48 Aligning contigs to the reference
+  47 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/04_25MIDNRdeerPI_S6_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/04_25MIDNRdeerPI_S6_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_04_25MIDNRdeerPI_S6_L001-contigs.stderr
+  44 Aligning contigs to the reference
+  48 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/04_7295_S5_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/04_7295_S5_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_04_7295_S5_L001-contigs.stderr
+  34 Analysis is finished.
+
+  50 04_8159_S3_L001.contigs
+  44 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/04_13MIDNRdeerAlp_S27_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/04_13MIDNRdeerAlp_S27_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_04_13MIDNRdeerAlp_S27_L001-contigs.stderr
+  50 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_8159_S3_L001-contigs.stdout and contigs_report_04_8159_S3_L001-contigs.stderr...
+  50 Aligning contigs to the reference
+  50 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/04_8159_S3_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/04_8159_S3_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_04_8159_S3_L001-contigs.stderr
+  35 Analysis is finished.
+
+  51 04_8160_S5_L001.contigs
+  51 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_04_8160_S5_L001-contigs.stdout and contigs_report_04_8160_S5_L001-contigs.stderr...
+  51 Aligning contigs to the reference
+  40 Analysis is finished.
+
+  52 05_4MIDNRdeerOsco_S33_L001.contigs
+  46 Using existing alignments... 
+  52 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_05_4MIDNRdeerOsco_S33_L001-contigs.stdout and contigs_report_05_4MIDNRdeerOsco_S33_L001-contigs.stderr...
+  52 Aligning contigs to the reference
+  51 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/04_8160_S5_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/04_8160_S5_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_04_8160_S5_L001-contigs.stderr
+  52 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/05_4MIDNRdeerOsco_S33_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/05_4MIDNRdeerOsco_S33_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_05_4MIDNRdeerOsco_S33_L001-contigs.stderr
+  45 Using existing alignments... 
+  39 Analysis is finished.
+
+  53 05_7MIDNRdeerAlc_S19_L001.contigs
+  37 Analysis is finished.
+
+  54 06_30MIDNRdeerAlp_S8_L001.contigs
+  54 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_06_30MIDNRdeerAlp_S8_L001-contigs.stdout and contigs_report_06_30MIDNRdeerAlp_S8_L001-contigs.stderr...
+  36 Analysis is finished.
+
+  55 06_33MIDNRdeerMontm_S3_L001.contigs
+  54 Aligning contigs to the reference
+  53 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_05_7MIDNRdeerAlc_S19_L001-contigs.stdout and contigs_report_05_7MIDNRdeerAlc_S19_L001-contigs.stderr...
+  55 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_06_33MIDNRdeerMontm_S3_L001-contigs.stdout and contigs_report_06_33MIDNRdeerMontm_S3_L001-contigs.stderr...
+  54 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/06_30MIDNRdeerAlp_S8_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/06_30MIDNRdeerAlp_S8_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_06_30MIDNRdeerAlp_S8_L001-contigs.stderr
+  41 Analysis is finished.
+
+  56 06_35MIDNRdeerAlp_CTTGTA_L008.contigs
+  42 Analysis is finished.
+
+  57 06_38MIDNRdeerOsco_S16_L001.contigs
+  57 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_06_38MIDNRdeerOsco_S16_L001-contigs.stdout and contigs_report_06_38MIDNRdeerOsco_S16_L001-contigs.stderr...
+  56 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_06_35MIDNRdeerAlp_CTTGTA_L008-contigs.stdout and contigs_report_06_35MIDNRdeerAlp_CTTGTA_L008-contigs.stderr...
+  38 Analysis is finished.
+
+  58 06_44MIDNRdeerAlp_S26_L001.contigs
+  58 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_06_44MIDNRdeerAlp_S26_L001-contigs.stdout and contigs_report_06_44MIDNRdeerAlp_S26_L001-contigs.stderr...
+  58 Aligning contigs to the reference
+  58 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/06_44MIDNRdeerAlp_S26_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/06_44MIDNRdeerAlp_S26_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_06_44MIDNRdeerAlp_S26_L001-contigs.stderr
+  55 Using existing alignments... 
+  53 Using existing alignments... 
+  46 Analysis is finished.
+
+  59 06_45MIDNRelkMontm_S8_L001.contigs
+  59 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_06_45MIDNRelkMontm_S8_L001-contigs.stdout and contigs_report_06_45MIDNRelkMontm_S8_L001-contigs.stderr...
+  56 Using existing alignments... 
+  45 Analysis is finished.
+
+  60 07_13MIDNRdeerAlp_S18_L001.contigs
+  60 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_13MIDNRdeerAlp_S18_L001-contigs.stdout and contigs_report_07_13MIDNRdeerAlp_S18_L001-contigs.stderr...
+  60 Aligning contigs to the reference
+  60 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/07_13MIDNRdeerAlp_S18_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/07_13MIDNRdeerAlp_S18_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_07_13MIDNRdeerAlp_S18_L001-contigs.stderr
+  57 Using existing alignments... 
+  43 Analysis is finished.
+
+  61 07_1MIDNRdeerMontm_1_S7_L001.contigs
+  61 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_1MIDNRdeerMontm_1_S7_L001-contigs.stdout and contigs_report_07_1MIDNRdeerMontm_1_S7_L001-contigs.stderr...
+  53 Analysis is finished.
+
+  62 07_28MIDNRdeerAlc_S14_L001.contigs
+  62 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_28MIDNRdeerAlc_S14_L001-contigs.stdout and contigs_report_07_28MIDNRdeerAlc_S14_L001-contigs.stderr...
+  62 Aligning contigs to the reference
+  62 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/07_28MIDNRdeerAlc_S14_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/07_28MIDNRdeerAlc_S14_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_07_28MIDNRdeerAlc_S14_L001-contigs.stderr
+  44 Analysis is finished.
+
+  63 07_30MIDNRdeerMontm_S11_L001.contigs
+  63 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_30MIDNRdeerMontm_S11_L001-contigs.stdout and contigs_report_07_30MIDNRdeerMontm_S11_L001-contigs.stderr...
+  63 Aligning contigs to the reference
+  63 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/07_30MIDNRdeerMontm_S11_L001_contigs.fa \
+     > assembly_stats/contigs_reports/minimap_output/07_30MIDNRdeerMontm_S11_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_07_30MIDNRdeerMontm_S11_L001-contigs.stderr
+  55 Analysis is finished.
+
+  64 07_3557_S3_L001.contigs
+  64 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_3557_S3_L001-contigs.stdout and contigs_report_07_3557_S3_L001-contigs.stderr...
+  64 Aligning contigs to the reference
+  64 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/07_3557_S3_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/07_3557_S3_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_07_3557_S3_L001-contigs.stderr
+  59 Using existing alignments... 
+  56 Analysis is finished.
+
+  65 07_6884.contigs
+  65 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_6884-contigs.stdout and contigs_report_07_6884-contigs.stderr...
+  49 Analysis is finished.
+
+  66 07_6MIDNRdeerMontm_S25_L001.contigs
+  66 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_6MIDNRdeerMontm_S25_L001-contigs.stdout and contigs_report_07_6MIDNRdeerMontm_S25_L001-contigs.stderr...
+  48 Analysis is finished.
+
+  67 07_7MIDNRdeerMontm_1_S18_L001.contigs
+  67 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_7MIDNRdeerMontm_1_S18_L001-contigs.stdout and contigs_report_07_7MIDNRdeerMontm_1_S18_L001-contigs.stderr...
+  67 Aligning contigs to the reference
+  61 Using existing alignments... 
+  67 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/07_7MIDNRdeerMontm_1_S18_L001_contigs.fa \
+     > assembly_stats/contigs_reports/minimap_output/07_7MIDNRdeerMontm_1_S18_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_07_7MIDNRdeerMontm_1_S18_L001-contigs.stderr
+  51 Analysis is finished.
+
+  68 07_9MIDNRdeerOsco_S9_L001.contigs
+  57 Analysis is finished.
+
+  69 08_0954_ATCACG_L007.contigs
+  69 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_08_0954_ATCACG_L007-contigs.stdout and contigs_report_08_0954_ATCACG_L007-contigs.stderr...
+  68 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_07_9MIDNRdeerOsco_S9_L001-contigs.stdout and contigs_report_07_9MIDNRdeerOsco_S9_L001-contigs.stderr...
+  50 Analysis is finished.
+
+  70 08_2564_S6_L001.contigs
+  47 Analysis is finished.
+
+  70 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_08_2564_S6_L001-contigs.stdout and contigs_report_08_2564_S6_L001-contigs.stderr...
+  71 08_4MIDNRdeerMontm_S3_L001.contigs
+  70 Aligning contigs to the reference
+  52 Analysis is finished.
+
+  72 09_4305_S4_L001.contigs
+  71 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_08_4MIDNRdeerMontm_S3_L001-contigs.stdout and contigs_report_08_4MIDNRdeerMontm_S3_L001-contigs.stderr...
+  72 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_09_4305_S4_L001-contigs.stdout and contigs_report_09_4305_S4_L001-contigs.stderr...
+  72 Aligning contigs to the reference
+  71 Aligning contigs to the reference
+  72 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/09_4305_S4_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/09_4305_S4_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_09_4305_S4_L001-contigs.stderr
+  70 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/08_2564_S6_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/08_2564_S6_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_08_2564_S6_L001-contigs.stderr
+  71 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/08_4MIDNRdeerMontm_S3_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/08_4MIDNRdeerMontm_S3_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_08_4MIDNRdeerMontm_S3_L001-contigs.stderr
+  65 Using existing alignments... 
+  54 Analysis is finished.
+
+  73 13_11MIDNRdeerOsco_S24_L001.contigs
+  59 Analysis is finished.
+
+  74 13_13MIDNRdeerPI_S34_L001.contigs
+  73 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_13_11MIDNRdeerOsco_S24_L001-contigs.stdout and contigs_report_13_11MIDNRdeerOsco_S24_L001-contigs.stderr...
+  74 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_13_13MIDNRdeerPI_S34_L001-contigs.stdout and contigs_report_13_13MIDNRdeerPI_S34_L001-contigs.stderr...
+  61 Analysis is finished.
+
+  75 13_20MIDNRdeerOsco_S28_L001.contigs
+  74 Aligning contigs to the reference
+  75 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_13_20MIDNRdeerOsco_S28_L001-contigs.stdout and contigs_report_13_20MIDNRdeerOsco_S28_L001-contigs.stderr...
+  75 Aligning contigs to the reference
+  74 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/13_13MIDNRdeerPI_S34_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/13_13MIDNRdeerPI_S34_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_13_13MIDNRdeerPI_S34_L001-contigs.stderr
+  66 Using existing alignments... 
+  58 Analysis is finished.
+
+  76 13_21MIDNRdeerMontm_S30_L001.contigs
+  76 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_13_21MIDNRdeerMontm_S30_L001-contigs.stdout and contigs_report_13_21MIDNRdeerMontm_S30_L001-contigs.stderr...
+  76 Aligning contigs to the reference
+  75 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/13_20MIDNRdeerOsco_S28_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/13_20MIDNRdeerOsco_S28_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_13_20MIDNRdeerOsco_S28_L001-contigs.stderr
+  76 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/13_21MIDNRdeerMontm_S30_L001_contigs.fa \
+     > assembly_stats/contigs_reports/minimap_output/13_21MIDNRdeerMontm_S30_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_13_21MIDNRdeerMontm_S30_L001-contigs.stderr
+  68 Using existing alignments... 
+  69 Using existing alignments... 
+  73 Using existing alignments... 
+  60 Analysis is finished.
+
+  77 13_6MIDNRdeerAlc_S33_L001.contigs
+  77 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_13_6MIDNRdeerAlc_S33_L001-contigs.stdout and contigs_report_13_6MIDNRdeerAlc_S33_L001-contigs.stderr...
+  65 Analysis is finished.
+
+  78 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs
+  78 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_16_017237_01_43MIDNRdeerAlc_S34_L001-contigs.stdout and contigs_report_16_017237_01_43MIDNRdeerAlc_S34_L001-contigs.stderr...
+  78 Aligning contigs to the reference
+  78 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/16_017237_01_43MIDNRdeerAlc_S34_L001_contigs.fa \
+     > assembly_stats/contigs_reports/minimap_output/16_017237_01_43MIDNRdeerAlc_S34_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_16_017237_01_43MIDNRdeerAlc_S34_L001-contigs.stderr
+  69 Analysis is finished.
+
+  79 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs
+  66 Analysis is finished.
+
+  80 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs
+  80 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_16_017237_04_10MIDNRdeerAlp_S17_L001-contigs.stdout and contigs_report_16_017237_04_10MIDNRdeerAlp_S17_L001-contigs.stderr...
+  79 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_16_017237_01_60MIDNRdeerAlp_S18_L001-contigs.stdout and contigs_report_16_017237_01_60MIDNRdeerAlp_S18_L001-contigs.stderr...
+  80 Aligning contigs to the reference
+  79 Aligning contigs to the reference
+  63 Analysis is finished.
+
+  81 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs
+  81 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_16_017237_04_30MIDNRdeerMontm_3_S11_L001-contigs.stdout and contigs_report_16_017237_04_30MIDNRdeerMontm_3_S11_L001-contigs.stderr...
+  80 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/16_017237_04_10MIDNRdeerAlp_S17_L001_contigs.fa \
+     > assembly_stats/contigs_reports/minimap_output/16_017237_04_10MIDNRdeerAlp_S17_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_16_017237_04_10MIDNRdeerAlp_S17_L001-contigs.stderr
+  79 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/16_017237_01_60MIDNRdeerAlp_S18_L001_contigs.fa \
+     > assembly_stats/contigs_reports/minimap_output/16_017237_01_60MIDNRdeerAlp_S18_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_16_017237_01_60MIDNRdeerAlp_S18_L001-contigs.stderr
+  77 Using existing alignments... 
+  68 Analysis is finished.
+
+  82 96_20MIDNRdeerAlp_S10_L001.contigs
+  82 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_20MIDNRdeerAlp_S10_L001-contigs.stdout and contigs_report_96_20MIDNRdeerAlp_S10_L001-contigs.stderr...
+  62 Analysis is finished.
+
+  83 96_32MIDNRdeerAlp_S19_L001.contigs
+  83 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_32MIDNRdeerAlp_S19_L001-contigs.stdout and contigs_report_96_32MIDNRdeerAlp_S19_L001-contigs.stderr...
+  73 Analysis is finished.
+
+  84 96_38MIDNRdeerAlp_S15_L001.contigs
+  84 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_38MIDNRdeerAlp_S15_L001-contigs.stdout and contigs_report_96_38MIDNRdeerAlp_S15_L001-contigs.stderr...
+  64 Analysis is finished.
+
+  85 96_46MIDNRdeerAlc_S12_L001.contigs
+  85 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_46MIDNRdeerAlc_S12_L001-contigs.stdout and contigs_report_96_46MIDNRdeerAlc_S12_L001-contigs.stderr...
+  81 Using existing alignments... 
+  82 Using existing alignments... 
+  77 Analysis is finished.
+
+  86 96_47MIDNRdeerMontm_S4_L001.contigs
+  86 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_47MIDNRdeerMontm_S4_L001-contigs.stdout and contigs_report_96_47MIDNRdeerMontm_S4_L001-contigs.stderr...
+  84 Using existing alignments... 
+  86 Aligning contigs to the reference
+  67 Analysis is finished.
+
+  87 96_57MIDNRdeerAlc_S2_L001.contigs
+  86 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/96_47MIDNRdeerMontm_S4_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/96_47MIDNRdeerMontm_S4_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_96_47MIDNRdeerMontm_S4_L001-contigs.stderr
+  87 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_57MIDNRdeerAlc_S2_L001-contigs.stdout and contigs_report_96_57MIDNRdeerAlc_S2_L001-contigs.stderr...
+  71 Analysis is finished.
+
+  88 96_58MIDNRdeerAlc_S5_L001.contigs
+  88 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_58MIDNRdeerAlc_S5_L001-contigs.stdout and contigs_report_96_58MIDNRdeerAlc_S5_L001-contigs.stderr...
+  88 Aligning contigs to the reference
+  88 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/96_58MIDNRdeerAlc_S5_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/96_58MIDNRdeerAlc_S5_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_96_58MIDNRdeerAlc_S5_L001-contigs.stderr
+  85 Using existing alignments... 
+  83 Using existing alignments... 
+  75 Analysis is finished.
+
+  89 96_72MIDNRdeerOsco_S9_L001.contigs
+  89 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_96_72MIDNRdeerOsco_S9_L001-contigs.stdout and contigs_report_96_72MIDNRdeerOsco_S9_L001-contigs.stderr...
+  72 Analysis is finished.
+
+  90 97_22MIDNRdeerAlc_S18_L001.contigs
+  70 Analysis is finished.
+
+  91 97_3MIDNRdeerAlp_S7_L001.contigs
+  81 Analysis is finished.
+
+  92 97_46MIDNRdeerMontm_S9_L001.contigs
+  90 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_22MIDNRdeerAlc_S18_L001-contigs.stdout and contigs_report_97_22MIDNRdeerAlc_S18_L001-contigs.stderr...
+  91 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_3MIDNRdeerAlp_S7_L001-contigs.stdout and contigs_report_97_3MIDNRdeerAlp_S7_L001-contigs.stderr...
+  74 Analysis is finished.
+
+  93 97_49MIDNRdeerMontm_S2_L001.contigs
+  92 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_46MIDNRdeerMontm_S9_L001-contigs.stdout and contigs_report_97_46MIDNRdeerMontm_S9_L001-contigs.stderr...
+  92 Aligning contigs to the reference
+  91 Aligning contigs to the reference
+  93 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_49MIDNRdeerMontm_S2_L001-contigs.stdout and contigs_report_97_49MIDNRdeerMontm_S2_L001-contigs.stderr...
+  93 Aligning contigs to the reference
+  91 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_3MIDNRdeerAlp_S7_L001_contigs.fa > assembly_stats/contigs_reports/minimap_output/97_3MIDNRdeerAlp_S7_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_3MIDNRdeerAlp_S7_L001-contigs.stderr
+  93 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_49MIDNRdeerMontm_S2_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_49MIDNRdeerMontm_S2_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_49MIDNRdeerMontm_S2_L001-contigs.stderr
+  92 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_46MIDNRdeerMontm_S9_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_46MIDNRdeerMontm_S9_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_46MIDNRdeerMontm_S9_L001-contigs.stderr
+  82 Analysis is finished.
+
+  94 97_51MIDNRdeerAlc_2_S5_L001.contigs
+  84 Analysis is finished.
+
+  95 97_52MIDNRdeerAlp_2_S3_L001.contigs
+  94 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_51MIDNRdeerAlc_2_S5_L001-contigs.stdout and contigs_report_97_51MIDNRdeerAlc_2_S5_L001-contigs.stderr...
+  94 Aligning contigs to the reference
+  95 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_52MIDNRdeerAlp_2_S3_L001-contigs.stdout and contigs_report_97_52MIDNRdeerAlp_2_S3_L001-contigs.stderr...
+  95 Aligning contigs to the reference
+  87 Using existing alignments... 
+  95 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_52MIDNRdeerAlp_2_S3_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_52MIDNRdeerAlp_2_S3_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_52MIDNRdeerAlp_2_S3_L001-contigs.stderr
+  94 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_51MIDNRdeerAlc_2_S5_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_51MIDNRdeerAlc_2_S5_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_51MIDNRdeerAlc_2_S5_L001-contigs.stderr
+  76 Analysis is finished.
+
+  96 97_54MIDNRdeerAlp_2_S4_L001.contigs
+  96 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_54MIDNRdeerAlp_2_S4_L001-contigs.stdout and contigs_report_97_54MIDNRdeerAlp_2_S4_L001-contigs.stderr...
+  96 Aligning contigs to the reference
+  96 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_54MIDNRdeerAlp_2_S4_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_54MIDNRdeerAlp_2_S4_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_54MIDNRdeerAlp_2_S4_L001-contigs.stderr
+  83 Analysis is finished.
+
+  97 97_55MIDNRdeerMontm_S3_L001.contigs
+  85 Analysis is finished.
+
+  98 97_57MIDNRdeerAlc_S11_L001.contigs
+  98 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_57MIDNRdeerAlc_S11_L001-contigs.stdout and contigs_report_97_57MIDNRdeerAlc_S11_L001-contigs.stderr...
+  98 Aligning contigs to the reference
+  97 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_55MIDNRdeerMontm_S3_L001-contigs.stdout and contigs_report_97_55MIDNRdeerMontm_S3_L001-contigs.stderr...
+  97 Aligning contigs to the reference
+  98 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_57MIDNRdeerAlc_S11_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_57MIDNRdeerAlc_S11_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_57MIDNRdeerAlc_S11_L001-contigs.stderr
+  97 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_55MIDNRdeerMontm_S3_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_55MIDNRdeerMontm_S3_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_55MIDNRdeerMontm_S3_L001-contigs.stderr
+  90 Using existing alignments... 
+  78 Analysis is finished.
+
+  99 97_60MIDNRdeerAlp_S16_L001.contigs
+  99 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_60MIDNRdeerAlp_S16_L001-contigs.stdout and contigs_report_97_60MIDNRdeerAlp_S16_L001-contigs.stderr...
+  99 Aligning contigs to the reference
+  99 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+     --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+     assembly_stats/quast_corrected_input/97_60MIDNRdeerAlp_S16_L001_contigs.fa > \
+     assembly_stats/contigs_reports/minimap_output/97_60MIDNRdeerAlp_S16_L001-contigs.coords_tmp \
+     2>> assembly_stats/contigs_reports/contigs_report_97_60MIDNRdeerAlp_S16_L001-contigs.stderr
+  79 Analysis is finished.
+
+  100 97_61MIDNRdeerMontm_S13_L001.contigs
+  100 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_61MIDNRdeerMontm_S13_L001-contigs.stdout and contigs_report_97_61MIDNRdeerMontm_S13_L001-contigs.stderr...
+  100 Aligning contigs to the reference
+  89 Using existing alignments... 
+  100 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/97_61MIDNRdeerMontm_S13_L001_contigs.fa \
+      > assembly_stats/contigs_reports/minimap_output/97_61MIDNRdeerMontm_S13_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_97_61MIDNRdeerMontm_S13_L001-contigs.stderr
+  87 Analysis is finished.
+
+  101 97_64MIDNRdeerPI_S19_L001.contigs
+  101 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_64MIDNRdeerPI_S19_L001-contigs.stdout and contigs_report_97_64MIDNRdeerPI_S19_L001-contigs.stderr...
+  101 Aligning contigs to the reference
+  101 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/97_64MIDNRdeerPI_S19_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/97_64MIDNRdeerPI_S19_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_97_64MIDNRdeerPI_S19_L001-contigs.stderr
+  90 Analysis is finished.
+
+  102 97_66MIDNRdeerOsco_S7_L001.contigs
+  102 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_97_66MIDNRdeerOsco_S7_L001-contigs.stdout and contigs_report_97_66MIDNRdeerOsco_S7_L001-contigs.stderr...
+  102 Aligning contigs to the reference
+  102 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/97_66MIDNRdeerOsco_S7_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/97_66MIDNRdeerOsco_S7_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_97_66MIDNRdeerOsco_S7_L001-contigs.stderr
+  86 Analysis is finished.
+
+  103 98_11MIDNRdeerAlp_2_S3_L001.contigs
+  103 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_11MIDNRdeerAlp_2_S3_L001-contigs.stdout and contigs_report_98_11MIDNRdeerAlp_2_S3_L001-contigs.stderr...
+  103 Aligning contigs to the reference
+  80 Analysis is finished.
+
+  104 98_16MIDNRdeerAlc_S10_L001.contigs
+  88 Analysis is finished.
+
+  103 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_11MIDNRdeerAlp_2_S3_L001_contigs.fa \
+      > assembly_stats/contigs_reports/minimap_output/98_11MIDNRdeerAlp_2_S3_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_11MIDNRdeerAlp_2_S3_L001-contigs.stderr
+  105 98_20MIDNRdeerAlp_S14_L001.contigs
+  105 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_20MIDNRdeerAlp_S14_L001-contigs.stdout and contigs_report_98_20MIDNRdeerAlp_S14_L001-contigs.stderr...
+  105 Aligning contigs to the reference
+  89 Analysis is finished.
+
+  106 98_24MIDNRdeerAlp_2_S11_L001.contigs
+  106 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_24MIDNRdeerAlp_2_S11_L001-contigs.stdout and contigs_report_98_24MIDNRdeerAlp_2_S11_L001-contigs.stderr...
+  104 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_16MIDNRdeerAlc_S10_L001-contigs.stdout and contigs_report_98_16MIDNRdeerAlc_S10_L001-contigs.stderr...
+  105 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_20MIDNRdeerAlp_S14_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/98_20MIDNRdeerAlp_S14_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_20MIDNRdeerAlp_S14_L001-contigs.stderr
+  106 Aligning contigs to the reference
+  106 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_24MIDNRdeerAlp_2_S11_L001_contigs.fa \
+      > assembly_stats/contigs_reports/minimap_output/98_24MIDNRdeerAlp_2_S11_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_24MIDNRdeerAlp_2_S11_L001-contigs.stderr
+  93 Analysis is finished.
+
+  107 98_29MIDNRdeerAlc_S7_L001.contigs
+  107 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_29MIDNRdeerAlc_S7_L001-contigs.stdout and contigs_report_98_29MIDNRdeerAlc_S7_L001-contigs.stderr...
+  91 Analysis is finished.
+
+  108 98_30MIDNRdeerAlc_S10_L001.contigs
+  108 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_30MIDNRdeerAlc_S10_L001-contigs.stdout and contigs_report_98_30MIDNRdeerAlc_S10_L001-contigs.stderr...
+  92 Analysis is finished.
+
+  109 98_38MIDNRdeerAlc_S2_L001.contigs
+  109 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_38MIDNRdeerAlc_S2_L001-contigs.stdout and contigs_report_98_38MIDNRdeerAlc_S2_L001-contigs.stderr...
+  109 Aligning contigs to the reference
+  95 Analysis is finished.
+
+  110 98_54MIDNRdeerAlp_S2_L001.contigs
+  110 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_54MIDNRdeerAlp_S2_L001-contigs.stdout and contigs_report_98_54MIDNRdeerAlp_S2_L001-contigs.stderr...
+  96 Analysis is finished.
+
+  111 98_5MIDNRdeerAlc_2_S7_L001.contigs
+  109 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_38MIDNRdeerAlc_S2_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/98_38MIDNRdeerAlc_S2_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_38MIDNRdeerAlc_S2_L001-contigs.stderr
+  110 Aligning contigs to the reference
+  111 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_5MIDNRdeerAlc_2_S7_L001-contigs.stdout and contigs_report_98_5MIDNRdeerAlc_2_S7_L001-contigs.stderr...
+  111 Aligning contigs to the reference
+  110 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_54MIDNRdeerAlp_S2_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/98_54MIDNRdeerAlp_S2_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_54MIDNRdeerAlp_S2_L001-contigs.stderr
+  111 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_5MIDNRdeerAlc_2_S7_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/98_5MIDNRdeerAlc_2_S7_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_5MIDNRdeerAlc_2_S7_L001-contigs.stderr
+  94 Analysis is finished.
+
+  98 Analysis is finished.
+
+  112 98_5MIDNRdeerAlc_3_S8_L001.contigs
+  113 98_66MIDNRdeerAlc_S6_L001.contigs
+  113 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_66MIDNRdeerAlc_S6_L001-contigs.stdout and contigs_report_98_66MIDNRdeerAlc_S6_L001-contigs.stderr...
+  113 Aligning contigs to the reference
+  112 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_5MIDNRdeerAlc_3_S8_L001-contigs.stdout and contigs_report_98_5MIDNRdeerAlc_3_S8_L001-contigs.stderr...
+  112 Aligning contigs to the reference
+  113 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_66MIDNRdeerAlc_S6_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/98_66MIDNRdeerAlc_S6_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_66MIDNRdeerAlc_S6_L001-contigs.stderr
+  97 Analysis is finished.
+
+  114 98_80MIDNRdeerMontm_S11_L001.contigs
+  112 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_5MIDNRdeerAlc_3_S8_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/98_5MIDNRdeerAlc_3_S8_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_5MIDNRdeerAlc_3_S8_L001-contigs.stderr
+  99 Analysis is finished.
+
+  115 99_10MIDNRdeerMontm_S21_L001.contigs
+  107 Aligning contigs to the reference
+  114 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_98_80MIDNRdeerMontm_S11_L001-contigs.stdout and contigs_report_98_80MIDNRdeerMontm_S11_L001-contigs.stderr...
+  114 Aligning contigs to the reference
+  104 Using existing alignments... 
+  114 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_80MIDNRdeerMontm_S11_L001_contigs.fa \
+      > assembly_stats/contigs_reports/minimap_output/98_80MIDNRdeerMontm_S11_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_80MIDNRdeerMontm_S11_L001-contigs.stderr
+  107 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/98_29MIDNRdeerAlc_S7_L001_contigs.fa > \
+      assembly_stats/contigs_reports/minimap_output/98_29MIDNRdeerAlc_S7_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_98_29MIDNRdeerAlc_S7_L001-contigs.stderr
+  115 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_10MIDNRdeerMontm_S21_L001-contigs.stdout and contigs_report_99_10MIDNRdeerMontm_S21_L001-contigs.stderr...
+  115 Aligning contigs to the reference
+  115 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/99_10MIDNRdeerMontm_S21_L001_contigs.fa \
+      > assembly_stats/contigs_reports/minimap_output/99_10MIDNRdeerMontm_S21_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_99_10MIDNRdeerMontm_S21_L001-contigs.stderr
+  100 Analysis is finished.
+
+  116 99_17MIDNRdeerOsco_S10_L001.contigs
+  108 Using existing alignments... 
+  116 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_17MIDNRdeerOsco_S10_L001-contigs.stdout and contigs_report_99_17MIDNRdeerOsco_S10_L001-contigs.stderr...
+  101 Analysis is finished.
+
+  117 99_19MIDNRdeerAnt_S10_L001.contigs
+  117 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_19MIDNRdeerAnt_S10_L001-contigs.stdout and contigs_report_99_19MIDNRdeerAnt_S10_L001-contigs.stderr...
+  104 Analysis is finished.
+
+  118 99_1MIDNRdeerMontm_S16_L001.contigs
+  102 Analysis is finished.
+
+  119 99_21MIDNRdeerAlc_cat.contigs
+  119 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_21MIDNRdeerAlc_cat-contigs.stdout and contigs_report_99_21MIDNRdeerAlc_cat-contigs.stderr...
+  118 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_1MIDNRdeerMontm_S16_L001-contigs.stdout and contigs_report_99_1MIDNRdeerMontm_S16_L001-contigs.stderr...
+  116 Using existing alignments... 
+  103 Analysis is finished.
+  117 Using existing alignments... 
+
+  120 99_22MIDNRdeerAlc_1_S14_L001.contigs
+  120 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_22MIDNRdeerAlc_1_S14_L001-contigs.stdout and contigs_report_99_22MIDNRdeerAlc_1_S14_L001-contigs.stderr...
+  105 Analysis is finished.
+
+  121 99_23MIDNRdeerMontm_S19_L001.contigs
+  121 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_23MIDNRdeerMontm_S19_L001-contigs.stdout and contigs_report_99_23MIDNRdeerMontm_S19_L001-contigs.stderr...
+  121 Aligning contigs to the reference
+  106 Analysis is finished.
+
+  108 Analysis is finished.
+
+  122 99_24MIDNRdeerAlc_cat.contigs
+  123 99_26MIDNRdeerMontm_S5_L001.contigs
+  121 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/99_23MIDNRdeerMontm_S19_L001_contigs.fa \
+      > assembly_stats/contigs_reports/minimap_output/99_23MIDNRdeerMontm_S19_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_99_23MIDNRdeerMontm_S19_L001-contigs.stderr
+  123 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_26MIDNRdeerMontm_S5_L001-contigs.stdout and contigs_report_99_26MIDNRdeerMontm_S5_L001-contigs.stderr...
+  122 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_24MIDNRdeerAlc_cat-contigs.stdout and contigs_report_99_24MIDNRdeerAlc_cat-contigs.stderr...
+  118 Using existing alignments... 
+  116 Analysis is finished.
+
+  124 99_53MIDNRdeerMontm_S3_L001.contigs
+  124 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_53MIDNRdeerMontm_S3_L001-contigs.stdout and contigs_report_99_53MIDNRdeerMontm_S3_L001-contigs.stderr...
+  123 Using existing alignments... 
+  124 Aligning contigs to the reference
+  117 Analysis is finished.
+
+  120 Using existing alignments... 
+  125 99_56MIDNRdeerAlc_S12_L001.contigs
+  124 /usr/local/apps/eb/QUAST/5.0.2-foss-2018a-Python-2.7.14/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 \
+      -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 \
+      --min-occ 200 -g 2500 --score-N 2 --cs -t 1 assembly_stats/quast_corrected_input/NC_002945v4.fasta \
+      assembly_stats/quast_corrected_input/99_53MIDNRdeerMontm_S3_L001_contigs.fa \
+      > assembly_stats/contigs_reports/minimap_output/99_53MIDNRdeerMontm_S3_L001-contigs.coords_tmp \
+      2>> assembly_stats/contigs_reports/contigs_report_99_53MIDNRdeerMontm_S3_L001-contigs.stderr
+  125 Logging to files /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/contigs_report_99_56MIDNRdeerAlc_S12_L001-contigs.stdout and contigs_report_99_56MIDNRdeerAlc_S12_L001-contigs.stderr...
+  119 Using existing alignments... 
+  109 Analysis is finished.
+
+  112 Analysis is finished.
+
+  110 Analysis is finished.
+
+  113 Analysis is finished.
+
+  122 Using existing alignments... 
+  114 Analysis is finished.
+
+  107 Analysis is finished.
+
+  118 Analysis is finished.
+
+  125 Using existing alignments... 
+  115 Analysis is finished.
+
+  120 Analysis is finished.
+
+  123 Analysis is finished.
+
+  111 Analysis is finished.
+
+  119 Analysis is finished.
+
+  122 Analysis is finished.
+
+  125 Analysis is finished.
+
+  124 Analysis is finished.
+
+  121 Analysis is finished.
+
+  Creating total report...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-02-20 11:48:17
+Running NA-NGA calculation...
+  1  00_17MIDNRdeerMontm_S23_L001.contigs, Largest alignment = 236089, NA50 = 81205, NGA50 = 81205, LA50 = 16, LGA50 = 16
+  2  00_1MIDNRdeerAlc_S5_L001.contigs, Largest alignment = 227591, NA50 = 69152, NGA50 = 64228, LA50 = 18, LGA50 = 19
+  3  00_21MIDNRdeerOts_S14_L001.contigs, Largest alignment = 227591, NA50 = 81812, NGA50 = 81812, LA50 = 15, LGA50 = 15
+  4  00_26MIDNRdeerAlp_S12_L001.contigs, Largest alignment = 220901, NA50 = 79221, NGA50 = 79221, LA50 = 17, LGA50 = 17
+  5  00_27MIDNRdeerAlp_S27_L001.contigs, Largest alignment = 212055, NA50 = 69217, NGA50 = 68175, LA50 = 18, LGA50 = 19
+  6  00_28MIDNRdeerEmm_S2_L001.contigs, Largest alignment = 212178, NA50 = 73033, NGA50 = 73033, LA50 = 18, LGA50 = 18
+  7  00_29MIDNRdeerAlc_S37_L001.contigs, Largest alignment = 204915, NA50 = 60728, NGA50 = 60728, LA50 = 20, LGA50 = 20
+  8  00_2MIDNRdeerOsco_S32_L001.contigs, Largest alignment = 227591, NA50 = 69220, NGA50 = 67920, LA50 = 19, LGA50 = 20
+  9  00_32MIDNRdeerOts_S19_L001.contigs, Largest alignment = 227591, NA50 = 79191, NGA50 = 74336, LA50 = 16, LGA50 = 17
+  10 00_33MIDNRdeerPI_S7_L001.contigs, Largest alignment = 227591, NA50 = 80323, NGA50 = 79157, LA50 = 16, LGA50 = 17
+  11 00_3MIDNRdeerMontm_S2_L001.contigs, Largest alignment = 235555, NA50 = 82483, NGA50 = 82483, LA50 = 15, LGA50 = 15
+  12 00_43MIDNRdeerMontm_S17_L001.contigs, Largest alignment = 212149, NA50 = 81426, NGA50 = 80360, LA50 = 15, LGA50 = 16
+  13 00_47MIDNRdeerMontm_S13_L001.contigs, Largest alignment = 251599, NA50 = 74343, NGA50 = 72952, LA50 = 17, LGA50 = 18
+  14 00_48MIDNRdeerMontm_S20_L001.contigs, Largest alignment = 227591, NA50 = 82729, NGA50 = 82729, LA50 = 15, LGA50 = 15
+  15 00_51MIDNRdeerAlp_S34_L001.contigs, Largest alignment = 227488, NA50 = 80606, NGA50 = 79143, LA50 = 16, LGA50 = 17
+  16 00_53MIDNRdeerAlc_S26_L001.contigs, Largest alignment = 227494, NA50 = 74259, NGA50 = 68895, LA50 = 17, LGA50 = 18
+  17 00_55MIDNRelk_Montm_S23_L001.contigs, Largest alignment = 260241, NA50 = 80549, NGA50 = 80549, LA50 = 16, LGA50 = 16
+  18 00_5MIDNRdeerOts_S31_L001.contigs, Largest alignment = 248287, NA50 = 80539, NGA50 = 80539, LA50 = 16, LGA50 = 16
+  19 01_20MIDNRdeerAlc_S19_L001.contigs, Largest alignment = 227591, NA50 = 69187, NGA50 = 69187, LA50 = 18, LGA50 = 18
+  20 01_32MIDNRdeerMontm_S44_L001.contigs, Largest alignment = 227591, NA50 = 79192, NGA50 = 79192, LA50 = 18, LGA50 = 18
+  21 01_34MIDNRdeerAlp_S26_L001.contigs, Largest alignment = 236242, NA50 = 80658, NGA50 = 80658, LA50 = 15, LGA50 = 15
+  22 01_38MIDNRdeerMontm_S22_L001.contigs, Largest alignment = 212153, NA50 = 80546, NGA50 = 80546, LA50 = 17, LGA50 = 17
+  23 01_39MIDNRdeerMontm_S5_L001.contigs, Largest alignment = 248407, NA50 = 102672, NGA50 = 98885, LA50 = 13, LGA50 = 14
+  24 01_40MIDNRdeerAlc_S11_L001.contigs, Largest alignment = 204915, NA50 = 74824, NGA50 = 72936, LA50 = 18, LGA50 = 19
+  25 01_44MIDNRdeerMontm_S13_L001.contigs, Largest alignment = 251614, NA50 = 81455, NGA50 = 81455, LA50 = 15, LGA50 = 15
+  26 01_45MIDNRdeerPI_S16_L001.contigs, Largest alignment = 242224, NA50 = 81535, NGA50 = 80342, LA50 = 15, LGA50 = 16
+  27 01_4MIDNRdeerMontm_S8_L001.contigs, Largest alignment = 212172, NA50 = 82410, NGA50 = 81878, LA50 = 16, LGA50 = 17
+  28 01_5MIDNRdeerOsco_S16_L001.contigs, Largest alignment = 212122, NA50 = 80441, NGA50 = 79888, LA50 = 17, LGA50 = 18
+  29 01_61MIDNRelkMontm_S10_L001.contigs, Largest alignment = 227591, NA50 = 81716, NGA50 = 81716, LA50 = 17, LGA50 = 17
+  30 01_63MIDNRdeerAlc_S38_L001.contigs, Largest alignment = 236242, NA50 = 81301, NGA50 = 81301, LA50 = 16, LGA50 = 16
+  31 01_6MIDNRdeerOsco_S17_L001.contigs, Largest alignment = 212034, NA50 = 79145, NGA50 = 69108, LA50 = 17, LGA50 = 18
+  32 01_8MIDNRdeerAlp_S2_L001.contigs, Largest alignment = 184786, NA50 = 81650, NGA50 = 80962, LA50 = 17, LGA50 = 18
+  33 01_9MIDNRdeerAlc_S19_L001.contigs, Largest alignment = 227591, NA50 = 75783, NGA50 = 75783, LA50 = 18, LGA50 = 18
+  34 02_3MIDNRdeerMontm_S12_L001.contigs, Largest alignment = 236125, NA50 = 82311, NGA50 = 82311, LA50 = 16, LGA50 = 16
+  35 02_5MIDNRdeerAlc_S17_L001.contigs, Largest alignment = 204915, NA50 = 68714, NGA50 = 68714, LA50 = 18, LGA50 = 18
+  36 03_10MIDNRdeerMontm_S3_L001.contigs, Largest alignment = 220955, NA50 = 74372, NGA50 = 69027, LA50 = 17, LGA50 = 18
+  37 03_20MIDNRdeerOsco_S20_L001.contigs, Largest alignment = 260421, NA50 = 98885, NGA50 = 81196, LA50 = 14, LGA50 = 15
+  38 03_24MIDNRdeerPI_S22_L001.contigs, Largest alignment = 227591, NA50 = 74052, NGA50 = 69131, LA50 = 18, LGA50 = 19
+  39 03_32MIDNRdeerMontm_S2_L001.contigs, Largest alignment = 220778, NA50 = 69217, NGA50 = 69217, LA50 = 19, LGA50 = 19
+  40 03_33MIDNRelkPI_S29_L001.contigs, Largest alignment = 227591, NA50 = 78414, NGA50 = 78414, LA50 = 16, LGA50 = 16
+  41 03_34MIDNRelkMontm_S33_L001.contigs, Largest alignment = 227591, NA50 = 69233, NGA50 = 68175, LA50 = 17, LGA50 = 18
+  42 03_3MIDNRdeerMontm_S23_L001.contigs, Largest alignment = 236089, NA50 = 82265, NGA50 = 82265, LA50 = 14, LGA50 = 14
+  43 03_6MIDNRdeerAlp_S17_L001.contigs, Largest alignment = 227591, NA50 = 70902, NGA50 = 70902, LA50 = 18, LGA50 = 18
+  44 04_13MIDNRdeerAlp_S27_L001.contigs, Largest alignment = 227591, NA50 = 83337, NGA50 = 83337, LA50 = 16, LGA50 = 16
+  45 04_19MIDNRdeerPI_S13_L001.contigs, Largest alignment = 235852, NA50 = 80350, NGA50 = 80350, LA50 = 16, LGA50 = 16
+  46 04_24MIDNRdeerMontm_S7_L001.contigs, Largest alignment = 235961, NA50 = 80360, NGA50 = 79336, LA50 = 15, LGA50 = 16
+  47 04_25MIDNRdeerPI_S6_L001.contigs, Largest alignment = 212123, NA50 = 81281, NGA50 = 81281, LA50 = 17, LGA50 = 17
+  48 04_7295_S5_L001.contigs, Largest alignment = 227591, NA50 = 81187, NGA50 = 80239, LA50 = 14, LGA50 = 15
+  49 04_8158_S4_L001.contigs, Largest alignment = 235980, NA50 = 98885, NGA50 = 96386, LA50 = 13, LGA50 = 14
+  50 04_8159_S3_L001.contigs, Largest alignment = 236133, NA50 = 107694, NGA50 = 107694, LA50 = 14, LGA50 = 14
+  51 04_8160_S5_L001.contigs, Largest alignment = 227591, NA50 = 80775, NGA50 = 80775, LA50 = 15, LGA50 = 15
+  52 05_4MIDNRdeerOsco_S33_L001.contigs, Largest alignment = 212144, NA50 = 68175, NGA50 = 68175, LA50 = 19, LGA50 = 19
+  53 05_7MIDNRdeerAlc_S19_L001.contigs, Largest alignment = 227591, NA50 = 64228, NGA50 = 64034, LA50 = 19, LGA50 = 20
+  54 06_30MIDNRdeerAlp_S8_L001.contigs, Largest alignment = 212132, NA50 = 68998, NGA50 = 68998, LA50 = 19, LGA50 = 19
+  55 06_33MIDNRdeerMontm_S3_L001.contigs, Largest alignment = 212205, NA50 = 81675, NGA50 = 81675, LA50 = 17, LGA50 = 17
+  56 06_35MIDNRdeerAlp_CTTGTA_L008.contigs, Largest alignment = 106346, NA50 = 26579, NGA50 = 26462, LA50 = 46, LGA50 = 48
+  57 06_38MIDNRdeerOsco_S16_L001.contigs, Largest alignment = 212121, NA50 = 80558, NGA50 = 80558, LA50 = 17, LGA50 = 17
+  58 06_44MIDNRdeerAlp_S26_L001.contigs, Largest alignment = 227591, NA50 = 74620, NGA50 = 72724, LA50 = 17, LGA50 = 18
+  59 06_45MIDNRelkMontm_S8_L001.contigs, Largest alignment = 227591, NA50 = 82862, NGA50 = 80134, LA50 = 15, LGA50 = 16
+  60 07_13MIDNRdeerAlp_S18_L001.contigs, Largest alignment = 212176, NA50 = 64471, NGA50 = 64471, LA50 = 19, LGA50 = 19
+  61 07_1MIDNRdeerMontm_1_S7_L001.contigs, Largest alignment = 212181, NA50 = 70336, NGA50 = 70336, LA50 = 19, LGA50 = 19
+  62 07_28MIDNRdeerAlc_S14_L001.contigs, Largest alignment = 212111, NA50 = 74005, NGA50 = 74005, LA50 = 18, LGA50 = 18
+  63 07_30MIDNRdeerMontm_S11_L001.contigs, Largest alignment = 236088, NA50 = 82906, NGA50 = 82906, LA50 = 14, LGA50 = 14
+  64 07_3557_S3_L001.contigs, Largest alignment = 242375, NA50 = 103202, NGA50 = 103202, LA50 = 13, LGA50 = 13
+  65 07_6884.contigs, Largest alignment = 181167, NA50 = 55782, NGA50 = 54772, LA50 = 24, LGA50 = 25
+  66 07_6MIDNRdeerMontm_S25_L001.contigs, Largest alignment = 239210, NA50 = 81251, NGA50 = 79246, LA50 = 17, LGA50 = 18
+  67 07_7MIDNRdeerMontm_1_S18_L001.contigs, Largest alignment = 212108, NA50 = 79258, NGA50 = 79258, LA50 = 18, LGA50 = 18
+  68 07_9MIDNRdeerOsco_S9_L001.contigs, Largest alignment = 236089, NA50 = 81266, NGA50 = 79193, LA50 = 16, LGA50 = 17
+  69 08_0954_ATCACG_L007.contigs, Largest alignment = 180335, NA50 = 53776, NGA50 = 51836, LA50 = 26, LGA50 = 27
+  70 08_2564_S6_L001.contigs, Largest alignment = 294630, NA50 = 119671, NGA50 = 119671, LA50 = 12, LGA50 = 12
+  71 08_4MIDNRdeerMontm_S3_L001.contigs, Largest alignment = 212127, NA50 = 79199, NGA50 = 79199, LA50 = 18, LGA50 = 18
+  72 09_4305_S4_L001.contigs, Largest alignment = 236242, NA50 = None, NGA50 = 68645, LA50 = None, LGA50 = 17
+  73 13_11MIDNRdeerOsco_S24_L001.contigs, Largest alignment = 227591, NA50 = 74094, NGA50 = 74094, LA50 = 17, LGA50 = 17
+  74 13_13MIDNRdeerPI_S34_L001.contigs, Largest alignment = 236089, NA50 = 81639, NGA50 = 80360, LA50 = 15, LGA50 = 16
+  75 13_20MIDNRdeerOsco_S28_L001.contigs, Largest alignment = 227591, NA50 = 78943, NGA50 = 78943, LA50 = 18, LGA50 = 18
+  76 13_21MIDNRdeerMontm_S30_L001.contigs, Largest alignment = 227479, NA50 = 74017, NGA50 = 74017, LA50 = 17, LGA50 = 17
+  77 13_6MIDNRdeerAlc_S33_L001.contigs, Largest alignment = 236089, NA50 = 80775, NGA50 = 80775, LA50 = 16, LGA50 = 16
+  78 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs, Largest alignment = 242380, NA50 = 98885, NGA50 = 98885, LA50 = 14, LGA50 = 14
+  79 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs, Largest alignment = 227591, NA50 = 80439, NGA50 = 79981, LA50 = 16, LGA50 = 17
+  80 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs, Largest alignment = 212129, NA50 = 72482, NGA50 = 72482, LA50 = 18, LGA50 = 18
+  81 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs, Largest alignment = 227591, NA50 = 72931, NGA50 = 72931, LA50 = 18, LGA50 = 18
+  82 96_20MIDNRdeerAlp_S10_L001.contigs, Largest alignment = 227591, NA50 = 72302, NGA50 = 69134, LA50 = 19, LGA50 = 20
+  83 96_32MIDNRdeerAlp_S19_L001.contigs, Largest alignment = 212168, NA50 = 80614, NGA50 = 80614, LA50 = 16, LGA50 = 16
+  84 96_38MIDNRdeerAlp_S15_L001.contigs, Largest alignment = 235873, NA50 = 80896, NGA50 = 80896, LA50 = 15, LGA50 = 15
+  85 96_46MIDNRdeerAlc_S12_L001.contigs, Largest alignment = 227591, NA50 = 81498, NGA50 = 81498, LA50 = 16, LGA50 = 16
+  86 96_47MIDNRdeerMontm_S4_L001.contigs, Largest alignment = 184786, NA50 = 74542, NGA50 = 74354, LA50 = 18, LGA50 = 19
+  87 96_57MIDNRdeerAlc_S2_L001.contigs, Largest alignment = 235990, NA50 = 81589, NGA50 = 81589, LA50 = 15, LGA50 = 15
+  88 96_58MIDNRdeerAlc_S5_L001.contigs, Largest alignment = 227591, NA50 = 82421, NGA50 = 82421, LA50 = 16, LGA50 = 16
+  89 96_72MIDNRdeerOsco_S9_L001.contigs, Largest alignment = 227591, NA50 = 79858, NGA50 = 79858, LA50 = 17, LGA50 = 17
+  90 97_22MIDNRdeerAlc_S18_L001.contigs, Largest alignment = 236089, NA50 = 81743, NGA50 = 81743, LA50 = 15, LGA50 = 15
+  91 97_3MIDNRdeerAlp_S7_L001.contigs, Largest alignment = 227591, NA50 = 79259, NGA50 = 79259, LA50 = 16, LGA50 = 16
+  92 97_46MIDNRdeerMontm_S9_L001.contigs, Largest alignment = 235853, NA50 = 81367, NGA50 = 80326, LA50 = 16, LGA50 = 17
+  93 97_49MIDNRdeerMontm_S2_L001.contigs, Largest alignment = 212189, NA50 = 68142, NGA50 = 68142, LA50 = 19, LGA50 = 19
+  94 97_51MIDNRdeerAlc_2_S5_L001.contigs, Largest alignment = 227594, NA50 = 89828, NGA50 = 89828, LA50 = 15, LGA50 = 15
+  95 97_52MIDNRdeerAlp_2_S3_L001.contigs, Largest alignment = 220884, NA50 = 86468, NGA50 = 83629, LA50 = 16, LGA50 = 17
+  96 97_54MIDNRdeerAlp_2_S4_L001.contigs, Largest alignment = 242391, NA50 = 81001, NGA50 = 80986, LA50 = 15, LGA50 = 16
+  97 97_55MIDNRdeerMontm_S3_L001.contigs, Largest alignment = 248407, NA50 = 87153, NGA50 = 87153, LA50 = 15, LGA50 = 15
+  98 97_57MIDNRdeerAlc_S11_L001.contigs, Largest alignment = 235990, NA50 = 81825, NGA50 = 81825, LA50 = 15, LGA50 = 15
+  99 97_60MIDNRdeerAlp_S16_L001.contigs, Largest alignment = 212131, NA50 = 76520, NGA50 = 74866, LA50 = 17, LGA50 = 18
+  100 97_61MIDNRdeerMontm_S13_L001.contigs, Largest alignment = 227591, NA50 = 82293, NGA50 = 82293, LA50 = 15, LGA50 = 15
+  101 97_64MIDNRdeerPI_S19_L001.contigs, Largest alignment = 227591, NA50 = 79191, NGA50 = 79191, LA50 = 17, LGA50 = 17
+  102 97_66MIDNRdeerOsco_S7_L001.contigs, Largest alignment = 220861, NA50 = 80972, NGA50 = 80972, LA50 = 17, LGA50 = 17
+  103 98_11MIDNRdeerAlp_2_S3_L001.contigs, Largest alignment = 220893, NA50 = 89714, NGA50 = 89714, LA50 = 16, LGA50 = 16
+  104 98_16MIDNRdeerAlc_S10_L001.contigs, Largest alignment = 227591, NA50 = 80045, NGA50 = 80045, LA50 = 16, LGA50 = 16
+  105 98_20MIDNRdeerAlp_S14_L001.contigs, Largest alignment = 227591, NA50 = 82313, NGA50 = 82313, LA50 = 16, LGA50 = 16
+  106 98_24MIDNRdeerAlp_2_S11_L001.contigs, Largest alignment = 227591, NA50 = 82465, NGA50 = 82465, LA50 = 16, LGA50 = 16
+  107 98_29MIDNRdeerAlc_S7_L001.contigs, Largest alignment = 204915, NA50 = 69217, NGA50 = 69217, LA50 = 18, LGA50 = 18
+  108 98_30MIDNRdeerAlc_S10_L001.contigs, Largest alignment = 227591, NA50 = 73993, NGA50 = 73993, LA50 = 17, LGA50 = 17
+  109 98_38MIDNRdeerAlc_S2_L001.contigs, Largest alignment = 263855, NA50 = 82294, NGA50 = 81355, LA50 = 14, LGA50 = 15
+  110 98_54MIDNRdeerAlp_S2_L001.contigs, Largest alignment = 227591, NA50 = 80995, NGA50 = 80892, LA50 = 15, LGA50 = 16
+  111 98_5MIDNRdeerAlc_2_S7_L001.contigs, Largest alignment = 227591, NA50 = 80879, NGA50 = 80879, LA50 = 16, LGA50 = 16
+  112 98_5MIDNRdeerAlc_3_S8_L001.contigs, Largest alignment = 227591, NA50 = 81952, NGA50 = 81952, LA50 = 15, LGA50 = 15
+  113 98_66MIDNRdeerAlc_S6_L001.contigs, Largest alignment = 227591, NA50 = 80994, NGA50 = 80441, LA50 = 16, LGA50 = 17
+  114 98_80MIDNRdeerMontm_S11_L001.contigs, Largest alignment = 212002, NA50 = 81911, NGA50 = 81218, LA50 = 16, LGA50 = 17
+  115 99_10MIDNRdeerMontm_S21_L001.contigs, Largest alignment = 182709, NA50 = 80137, NGA50 = 80137, LA50 = 18, LGA50 = 18
+  116 99_17MIDNRdeerOsco_S10_L001.contigs, Largest alignment = 227591, NA50 = 79955, NGA50 = 79955, LA50 = 16, LGA50 = 16
+  117 99_19MIDNRdeerAnt_S10_L001.contigs, Largest alignment = 236133, NA50 = 98885, NGA50 = 98885, LA50 = 13, LGA50 = 13
+  118 99_1MIDNRdeerMontm_S16_L001.contigs, Largest alignment = 210888, NA50 = 79193, NGA50 = 74080, LA50 = 17, LGA50 = 18
+  119 99_21MIDNRdeerAlc_cat.contigs, Largest alignment = 227591, NA50 = 79154, NGA50 = 79154, LA50 = 17, LGA50 = 17
+  120 99_22MIDNRdeerAlc_1_S14_L001.contigs, Largest alignment = 248463, NA50 = 81751, NGA50 = 81751, LA50 = 15, LGA50 = 15
+  121 99_23MIDNRdeerMontm_S19_L001.contigs, Largest alignment = 205598, NA50 = 80530, NGA50 = 80530, LA50 = 16, LGA50 = 16
+  122 99_24MIDNRdeerAlc_cat.contigs, Largest alignment = 235726, NA50 = 80853, NGA50 = 80853, LA50 = 16, LGA50 = 16
+  123 99_26MIDNRdeerMontm_S5_L001.contigs, Largest alignment = 220899, NA50 = 79236, NGA50 = 79236, LA50 = 17, LGA50 = 17
+  124 99_53MIDNRdeerMontm_S3_L001.contigs, Largest alignment = 235597, NA50 = 81358, NGA50 = 81358, LA50 = 16, LGA50 = 16
+  125 99_56MIDNRdeerAlc_S12_L001.contigs, Largest alignment = 242437, NA50 = 82381, NGA50 = 82381, LA50 = 14, LGA50 = 14
+  Drawing cumulative plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-02-20 11:48:35
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  1  00_17MIDNRdeerMontm_S23_L001.contigs
+  2  00_1MIDNRdeerAlc_S5_L001.contigs
+  3  00_21MIDNRdeerOts_S14_L001.contigs
+  4  00_26MIDNRdeerAlp_S12_L001.contigs
+  5  00_27MIDNRdeerAlp_S27_L001.contigs
+  6  00_28MIDNRdeerEmm_S2_L001.contigs
+  7  00_29MIDNRdeerAlc_S37_L001.contigs
+  8  00_2MIDNRdeerOsco_S32_L001.contigs
+  9  00_32MIDNRdeerOts_S19_L001.contigs
+  10 00_33MIDNRdeerPI_S7_L001.contigs
+  11 00_3MIDNRdeerMontm_S2_L001.contigs
+  12 00_43MIDNRdeerMontm_S17_L001.contigs
+  13 00_47MIDNRdeerMontm_S13_L001.contigs
+  14 00_48MIDNRdeerMontm_S20_L001.contigs
+  15 00_51MIDNRdeerAlp_S34_L001.contigs
+  16 00_53MIDNRdeerAlc_S26_L001.contigs
+  2  Analysis is finished.
+  17 00_55MIDNRelk_Montm_S23_L001.contigs
+  4  Analysis is finished.
+  1  Analysis is finished.
+  18 00_5MIDNRdeerOts_S31_L001.contigs
+  19 01_20MIDNRdeerAlc_S19_L001.contigs
+  8  Analysis is finished.
+  20 01_32MIDNRdeerMontm_S44_L001.contigs
+  9  Analysis is finished.
+  21 01_34MIDNRdeerAlp_S26_L001.contigs
+  3  Analysis is finished.
+  14 Analysis is finished.
+  5  Analysis is finished.
+  22 01_38MIDNRdeerMontm_S22_L001.contigs
+  11 Analysis is finished.
+  23 01_39MIDNRdeerMontm_S5_L001.contigs
+  24 01_40MIDNRdeerAlc_S11_L001.contigs
+  25 01_44MIDNRdeerMontm_S13_L001.contigs
+  7  Analysis is finished.
+  26 01_45MIDNRdeerPI_S16_L001.contigs
+  6  Analysis is finished.
+  27 01_4MIDNRdeerMontm_S8_L001.contigs
+  12 Analysis is finished.
+  10 Analysis is finished.
+  28 01_5MIDNRdeerOsco_S16_L001.contigs
+  15 Analysis is finished.
+  29 01_61MIDNRelkMontm_S10_L001.contigs
+  30 01_63MIDNRdeerAlc_S38_L001.contigs
+  16 Analysis is finished.
+  31 01_6MIDNRdeerOsco_S17_L001.contigs
+  13 Analysis is finished.
+  32 01_8MIDNRdeerAlp_S2_L001.contigs
+  19 Analysis is finished.
+  33 01_9MIDNRdeerAlc_S19_L001.contigs
+  17 Analysis is finished.
+  21 Analysis is finished.
+  34 02_3MIDNRdeerMontm_S12_L001.contigs
+  35 02_5MIDNRdeerAlc_S17_L001.contigs
+  24 Analysis is finished.
+  25 Analysis is finished.
+  36 03_10MIDNRdeerMontm_S3_L001.contigs
+  37 03_20MIDNRdeerOsco_S20_L001.contigs
+  30 Analysis is finished.
+  29 Analysis is finished.
+  27 Analysis is finished.
+  38 03_24MIDNRdeerPI_S22_L001.contigs
+  39 03_32MIDNRdeerMontm_S2_L001.contigs
+  40 03_33MIDNRelkPI_S29_L001.contigs
+  22 Analysis is finished.
+  23 Analysis is finished.
+  41 03_34MIDNRelkMontm_S33_L001.contigs
+  42 03_3MIDNRdeerMontm_S23_L001.contigs
+  20 Analysis is finished.
+  18 Analysis is finished.
+  43 03_6MIDNRdeerAlp_S17_L001.contigs
+  28 Analysis is finished.
+  44 04_13MIDNRdeerAlp_S27_L001.contigs
+  45 04_19MIDNRdeerPI_S13_L001.contigs
+  26 Analysis is finished.
+  46 04_24MIDNRdeerMontm_S7_L001.contigs
+  31 Analysis is finished.
+  47 04_25MIDNRdeerPI_S6_L001.contigs
+  32 Analysis is finished.
+  48 04_7295_S5_L001.contigs
+  33 Analysis is finished.
+  49 04_8158_S4_L001.contigs
+  37 Analysis is finished.
+  34 Analysis is finished.
+  50 04_8159_S3_L001.contigs
+  51 04_8160_S5_L001.contigs
+  35 Analysis is finished.
+  36 Analysis is finished.
+  52 05_4MIDNRdeerOsco_S33_L001.contigs
+  53 05_7MIDNRdeerAlc_S19_L001.contigs
+  39 Analysis is finished.
+  54 06_30MIDNRdeerAlp_S8_L001.contigs
+  41 Analysis is finished.
+  55 06_33MIDNRdeerMontm_S3_L001.contigs
+  45 Analysis is finished.
+  56 06_35MIDNRdeerAlp_CTTGTA_L008.contigs
+  40 Analysis is finished.
+  57 06_38MIDNRdeerOsco_S16_L001.contigs
+  43 Analysis is finished.
+  42 Analysis is finished.
+  58 06_44MIDNRdeerAlp_S26_L001.contigs
+  59 06_45MIDNRelkMontm_S8_L001.contigs
+  38 Analysis is finished.
+  60 07_13MIDNRdeerAlp_S18_L001.contigs
+  46 Analysis is finished.
+  61 07_1MIDNRdeerMontm_1_S7_L001.contigs
+  47 Analysis is finished.
+  62 07_28MIDNRdeerAlc_S14_L001.contigs
+  48 Analysis is finished.
+  63 07_30MIDNRdeerMontm_S11_L001.contigs
+  44 Analysis is finished.
+  64 07_3557_S3_L001.contigs
+  49 Analysis is finished.
+  65 07_6884.contigs
+  50 Analysis is finished.
+  66 07_6MIDNRdeerMontm_S25_L001.contigs
+  51 Analysis is finished.
+  67 07_7MIDNRdeerMontm_1_S18_L001.contigs
+  53 Analysis is finished.
+  68 07_9MIDNRdeerOsco_S9_L001.contigs
+  52 Analysis is finished.
+  69 08_0954_ATCACG_L007.contigs
+  56 Analysis is finished.
+  70 08_2564_S6_L001.contigs
+  54 Analysis is finished.
+  55 Analysis is finished.
+  57 Analysis is finished.
+  58 Analysis is finished.
+  71 08_4MIDNRdeerMontm_S3_L001.contigs
+  72 09_4305_S4_L001.contigs
+  73 13_11MIDNRdeerOsco_S24_L001.contigs
+  74 13_13MIDNRdeerPI_S34_L001.contigs
+  59 Analysis is finished.
+  75 13_20MIDNRdeerOsco_S28_L001.contigs
+  60 Analysis is finished.
+  76 13_21MIDNRdeerMontm_S30_L001.contigs
+  62 Analysis is finished.
+  77 13_6MIDNRdeerAlc_S33_L001.contigs
+  61 Analysis is finished.
+  78 16_017237_01_43MIDNRdeerAlc_S34_L001.contigs
+  64 Analysis is finished.
+  63 Analysis is finished.
+  79 16_017237_01_60MIDNRdeerAlp_S18_L001.contigs
+  80 16_017237_04_10MIDNRdeerAlp_S17_L001.contigs
+  67 Analysis is finished.
+  81 16_017237_04_30MIDNRdeerMontm_3_S11_L001.contigs
+  65 Analysis is finished.
+  82 96_20MIDNRdeerAlp_S10_L001.contigs
+  68 Analysis is finished.
+  83 96_32MIDNRdeerAlp_S19_L001.contigs
+  71 Analysis is finished.
+  84 96_38MIDNRdeerAlp_S15_L001.contigs
+  70 Analysis is finished.
+  85 96_46MIDNRdeerAlc_S12_L001.contigs
+  73 Analysis is finished.
+  74 Analysis is finished.
+  86 96_47MIDNRdeerMontm_S4_L001.contigs
+  87 96_57MIDNRdeerAlc_S2_L001.contigs
+  75 Analysis is finished.
+  88 96_58MIDNRdeerAlc_S5_L001.contigs
+  66 Analysis is finished.
+  89 96_72MIDNRdeerOsco_S9_L001.contigs
+  77 Analysis is finished.
+  90 97_22MIDNRdeerAlc_S18_L001.contigs
+  79 Analysis is finished.
+  91 97_3MIDNRdeerAlp_S7_L001.contigs
+  78 Analysis is finished.
+  92 97_46MIDNRdeerMontm_S9_L001.contigs
+  80 Analysis is finished.
+  93 97_49MIDNRdeerMontm_S2_L001.contigs
+  72 Analysis is finished.
+  94 97_51MIDNRdeerAlc_2_S5_L001.contigs
+  69 Analysis is finished.
+  95 97_52MIDNRdeerAlp_2_S3_L001.contigs
+  76 Analysis is finished.
+  96 97_54MIDNRdeerAlp_2_S4_L001.contigs
+  81 Analysis is finished.
+  97 97_55MIDNRdeerMontm_S3_L001.contigs
+  83 Analysis is finished.
+  98 97_57MIDNRdeerAlc_S11_L001.contigs
+  84 Analysis is finished.
+  99 97_60MIDNRdeerAlp_S16_L001.contigs
+  82 Analysis is finished.
+  87 Analysis is finished.
+  100 97_61MIDNRdeerMontm_S13_L001.contigs
+  88 Analysis is finished.
+  101 97_64MIDNRdeerPI_S19_L001.contigs
+  85 Analysis is finished.
+  102 97_66MIDNRdeerOsco_S7_L001.contigs
+  103 98_11MIDNRdeerAlp_2_S3_L001.contigs
+  90 Analysis is finished.
+  104 98_16MIDNRdeerAlc_S10_L001.contigs
+  86 Analysis is finished.
+  105 98_20MIDNRdeerAlp_S14_L001.contigs
+  93 Analysis is finished.
+  92 Analysis is finished.
+  106 98_24MIDNRdeerAlp_2_S11_L001.contigs
+  107 98_29MIDNRdeerAlc_S7_L001.contigs
+  89 Analysis is finished.
+  108 98_30MIDNRdeerAlc_S10_L001.contigs
+  95 Analysis is finished.
+  96 Analysis is finished.
+  109 98_38MIDNRdeerAlc_S2_L001.contigs
+  110 98_54MIDNRdeerAlp_S2_L001.contigs
+  91 Analysis is finished.
+  111 98_5MIDNRdeerAlc_2_S7_L001.contigs
+  94 Analysis is finished.
+  112 98_5MIDNRdeerAlc_3_S8_L001.contigs
+  97 Analysis is finished.
+  98 Analysis is finished.
+  113 98_66MIDNRdeerAlc_S6_L001.contigs
+  114 98_80MIDNRdeerMontm_S11_L001.contigs
+  99 Analysis is finished.
+  115 99_10MIDNRdeerMontm_S21_L001.contigs
+  100 Analysis is finished.
+  116 99_17MIDNRdeerOsco_S10_L001.contigs
+  103 Analysis is finished.
+  102 Analysis is finished.
+  117 99_19MIDNRdeerAnt_S10_L001.contigs
+  118 99_1MIDNRdeerMontm_S16_L001.contigs
+  101 Analysis is finished.
+  106 Analysis is finished.
+  119 99_21MIDNRdeerAlc_cat.contigs
+  107 Analysis is finished.
+  120 99_22MIDNRdeerAlc_1_S14_L001.contigs
+  121 99_23MIDNRdeerMontm_S19_L001.contigs
+  110 Analysis is finished.
+  104 Analysis is finished.
+  122 99_24MIDNRdeerAlc_cat.contigs
+  105 Analysis is finished.
+  123 99_26MIDNRdeerMontm_S5_L001.contigs
+  124 99_53MIDNRdeerMontm_S3_L001.contigs
+  109 Analysis is finished.
+  125 99_56MIDNRdeerAlc_S12_L001.contigs
+  108 Analysis is finished.
+  111 Analysis is finished.
+  112 Analysis is finished.
+  113 Analysis is finished.
+  114 Analysis is finished.
+  115 Analysis is finished.
+  117 Analysis is finished.
+  118 Analysis is finished.
+  120 Analysis is finished.
+  121 Analysis is finished.
+  116 Analysis is finished.
+  119 Analysis is finished.
+  122 Analysis is finished.
+  124 Analysis is finished.
+  123 Analysis is finished.
+  125 Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-02-20 11:48:53
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-02-20 11:51:21
+RESULTS:
+  Text versions of total report are saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/report.html
+  PDF version (tables and plots) is saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/report.pdf
+  Icarus (contig browser) is saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/icarus.html
+  Log is saved to /scratch/noahaus/noah_pangenome_analysis/raw/assembly_stats/assembly_stats/quast.log
+
+Finished: 2020-02-20 11:51:22
+Elapsed time: 0:06:17.003202
+NOTICEs: 5; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
