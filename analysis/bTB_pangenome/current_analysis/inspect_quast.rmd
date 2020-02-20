@@ -1,0 +1,93 @@
+---
+title: "M. bovis Genome Assembly Quality"
+author: "Noah A. Legall"
+date: "2/20/2020"
+output: html_document
+---
+
+# QUAST metric dictionary
+
+
+##No. of contigs: 
+The total number of contigs in the assembly.
+
+##Largest contig: 
+The length of the largest contig in the assembly.
+
+##Total length: 
+The total number of bases in the assembly.
+
+##Nx (where 0  x  100): 
+The largest contig length, L, such that using contigs of length. L accounts for at least x% of the bases of the assembly.
+
+##NGx, Genome Nx: 
+The contig length such that using equal or longer length contigs produces x% of the length of the reference genome, rather than x% of the assembly length.
+
+##No. of misassemblies: 
+The number of misassemblies, using Plantagora’s definition. Plantagora defines a misassembly breakpoint as a position in the assembled contigs where the left flanking sequence aligns over 1 kb away from the right flanking sequence on the reference, or they overlap by 41 kb, or the flanking sequences align on opposite strands or different chromosomes. QUAST also generates a report with the number of misassemblies because of each of these reasons. See the Supplementary Methods for details.
+
+##No. of misassembled contigs: 
+The number of contigs that contain misassembly breakpoints.
+
+##Misassembled contigs length: 
+The total number of bases contained in all contigs that have one or more misassemblies.
+
+##No. of unaligned contigs: 
+The number of contigs that have no alignment to the reference sequence.
+
+##No. of ambiguously mapped contigs: 
+The number of contigs that have high-scoring reference alignments of equal quality in multiple locations on the reference genome.
+
+##Genome fraction (%): 
+The total number of aligned bases in the reference, divided by the genome size. A base in the reference genome is counted as aligned if at least one contig has at least one alignment to this base. Contigs from repeat regions may map to multiple places, and thus may be counted multiple times in this quantity.
+
+##Duplication ratio: 
+The total number of aligned bases in the assembly i.e. total length minus unaligned contigs length), divided by the total number of aligned bases in the reference [see the genome fraction (%) metric]. If the assembly contains many contigs that cover the same regions of the reference, its duplication ratio may be much41. This may occur due to overestimating repeat multiplicities and due to small overlaps between contigs, among other reasons.
+
+##GC (%): 
+The total number of G and C nucleotides in the assembly, divided by the total length of the assembly. This metric can be computed without a reference genome.
+
+##No. of mismatches per 100 kb: 
+The average number of mismatches per 100 000 aligned bases. QUAST also generates a more detailed report with the coordinates of mismatches. This metric does not distinguish between single-nucleotide polymorphisms, which are true differences in the assembled genome versus the reference genome, and single-nucleotide errors, which are due to errors in reads or errors in the assembly algorithm.
+
+##No. of indels per 100 kb: 
+The average number of single nucleotide insertions or deletions per 100 000 aligned bases. A detailed report with coordinates of indels for all assemblies is also available.
+
+# SPAdes assembly summary statistics
+```{r}
+MI_assemb_stats <- read.csv("transposed_report.csv",header = TRUE)
+summary(MI_assemb_stats)
+```
+
+##Presence of outlier
+There seems to be a clear outlier, 09_4305_S4_L001.contigs. let's drop this row
+```{r}
+MI_assemb_stats <- MI_assemb_stats[MI_assemb_stats$Assembly != "09_4305_S4_L001.contigs",]
+summary(MI_assemb_stats)
+```
+I feel more confident because now all the genome lengths vary between 4.2 - 4.4 million bp. These values are about the size of the M. bovis reference genome.
+
+# Data Exploration
+## Distribution of the statistics QUAST outputs
+Visualize how the histograms compare to released numbers of M. bovis genome assembly statisitics. These are the comparable values from (Branger et al., 2017)
+```{r}
+total_length <- 4296059 
+total_contigs <- 146
+largest_contigs <- 237066
+gc_content <- 65.54
+n50 <- 98742
+```
+
+##Key distributions for genome assembly Quality
+```{r}
+hist(MI_assemb_stats$Total.length, main = "", xlab = "Total Length (bp)",breaks = 50)
+abline(v=total_length,col="red")
+hist(MI_assemb_stats$N50, main = "", xlab = "N50", breaks = 50)
+abline(v=n50,col="red")
+hist(MI_assemb_stats$X..contigs, main = "", xlab = "No. of contigs",breaks = 50) 
+abline(v=total_contigs,col="red")
+hist(MI_assemb_stats$Largest.contig, main = "", xlab = "Largest contig",breaks = 50)
+abline(v=largest_contigs,col="red")
+hist(MI_assemb_stats$GC...., main = "", xlab = "GC content (%)",breaks = 25)
+abline(v=gc_content,col="red")
+```
